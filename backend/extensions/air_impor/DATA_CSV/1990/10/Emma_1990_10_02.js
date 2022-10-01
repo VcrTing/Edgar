@@ -1,0 +1,3 @@
+{"tax_id":"288389","names":[{"lang":"en","v":"LUCKY OCEAN GARMENTS LIMITED"},{"lang":"hk","v":"迦汶有限公司"}],"company_since":"1990-10-02","company_dissolved":"2007-09-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"288473","names":[{"lang":"en","v":"WANG FAI PROPERTIES LIMITED"},{"lang":"hk","v":"宏暉香港置業有限公司"}],"company_since":"1990-10-02","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"288365","names":[{"lang":"en","v":"SILVERHILL LIMITED (d1998-11-13)"},{"lang":"hk","v":"銀山有限公司"}],"company_since":"1990-10-02","company_dissolved":"1998-11-13","company_type_txt":"Private, ltd by shares"},

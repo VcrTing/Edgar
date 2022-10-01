@@ -1,0 +1,1 @@
+{"tax_id":"151317","names":[{"lang":"en","v":"MAY MOON (KWAI CHUNG) BILLIARD ASSOCIATION LIMITED"},{"lang":"hk","v":"美滿(葵涌)桌球聯誼會有限公司"}],"company_since":"1985-05-15","company_dissolved":"1996-11-29","company_type_txt":"Ltd by guarantee"},

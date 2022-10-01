@@ -1,0 +1,1 @@
+{"tax_id":"290206","names":[{"lang":"en","v":"HOVER INDUSTRIAL LIMITED (d2003-09-26)"},{"lang":"hk","v":"浩快實業有限公司"}],"company_since":"1990-10-25","company_dissolved":"2003-09-26","company_type_txt":"Private, ltd by shares"},

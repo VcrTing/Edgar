@@ -1,0 +1,1 @@
+{"tax_id":"229169","names":[{"lang":"en","v":"FLYING COLOURS INVESTMENT LIMITED"},{"lang":"hk","v":"櫻盛投資有限公司"}],"company_since":"1988-10-04","company_dissolved":"2008-02-15","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,1 @@
+{"tax_id":"RT0000104","names":[{"lang":"en","v":"INCORPORATED TRUSTEES OF LAM PING KEE MEMORIAL EDUCATION FUND (THE)"},{"lang":"hk","v":"林炳祺紀念教育基金受託人法團"}],"company_since":"1994-03-04","company_dissolved":"1999-07-02","company_type_txt":"Trust"},

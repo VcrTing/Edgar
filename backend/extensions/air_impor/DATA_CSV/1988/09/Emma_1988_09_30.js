@@ -1,0 +1,3 @@
+{"tax_id":"228603","names":[{"lang":"en","v":"LIOU SWEN ENTERPRISES COMPANY LIMITED"},{"lang":"hk","v":"六順惠陽企業有限公司"}],"company_since":"1988-09-30","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"228737","names":[{"lang":"en","v":"DATAON COMPANY LIMITED"},{"lang":"hk","v":"科臻有限公司"}],"company_since":"1988-09-30","company_dissolved":"1992-09-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"228552","names":[{"lang":"en","v":"YEASON ENTERPRISES LIMITED"},{"lang":"hk","v":"盛勝企業有限公司"}],"company_since":"1988-09-30","company_dissolved":"2001-11-23","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,2 @@
+{"tax_id":"233889","names":[{"lang":"en","v":"POLYRICH SERVICES LIMITED"},{"lang":"hk","v":"栢利服務有限公司"}],"company_since":"1988-11-22","company_dissolved":"2002-06-30","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"233874","names":[{"lang":"en","v":"WAYBOND INDUSTRIES LIMITED"},{"lang":"hk","v":"大利(香港)有限公司"}],"company_since":"1988-11-22","company_dissolved":"1997-06-27","company_type_txt":"Private, ltd by shares"},

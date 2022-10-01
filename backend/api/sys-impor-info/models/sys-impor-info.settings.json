@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "sys_impor_infos",
+  "info": {
+    "name": "SysImporInfo",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "aiive": {
+      "type": "boolean",
+      "default": true
+    },
+    "start": {
+      "type": "datetime",
+      "default": "2001-12-31T16:00:00.000Z"
+    },
+    "end": {
+      "type": "datetime",
+      "default": "2002-02-01T04:00:00.000Z"
+    },
+    "origin_start": {
+      "type": "datetime",
+      "default": "1971-12-31T16:00:00.000Z"
+    },
+    "origin_end": {
+      "type": "datetime",
+      "default": "2022-07-31T16:00:00.000Z"
+    }
+  }
+}

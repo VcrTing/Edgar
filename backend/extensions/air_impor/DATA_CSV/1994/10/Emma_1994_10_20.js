@@ -1,0 +1,3 @@
+{"tax_id":"494452","names":[{"lang":"en","v":"L.Y. COMPANY LIMITED"},{"lang":"hk","v":"燎原實業有限公司"}],"company_since":"1994-10-20","company_dissolved":"2003-04-25","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"494496","names":[{"lang":"en","v":"LINKSEC CONSULTANTS LIMITED"},{"lang":"hk","v":"聯盛顧問有限公司"}],"company_since":"1994-10-20","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"494589","names":[{"lang":"en","v":"HAMPSON-RUSSELL SOFTWARE SERVICES (ASIA) LIMITED"}],"company_since":"1994-10-20","company_dissolved":"2003-05-09","company_type_txt":"Private, ltd by shares"},

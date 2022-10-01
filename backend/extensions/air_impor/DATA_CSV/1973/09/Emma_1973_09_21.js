@@ -1,0 +1,1 @@
+{"tax_id":"35468","names":[{"lang":"en","v":"YIU FUNG TRADERS LIMITED"},{"lang":"hk","v":"耀豐行有限公司"}],"company_since":"1973-09-21","company_dissolved":"2006-02-03","company_type_txt":"Private, ltd by shares"},

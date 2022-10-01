@@ -1,0 +1,4 @@
+{"tax_id":"47482","names":[{"lang":"en","v":"WESTFIELD LIMITED (d1979-07-06)"}],"company_since":"1976-05-14","company_dissolved":"1979-07-06","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"47503","names":[{"lang":"en","v":"YEE FUNG TEXTILES TRADING COMPANY LIMITED"}],"company_since":"1976-05-14","company_dissolved":"1993-06-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"47500","names":[{"lang":"en","v":"YEUNG, WONG &amp; LI COMPANY LIMITED"},{"lang":"hk","v":"楊黃李有限公司"}],"company_since":"1976-05-14","company_dissolved":"2020-03-27","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"47490","names":[{"lang":"en","v":"YUE PO ENGINEERING COMPANY LIMITED"},{"lang":"hk","v":"裕寶工程有限公司"}],"company_since":"1976-05-14","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

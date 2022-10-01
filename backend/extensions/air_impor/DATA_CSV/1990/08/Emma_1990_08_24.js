@@ -1,0 +1,3 @@
+{"tax_id":"285812","names":[{"lang":"en","v":"FAMOUSTECH INDUSTRIES LIMITED"},{"lang":"hk","v":"輝達實業有限公司"}],"company_since":"1990-08-24","company_dissolved":"2018-05-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"285848","names":[{"lang":"en","v":"HIGHBRIGHT TRADING COMPANY LIMITED"},{"lang":"hk","v":"申德貿易有限公司"}],"company_since":"1990-08-24","company_dissolved":"2014-09-12","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"285782","names":[{"lang":"en","v":"NICESOURCE INVESTMENTS LIMITED"},{"lang":"hk","v":"湛源投資有限公司"}],"company_since":"1990-08-24","company_dissolved":"1997-04-18","company_type_txt":"Private, ltd by shares"},

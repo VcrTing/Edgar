@@ -1,0 +1,58 @@
+{
+  "kind": "collectionType",
+  "collectionName": "reminds",
+  "info": {
+    "name": "Remind",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "unsure": {
+      "type": "boolean",
+      "default": false
+    },
+    "remind_date": {
+      "type": "string"
+    },
+    "company": {
+      "via": "remind",
+      "model": "company"
+    },
+    "rule": {
+      "type": "json"
+    },
+    "send_way_world": {
+      "type": "string"
+    },
+    "sends": {
+      "via": "remind",
+      "collection": "send"
+    },
+    "is_stop": {
+      "type": "boolean",
+      "default": false
+    },
+    "work_year": {
+      "type": "string",
+      "default": "_"
+    },
+    "send_date_real_str": {
+      "type": "string"
+    },
+    "send_date_since_real_str": {
+      "type": "string"
+    },
+    "send_typed": {
+      "type": "integer",
+      "default": 1
+    },
+    "send_typed_finish": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

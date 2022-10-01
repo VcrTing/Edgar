@@ -1,0 +1,3 @@
+{"tax_id":"173440","names":[{"lang":"en","v":"GROUP PROFIT DEVELOPMENT LIMITED (d2002-10-11)"},{"lang":"hk","v":"明俊發展有限公司"}],"company_since":"1986-08-12","company_dissolved":"2002-10-11","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"173409","names":[{"lang":"en","v":"FRIENDSALES ENTERPRISES LIMITED"},{"lang":"hk","v":"朋誼企業有限公司"}],"company_since":"1986-08-12","company_dissolved":"2003-02-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"173302","names":[{"lang":"en","v":"YING CHEONG ENGINEERING CO. LIMITED"},{"lang":"hk","v":"英昌工程有限公司"}],"company_since":"1986-08-12","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

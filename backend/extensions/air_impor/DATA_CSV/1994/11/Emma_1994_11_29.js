@@ -1,0 +1,3 @@
+{"tax_id":"498995","names":[{"lang":"en","v":"JT-INDUSTRIAL (HONG KONG) LIMITED"},{"lang":"hk","v":"港和實業(香港)有限公司"}],"company_since":"1994-11-29","company_dissolved":"2006-04-28","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"499074","names":[{"lang":"en","v":"METRO FIRST LIMITED (d2000-09-15)"},{"lang":"hk","v":"萬利快有限公司"}],"company_since":"1994-11-29","company_dissolved":"2000-09-15","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"498809","names":[{"lang":"en","v":"MEGA WELL ENTERPRISES LIMITED"},{"lang":"hk","v":"集旺企業有限公司"}],"company_since":"1994-11-29","company_dissolved":"2000-06-06","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,7 @@
+{"tax_id":"172637","names":[{"lang":"en","v":"SUSAN FUNG &amp; COMPANY LIMITED"}],"company_since":"1986-08-01","company_dissolved":"2003-07-11","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172708","names":[{"lang":"en","v":"SUCCESS LIGHT COMPANY LIMITED"},{"lang":"hk","v":"超亨有限公司"}],"company_since":"1986-08-01","company_dissolved":"2001-09-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172715","names":[{"lang":"en","v":"TUNG AH ZINC SPRAY COMPANY LIMITED"},{"lang":"hk","v":"東亞噴鋅有限公司"}],"company_since":"1986-08-01","company_dissolved":"1994-05-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172627","names":[{"lang":"en","v":"WELL HAND THERMOSTAT COMPANY LIMITED"},{"lang":"hk","v":"偉鴻電業有限公司"}],"company_since":"1986-08-01","company_dissolved":"2003-04-11","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172745","names":[{"lang":"en","v":"WALT DODLY LIMITED"},{"lang":"hk","v":"獲進利有限公司"}],"company_since":"1986-08-01","company_dissolved":"1997-06-27","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172616","names":[{"lang":"en","v":"WOLTECH LIMITED"},{"lang":"hk","v":"維特有限公司"}],"company_since":"1986-08-01","company_dissolved":"2006-12-15","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172811","names":[{"lang":"en","v":"SINO TIME COMPANY LIMITED"}],"company_since":"1986-08-01","company_dissolved":"1996-09-20","company_type_txt":"Private, ltd by shares"},

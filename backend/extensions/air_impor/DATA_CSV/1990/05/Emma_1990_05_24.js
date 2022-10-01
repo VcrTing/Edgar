@@ -1,0 +1,1 @@
+{"tax_id":"278591","names":[{"lang":"en","v":"GOLD STREAM COLLECTION LIMITED"},{"lang":"hk","v":"金時系列有限公司"}],"company_since":"1990-05-24","company_dissolved":"1997-06-13","company_type_txt":"Private, ltd by shares"},

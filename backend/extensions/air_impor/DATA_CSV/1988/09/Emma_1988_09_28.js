@@ -1,0 +1,2 @@
+{"tax_id":"228248","names":[{"lang":"en","v":"FANTASY-BAG PRODUCTS LIMITED"},{"lang":"hk","v":"雄裕袋廠有限公司"}],"company_since":"1988-09-28","company_dissolved":"2003-05-30","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"228212","names":[{"lang":"en","v":"TAI SHING PVC LEATHER COMPANY LIMITED"},{"lang":"hk","v":"大成膠皮有限公司"}],"company_since":"1988-09-28","company_dissolved":"2010-11-19","company_type_txt":"Private, ltd by shares"},

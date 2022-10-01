@@ -1,0 +1,2 @@
+{"tax_id":"264461","names":[{"lang":"en","v":"FAST ENOUGH DEVELOPMENT LIMITED"},{"lang":"hk","v":"夠快發展有限公司"}],"company_since":"1989-10-13","company_dissolved":"1999-09-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"264419","names":[{"lang":"en","v":"FITIGOOD COMPANY LIMITED"},{"lang":"hk","v":"發利好有限公司"}],"company_since":"1989-10-13","company_dissolved":"2011-08-11","company_type_txt":"Private, ltd by shares"},

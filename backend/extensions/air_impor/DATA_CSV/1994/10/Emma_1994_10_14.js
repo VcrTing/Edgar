@@ -1,0 +1,3 @@
+{"tax_id":"494068","names":[{"lang":"en","v":"GENERAL SUCCESS INTERNATIONAL INDUSTRIAL LIMITED"},{"lang":"hk","v":"俊成國際實業有限公司"}],"company_since":"1994-10-14","company_dissolved":"2003-08-15","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"494011","names":[{"lang":"en","v":"TOKIO INTERNATIONAL CO. LIMITED"},{"lang":"hk","v":"東奧國際有限公司"}],"company_since":"1994-10-14","company_dissolved":"2005-06-03","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"493917","names":[{"lang":"en","v":"GOLDEN CALF INTERNATIONAL TRADING CO. LIMITED"},{"lang":"hk","v":"鑫成國際貿易有限公司"}],"company_since":"1994-10-14","company_dissolved":"2002-12-20","company_type_txt":"Private, ltd by shares"},

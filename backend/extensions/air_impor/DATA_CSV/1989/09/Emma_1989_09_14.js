@@ -1,0 +1,3 @@
+{"tax_id":"263025","names":[{"lang":"en","v":"FORMAX DEVELOPMENT LIMITED (d1998-06-02)"},{"lang":"hk","v":"富泰實業有限公司"}],"company_since":"1989-09-14","company_dissolved":"1998-06-02","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"262994","names":[{"lang":"en","v":"STAR TRANS CONTAINER LINE LIMITED"}],"company_since":"1989-09-14","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"263047","names":[{"lang":"en","v":"TWIN CALIBER LIMITED"},{"lang":"hk","v":"高權有限公司"}],"company_since":"1989-09-14","company_dissolved":"2012-09-27","company_type_txt":"Private, ltd by shares"},

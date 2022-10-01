@@ -1,0 +1,4 @@
+{"tax_id":"499602","names":[{"lang":"en","v":"GENESIS (HK) AIRCONDITIONING COMPANY LIMITED"},{"lang":"hk","v":"建業(香港)冷氣工程有限公司"}],"company_since":"1994-12-06","company_dissolved":"2006-04-28","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"499805","names":[{"lang":"en","v":"ZENIA LIMITED (d2005-05-13)"}],"company_since":"1994-12-06","company_dissolved":"2005-05-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"499770","names":[{"lang":"en","v":"CHINA SEED INVESTMENTS LIMITED"},{"lang":"hk","v":"中善投資有限公司"}],"company_since":"1994-12-06","company_dissolved":"1999-05-14","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"499812","names":[{"lang":"en","v":"VIRTUOUS CO. LIMITED"},{"lang":"hk","v":"衛中有限公司"}],"company_since":"1994-12-06","company_dissolved":"2005-12-02","company_type_txt":"Private, ltd by shares"},

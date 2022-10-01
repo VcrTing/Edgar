@@ -1,0 +1,5 @@
+{"tax_id":"224705","names":[{"lang":"en","v":"POROCK MANAGEMENT LIMITED"},{"lang":"hk","v":"寶樂管理有限公司"}],"company_since":"1988-08-19","company_dissolved":"2002-01-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"224678","names":[{"lang":"en","v":"SUPER YEAR INDUSTRIES LIMITED"}],"company_since":"1988-08-19","company_dissolved":"1997-06-27","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"224732","names":[{"lang":"en","v":"LOTUS GEM LIMITED"},{"lang":"hk","v":"寶蓮有限公司"}],"company_since":"1988-08-19","company_dissolved":"2004-01-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"224997","names":[{"lang":"en","v":"FREERISE INVESTMENTS LIMITED"},{"lang":"hk","v":"賜昇投資有限公司"}],"company_since":"1988-08-19","company_dissolved":"2001-01-17","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"224988","names":[{"lang":"en","v":"GLAD BASE INVESTMENTS LIMITED"},{"lang":"hk","v":"欣基投資有限公司"}],"company_since":"1988-08-19","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

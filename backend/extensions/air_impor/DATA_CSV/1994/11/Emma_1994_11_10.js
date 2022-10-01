@@ -1,0 +1,3 @@
+{"tax_id":"496932","names":[{"lang":"en","v":"POWER PROMOTION (HONG KONG) COMPANY LIMITED"},{"lang":"hk","v":"威聚(香港)有限公司"}],"company_since":"1994-11-10","company_dissolved":"2000-11-03","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"496835","names":[{"lang":"en","v":"SUN CREST (CHINA) INVESTMENT LIMITED"},{"lang":"hk","v":"溢華(中國)投資有限公司"}],"company_since":"1994-11-10","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"496934","names":[{"lang":"en","v":"HEROWOOD INTERNATIONAL LIMITED"},{"lang":"hk","v":"鴻活國際有限公司"}],"company_since":"1994-11-10","company_dissolved":"2003-10-10","company_type_txt":"Private, ltd by shares"},

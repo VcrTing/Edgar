@@ -1,0 +1,1 @@
+{"tax_id":"146902","names":[{"lang":"en","v":"WING TAK SHIPPING AGENCY LIMITED"},{"lang":"hk","v":"永德船務代理有限公司"}],"company_since":"1985-02-06","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

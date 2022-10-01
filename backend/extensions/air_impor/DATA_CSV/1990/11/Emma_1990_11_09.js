@@ -1,0 +1,3 @@
+{"tax_id":"291423","names":[{"lang":"en","v":"GAINITY INVESTMENT LIMITED"},{"lang":"hk","v":"港宇投資有限公司"}],"company_since":"1990-11-09","company_dissolved":"1998-09-11","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"291152","names":[{"lang":"en","v":"STILLWELL INVESTMENTS LIMITED"},{"lang":"hk","v":"萬和投資有限公司"}],"company_since":"1990-11-09","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"291502","names":[{"lang":"en","v":"KARLUCK LIMITED (HK)"},{"lang":"hk","v":"嘉蕾有限公司"}],"company_since":"1990-11-09","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

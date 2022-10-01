@@ -1,0 +1,1 @@
+{"tax_id":"36530","names":[{"lang":"en","v":"WILSON DYEING ENTERPRISES LIMITED"},{"lang":"hk","v":"維新染廠企業有限公司"}],"company_since":"1973-12-11","company_dissolved":"1991-12-27","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,2 @@
+{"tax_id":"227609","names":[{"lang":"en","v":"INTERNATIONAL WENOICE LIMITED"},{"lang":"hk","v":"國際之星有限公司"}],"company_since":"1988-09-20","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"227364","names":[{"lang":"en","v":"DEEP STRONG INVESTMENTS LIMITED"},{"lang":"hk","v":"錦亮投資有限公司"}],"company_since":"1988-09-20","company_dissolved":"1993-07-06","company_type_txt":"Private, ltd by shares"},

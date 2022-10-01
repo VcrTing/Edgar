@@ -1,0 +1,1 @@
+{"tax_id":"35236","names":[{"lang":"en","v":"WELTECH ELECTRONICS LIMITED (d1995-05-26)"},{"lang":"hk","v":"威達電子有限公司"}],"company_since":"1973-09-04","company_dissolved":"1995-05-26","company_type_txt":"Private, ltd by shares"},

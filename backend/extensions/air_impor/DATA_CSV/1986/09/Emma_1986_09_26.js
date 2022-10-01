@@ -1,0 +1,5 @@
+{"tax_id":"175601","names":[{"lang":"en","v":"IMAGE DESIGN AND PRINTING COMPANY LIMITED"},{"lang":"hk","v":"意美印刷有限公司"}],"company_since":"1986-09-26","company_dissolved":"2004-07-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"175542","names":[{"lang":"en","v":"WAH TIN FOOK ENTERPRISES COMPANY LIMITED"},{"lang":"hk","v":"華天福企業有限公司"}],"company_since":"1986-09-26","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"175566","names":[{"lang":"en","v":"WILL CHANCE LIMITED (d2003-08-29)"},{"lang":"hk","v":"理運有限公司"}],"company_since":"1986-09-26","company_dissolved":"2003-08-29","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"175404","names":[{"lang":"en","v":"WORLDING SERVICES LIMITED"},{"lang":"hk","v":"世寧服務有限公司"}],"company_since":"1986-09-26","company_dissolved":"2003-08-29","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"175580","names":[{"lang":"en","v":"WILL WOOD LIMITED (d1997-10-31)"},{"lang":"hk","v":"理滙有限公司"}],"company_since":"1986-09-26","company_dissolved":"1997-10-31","company_type_txt":"Private, ltd by shares"},

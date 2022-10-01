@@ -1,0 +1,1 @@
+{"tax_id":"33137","names":[{"lang":"en","v":"WAI SHIU INVESTMENT &amp; AGENCY COMPANY LIMITED"},{"lang":"hk","v":"偉紹置業及代理有限公司"}],"company_since":"1973-04-27","company_dissolved":"1995-04-28","company_type_txt":"Private, ltd by shares"},

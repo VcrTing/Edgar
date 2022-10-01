@@ -1,0 +1,8 @@
+{"tax_id":"173179","names":[{"lang":"en","v":"FUNG TIN ENGINEERING COMPANY LIMITED"},{"lang":"hk","v":"豐田工程有限公司"}],"company_since":"1986-08-08","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"173143","names":[{"lang":"en","v":"GREAT MILESTONE COMPANY LIMITED"},{"lang":"hk","v":"啟煌實業有限公司"}],"company_since":"1986-08-08","company_dissolved":"2004-12-03","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"173045","names":[{"lang":"en","v":"NORTHERN CONSOLIDATORS (HONG KONG) LIMITED"},{"lang":"hk","v":"大鵬集運倉庫有限公司"}],"company_since":"1986-08-08","company_dissolved":"2001-01-05","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"173131","names":[{"lang":"en","v":"SINOWARD INDUSTRIAL LIMITED"},{"lang":"hk","v":"泰聯旺實業有限公司"}],"company_since":"1986-08-08","company_dissolved":"2003-02-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"173059","names":[{"lang":"en","v":"RIGHT SEASON INVESTMENTS LIMITED"},{"lang":"hk","v":"名朗投資有限公司"}],"company_since":"1986-08-08","company_dissolved":"2012-01-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"173046","names":[{"lang":"en","v":"K M L TRADING LIMITED"}],"company_since":"1986-08-08","company_dissolved":"1987-03-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"173123","names":[{"lang":"en","v":"WIN RICH EMBROIDERY GARMENT FACTORY LIMITED"},{"lang":"hk","v":"富澤製衣機綉廠有限公司"}],"company_since":"1986-08-08","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"173093","names":[{"lang":"en","v":"SOUNDWAVE INVESTMENT COMPANY LIMITED"},{"lang":"hk","v":"讚威投資有限公司"}],"company_since":"1986-08-08","company_dissolved":"1996-09-27","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,1 @@
+{"_index":"7","tax_id":"0001415","names":[{"lang":"hk","v":"BRITISH-AMERICAN TOBACCO COMPANY (HONG KONG) LIMITED"}],"company_since":"1919-02-27","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

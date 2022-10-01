@@ -1,0 +1,6 @@
+{"tax_id":"493497","names":[{"lang":"en","v":"GOODONE DEVELOPMENT LIMITED"},{"lang":"hk","v":"怡亨發展有限公司"}],"company_since":"1994-10-11","company_dissolved":"2001-04-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"493540","names":[{"lang":"en","v":"FAN WAH DECORATION COMPANY LIMITED"},{"lang":"hk","v":"繁華裝飾工程有限公司"}],"company_since":"1994-10-11","company_dissolved":"2011-06-17","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"493646","names":[{"lang":"en","v":"HAMILTON ASSETS LIMITED (d2000-10-13)"}],"company_since":"1994-10-11","company_dissolved":"2000-10-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"493776","names":[{"lang":"en","v":"HANG SENG CONSTRUCTION CO., LIMITED"},{"lang":"hk","v":"恒生建築有限公司"}],"company_since":"1994-10-11","company_dissolved":"2007-06-01","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"493588","names":[{"lang":"en","v":"FULL SHEUNG DEVELOPMENT LIMITED"},{"lang":"hk","v":"富上發展有限公司"}],"company_since":"1994-10-11","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"493492","names":[{"lang":"en","v":"WIN RUN LIMITED"},{"lang":"hk","v":"永綽有限公司"}],"company_since":"1994-10-11","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

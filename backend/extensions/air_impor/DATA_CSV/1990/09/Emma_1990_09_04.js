@@ -1,0 +1,2 @@
+{"tax_id":"286409","names":[{"lang":"en","v":"TAK KEUNG KEE MAGAZINE &amp; NEWSPAPER DISTRIBUTOR COMPANY LIMITED"},{"lang":"hk","v":"德強記書報社有限公司"}],"company_since":"1990-09-04","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"286388","names":[{"lang":"en","v":"EMPEROR MANAGEMENT SERVICES (HONG KONG) LIMITED"}],"company_since":"1990-09-04","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,1 @@
+{"tax_id":"77149","names":[{"lang":"en","v":"YUK'S ENTERPRISES LIMITED"},{"lang":"hk","v":"裕恩企業有限公司"}],"company_since":"1980-01-08","company_dissolved":"2016-01-29","company_type_txt":"Private, ltd by shares"},

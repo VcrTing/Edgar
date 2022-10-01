@@ -1,0 +1,8 @@
+{"tax_id":"258843","names":[{"lang":"en","v":"CRYSTAL CRUISE (HONG KONG) LIMITED"}],"company_since":"1989-07-21","company_dissolved":"1998-12-18","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"259135","names":[{"lang":"en","v":"CORVETTE SERVICES LIMITED"}],"company_since":"1989-07-21","company_dissolved":"1995-10-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"258739","names":[{"lang":"en","v":"ELLIOTT GORDON &amp; COMPANY LIMITED"}],"company_since":"1989-07-21","company_dissolved":"2005-07-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"259014","names":[{"lang":"en","v":"TACTOUR DEVELOPMENT LIMITED"},{"lang":"hk","v":"德圖發展有限公司"}],"company_since":"1989-07-21","company_dissolved":"2003-03-14","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"258710","names":[{"lang":"en","v":"DERRYHILL LIMITED"},{"lang":"hk","v":"達饒有限公司"}],"company_since":"1989-07-21","company_dissolved":"2003-09-05","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"259039","names":[{"lang":"en","v":"OWNLAND INDUSTRIAL LIMITED"},{"lang":"hk","v":"松宏實業有限公司"}],"company_since":"1989-07-21","company_dissolved":"1997-01-24","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"258667","names":[{"lang":"en","v":"GREAT SONIC LIMITED (d1998-10-09)"},{"lang":"hk","v":"興發來有限公司"}],"company_since":"1989-07-21","company_dissolved":"1998-10-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"258711","names":[{"lang":"en","v":"SWINFORD INDUSTRIES LIMITED"},{"lang":"hk","v":"富福實業有限公司"}],"company_since":"1989-07-21","company_dissolved":"2017-03-10","company_type_txt":"Private, ltd by shares"},

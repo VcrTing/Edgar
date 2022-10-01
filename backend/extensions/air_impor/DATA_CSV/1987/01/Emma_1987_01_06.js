@@ -1,0 +1,7 @@
+{"tax_id":"180666","names":[{"lang":"en","v":"UNIVERSAL PLUMBING COMPANY, LIMITED"},{"lang":"hk","v":"環球潔具工程有限公司"}],"company_since":"1987-01-06","company_dissolved":"2014-07-25","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"180727","names":[{"lang":"en","v":"VENLINES DEVELOPMENT LIMITED"},{"lang":"hk","v":"韻律發展有限公司"}],"company_since":"1987-01-06","company_dissolved":"2001-08-17","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"180652","names":[{"lang":"en","v":"VICTORIA DENTAL LABORATORY LIMITED"},{"lang":"hk","v":"維康牙科器材有限公司"}],"company_since":"1987-01-06","company_dissolved":"2006-03-17","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"180625","names":[{"lang":"en","v":"WAN LAI INVESTMENT LIMITED"},{"lang":"hk","v":"宏禮投資有限公司"}],"company_since":"1987-01-06","company_dissolved":"1996-10-18","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"180724","names":[{"lang":"en","v":"WHOLE SING LIMITED"},{"lang":"hk","v":"厚盛有限公司"}],"company_since":"1987-01-06","company_dissolved":"2002-04-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"180713","names":[{"lang":"en","v":"YORKFORM LIMITED (d1996-10-18)"}],"company_since":"1987-01-06","company_dissolved":"1996-10-18","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"180629","names":[{"lang":"en","v":"YUE KIN GROUP LIMITED"},{"lang":"hk","v":"粵健集團有限公司"}],"company_since":"1987-01-06","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

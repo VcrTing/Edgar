@@ -1,0 +1,2 @@
+{"tax_id":"36292","names":[{"lang":"en","v":"WONG TAI SIN SAN PO KONG FUNG WONG CHUEN YU LAN ASSOCIATION LIMITED"},{"lang":"hk","v":"黃大仙新蒲崗鳳凰村孟蘭會有限公司"}],"company_since":"1973-11-23","company_dissolved":"","company_type_txt":"Ltd by guarantee"},
+{"tax_id":"36284","names":[{"lang":"en","v":"WAH SUN PAPER PRODUCTS COMPANY LIMITED"},{"lang":"hk","v":"華新紙品廠有限公司"}],"company_since":"1973-11-23","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

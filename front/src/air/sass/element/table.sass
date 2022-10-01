@@ -1,0 +1,22 @@
+
+$tb-br: #dedede
+
+.table
+    border-radius: 9px
+    border: 1px solid $tb-br
+
+    .tr
+        font-weight: bold
+    .tr
+        padding: $ds_x2 $ds
+
+    .td
+        @extend .ttd_son
+
+        .td-in
+            padding: $ds_x2 $ds
+            border-top: 1px solid $tb-br
+
+    .td-empty
+        min-height: 5em
+        border-top: 1px solid $tb-br

@@ -1,0 +1,3 @@
+{"tax_id":"288583","names":[{"lang":"en","v":"TOWNPLAN DEVELOPMENT LIMITED"},{"lang":"hk","v":"登平發展有限公司"}],"company_since":"1990-10-05","company_dissolved":"1998-05-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"288737","names":[{"lang":"en","v":"GRAND SIGHT INDUSTRIAL LIMITED"},{"lang":"hk","v":"宏時實業有限公司"}],"company_since":"1990-10-05","company_dissolved":"2003-03-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"288675","names":[{"lang":"en","v":"MENSLINK CONSULTANTS LIMITED"},{"lang":"hk","v":"君滙顧問有限公司"}],"company_since":"1990-10-05","company_dissolved":"1998-10-16","company_type_txt":"Private, ltd by shares"},

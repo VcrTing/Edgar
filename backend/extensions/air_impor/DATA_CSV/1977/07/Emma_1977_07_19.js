@@ -1,0 +1,5 @@
+{"tax_id":"54341","names":[{"lang":"en","v":"TIN HAU TEMPLE RED INCENSE BURNER CAUSEWAY BAY TAI TZE FOOK TONG LIMITED (d1978-11-24)"},{"lang":"hk","v":"銅鑼灣天后古廟紅香爐戴氏福堂有限公司"}],"company_since":"1977-07-19","company_dissolved":"1978-11-24","company_type_txt":"Ltd by guarantee"},
+{"tax_id":"54382","names":[{"lang":"en","v":"ROYCE GARMENT LIMITED"},{"lang":"hk","v":"樂斯製衣有限公司"}],"company_since":"1977-07-19","company_dissolved":"1981-10-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"54351","names":[{"lang":"en","v":"STONENOX LIMITED"}],"company_since":"1977-07-19","company_dissolved":"1986-12-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"54347","names":[{"lang":"en","v":"TRANSCLEAR (H.K.) LIMITED"}],"company_since":"1977-07-19","company_dissolved":"1997-04-18","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"54369","names":[{"lang":"en","v":"SOUTH COUNTRY COSMETICS LIMITED"},{"lang":"hk","v":"南國化粧品有限公司"}],"company_since":"1977-07-19","company_dissolved":"1997-11-14","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,1 @@
+{"tax_id":"58022","names":[{"lang":"en","v":"MASCOT WATCH PRODUCTS MANUFACTURING COMPANY LIMITED"},{"lang":"hk","v":"馬士葛錶業製品廠有限公司"}],"company_since":"1978-01-17","company_dissolved":"1995-07-28","company_type_txt":"Private, ltd by shares"},

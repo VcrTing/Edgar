@@ -1,0 +1,4 @@
+{"tax_id":"177389","names":[{"lang":"en","v":"MANUKA LIMITED (d1998-04-13)"}],"company_since":"1986-10-31","company_dissolved":"1998-04-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"177422","names":[{"lang":"en","v":"MAGPIES COMPANY LIMITED"}],"company_since":"1986-10-31","company_dissolved":"2010-03-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"177323","names":[{"lang":"en","v":"REGAL LEADERS DEVELOPMENT LIMITED"},{"lang":"hk","v":"羣英發展有限公司"}],"company_since":"1986-10-31","company_dissolved":"2003-10-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"177452","names":[{"lang":"en","v":"PULLMONT INVESTMENT LIMITED"},{"lang":"hk","v":"保銘投資有限公司"}],"company_since":"1986-10-31","company_dissolved":"1994-06-30","company_type_txt":"Private, ltd by shares"},

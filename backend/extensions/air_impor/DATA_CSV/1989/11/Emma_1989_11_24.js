@@ -1,0 +1,4 @@
+{"tax_id":"266986","names":[{"lang":"en","v":"EASTERN RIDER LIMITED"},{"lang":"hk","v":"奔策有限公司"}],"company_since":"1989-11-24","company_dissolved":"2004-03-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"267004","names":[{"lang":"en","v":"RICH BOSS LIMITED (d1997-02-21)"},{"lang":"hk","v":"利波有限公司"}],"company_since":"1989-11-24","company_dissolved":"1997-02-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"267010","names":[{"lang":"en","v":"CROWN HUGE LIMITED (d2007-08-31)"},{"lang":"hk","v":"廣意有限公司"}],"company_since":"1989-11-24","company_dissolved":"2007-08-31","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"266992","names":[{"lang":"en","v":"DESIRE TREE LIMITED"},{"lang":"hk","v":"茂願有限公司"}],"company_since":"1989-11-24","company_dissolved":"2007-05-04","company_type_txt":"Private, ltd by shares"},

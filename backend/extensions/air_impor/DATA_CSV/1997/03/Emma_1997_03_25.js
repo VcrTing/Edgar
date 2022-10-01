@@ -1,0 +1,6 @@
+{"tax_id":"RT0000109","names":[{"lang":"en","v":"INCORPORATED TRUSTEES OF HEPHZIBAH EVANGELISTIC CENTRE, CHEUNG SHA WAN (CHURCH OF JESUS CHRIST) (THE)"},{"lang":"hk","v":"(長沙灣喜樂福音堂(基督耶穌的教會)受託人法團)"}],"company_since":"1997-03-25","company_dissolved":"","company_type_txt":"Trust"},
+undefined,
+{"tax_id":"RT0000109","names":[{"lang":"en","v":"INCORPORATED TRUSTEES OF HEPHZIBAH EVANGELISTIC CENTRE, CHEUNG SHA WAN (CHURCH OF JESUS CHRIST) (THE)"},{"lang":"hk","v":"(長沙灣喜樂福音堂(基督耶穌的教會)受託人法團)"}],"company_since":"1997-03-25","company_dissolved":"","company_type_txt":"Trust"},
+undefined,
+{"tax_id":"RT0000109","names":[{"lang":"en","v":"INCORPORATED TRUSTEES OF HEPHZIBAH EVANGELISTIC CENTRE, CHEUNG SHA WAN (CHURCH OF JESUS CHRIST) (THE)"},{"lang":"hk","v":"(長沙灣喜樂福音堂(基督耶穌的教會)受託人法團)"}],"company_since":"1997-03-25","company_dissolved":"","company_type_txt":"Trust"},
+undefined,

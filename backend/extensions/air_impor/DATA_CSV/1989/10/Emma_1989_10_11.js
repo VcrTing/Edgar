@@ -1,0 +1,1 @@
+{"tax_id":"264190","names":[{"lang":"en","v":"GOOD CHARM INVESTMENT LIMITED (d2002-04-19)"},{"lang":"hk","v":"谷俊投資有限公司"}],"company_since":"1989-10-11","company_dissolved":"2002-04-19","company_type_txt":"Private, ltd by shares"},

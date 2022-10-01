@@ -1,0 +1,6 @@
+{"tax_id":"235540","names":[{"lang":"en","v":"PEARLCORP LIMITED"},{"lang":"hk","v":"寶爾確有限公司"}],"company_since":"1988-12-09","company_dissolved":"1996-06-06","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"235397","names":[{"lang":"en","v":"POLLIAM (HOLDINGS) LIMITED"},{"lang":"hk","v":"寶林(控股)有限公司"}],"company_since":"1988-12-09","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"235489","names":[{"lang":"en","v":"TUNTEX (HONG KONG) COMPANY LIMITED"},{"lang":"hk","v":"東帝士(香港)有限公司"}],"company_since":"1988-12-09","company_dissolved":"2000-08-25","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"235706","names":[{"lang":"en","v":"LUCKY SCORE DEVELOPMENT LIMITED"},{"lang":"hk","v":"利士高發展有限公司"}],"company_since":"1988-12-09","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"235728","names":[{"lang":"en","v":"FUNLY LIMITED"}],"company_since":"1988-12-09","company_dissolved":"1997-04-25","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"235721","names":[{"lang":"en","v":"PRIME LEADER INVESTMENT LIMITED"},{"lang":"hk","v":"爵傑投資有限公司"}],"company_since":"1988-12-09","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

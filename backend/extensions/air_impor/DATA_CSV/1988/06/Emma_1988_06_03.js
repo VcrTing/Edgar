@@ -1,0 +1,4 @@
+{"tax_id":"217529","names":[{"lang":"en","v":"HASTING INDUSTRIAL LIMITED"},{"lang":"hk","v":"喜成實業有限公司"}],"company_since":"1988-06-03","company_dissolved":"1997-06-27","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"217583","names":[{"lang":"en","v":"MAIN CHOICE LIMITED (d1997-03-21)"},{"lang":"hk","v":"敏財有限公司"}],"company_since":"1988-06-03","company_dissolved":"1997-03-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"217569","names":[{"lang":"en","v":"UNIVERSAL FIRE ENGINEERING COMPANY LIMITED"},{"lang":"hk","v":"羅氏環球消防工程有限公司"}],"company_since":"1988-06-03","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"217672","names":[{"lang":"en","v":"LOOK FORWARD LIMITED (d1997-05-30)"},{"lang":"hk","v":"六確有限公司"}],"company_since":"1988-06-03","company_dissolved":"1997-05-30","company_type_txt":"Private, ltd by shares"},

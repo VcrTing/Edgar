@@ -1,0 +1,6 @@
+{"tax_id":"864315","names":[{"lang":"en","v":"CHAMP LUXURY INVESTMENT LIMITED"},{"lang":"hk","v":"卓濠投資有限公司"}],"company_since":"2003-10-03","company_dissolved":"2008-08-01","company_type_txt":"Private, ltd by shares"},
+undefined,
+{"tax_id":"864432","names":[{"lang":"en","v":"CHARTER FINANCIAL GROUP LIMITED"},{"lang":"hk","v":"卓達理財有限公司"}],"company_since":"2003-10-03","company_dissolved":"2008-07-18","company_type_txt":"Private, ltd by shares"},
+undefined,
+{"tax_id":"864320","names":[{"lang":"en","v":"CHI WAH INTERNATIONAL LIMITED"},{"lang":"hk","v":"志華國際(香港)有限公司"}],"company_since":"2003-10-03","company_dissolved":"2011-06-17","company_type_txt":"Private, ltd by shares"},
+undefined,

@@ -1,0 +1,6 @@
+{"tax_id":"495068","names":[{"lang":"en","v":"HESSE LAND LIMITED"}],"company_since":"1994-10-27","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"495160","names":[{"lang":"en","v":"NICE CASTLE INVESTMENT LIMITED (d2003-09-26)"},{"lang":"hk","v":"麗堡投資有限公司"}],"company_since":"1994-10-27","company_dissolved":"2003-09-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"495306","names":[{"lang":"en","v":"REGENT MAX INTERNATIONAL LIMITED"},{"lang":"hk","v":"群泰國際有限公司"}],"company_since":"1994-10-27","company_dissolved":"2000-05-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"495252","names":[{"lang":"en","v":"UNI EASTERN LIMITED"},{"lang":"hk","v":"環東有限公司"}],"company_since":"1994-10-27","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"495123","names":[{"lang":"en","v":"NEON ENTERPRISES LIMITED (HK)"},{"lang":"hk","v":"力安企業有限公司"}],"company_since":"1994-10-27","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"495179","names":[{"lang":"en","v":"CON-GREAT LIMITED"},{"lang":"hk","v":"廣鉅有限公司"}],"company_since":"1994-10-27","company_dissolved":"2005-10-14","company_type_txt":"Private, ltd by shares"},

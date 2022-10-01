@@ -1,0 +1,1 @@
+{"tax_id":"147424","names":[{"lang":"en","v":"SHELL LUBRICANTS (CHINA) LIMITED"},{"lang":"hk","v":"牌潤滑油(中國)有限公司"}],"company_since":"1985-02-23","company_dissolved":"1998-10-07","company_type_txt":"Private, ltd by shares"},

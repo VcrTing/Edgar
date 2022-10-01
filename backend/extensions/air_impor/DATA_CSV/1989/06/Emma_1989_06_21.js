@@ -1,0 +1,4 @@
+{"tax_id":"255774","names":[{"lang":"en","v":"EURO MASTER LIMITED (d1999-02-12)"}],"company_since":"1989-06-21","company_dissolved":"1999-02-12","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"255700","names":[{"lang":"en","v":"FORKSWAY COMPANY LIMITED"}],"company_since":"1989-06-21","company_dissolved":"2001-03-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"255727","names":[{"lang":"en","v":"HOUPAN INVESTMENT LIMITED"},{"lang":"hk","v":"厚彬投資有限公司"}],"company_since":"1989-06-21","company_dissolved":"1999-05-14","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"255772","names":[{"lang":"en","v":"FULL KING LEATHER SHOES FACTORY LIMITED"},{"lang":"hk","v":"富強皮革鞋廠有限公司"}],"company_since":"1989-06-21","company_dissolved":"2002-12-13","company_type_txt":"Private, ltd by shares"},

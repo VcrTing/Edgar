@@ -1,0 +1,4 @@
+{"tax_id":"172939","names":[{"lang":"en","v":"RIVA ENGINEERING LIMITED (d2002-01-18)"}],"company_since":"1986-08-05","company_dissolved":"2002-01-18","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172835","names":[{"lang":"en","v":"PROJECTS INSURANCE CONSULTANTS LIMITED"}],"company_since":"1986-08-05","company_dissolved":"2004-06-25","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172912","names":[{"lang":"en","v":"SILKWIN INVESTMENTS LIMITED"},{"lang":"hk","v":"超運投資有限公司"}],"company_since":"1986-08-05","company_dissolved":"1996-07-12","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172818","names":[{"lang":"en","v":"TOI SHAN ASSOCIATION EDUCATION ORGANIZATION LIMITED"},{"lang":"hk","v":"台山商會教育機構有限公司"}],"company_since":"1986-08-05","company_dissolved":"","company_type_txt":"Ltd by guarantee"},

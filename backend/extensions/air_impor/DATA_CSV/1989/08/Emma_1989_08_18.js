@@ -1,0 +1,2 @@
+{"tax_id":"261462","names":[{"lang":"en","v":"OUTSIDE WORLD LIMITED (d2004-09-24)"}],"company_since":"1989-08-18","company_dissolved":"2004-09-24","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"261499","names":[{"lang":"en","v":"HUNGS TECHNOLOGIES COMPANY LIMITED"},{"lang":"hk","v":"雄氏科技有限公司"}],"company_since":"1989-08-18","company_dissolved":"2020-09-30","company_type_txt":"Private, ltd by shares"},

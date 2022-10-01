@@ -1,0 +1,6 @@
+{"tax_id":"495995","names":[{"lang":"en","v":"DRAGON ACT LIMITED"},{"lang":"hk","v":"龍毅有限公司"}],"company_since":"1994-11-03","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"496026","names":[{"lang":"en","v":"HONOUR SHEEN INTERNATIONAL LIMITED"},{"lang":"hk","v":"漢潤國際有限公司"}],"company_since":"1994-11-03","company_dissolved":"2004-03-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"496208","names":[{"lang":"en","v":"SHEN'S (WATER-PROOF) GARMENT MANUFACTURING COMPANY LIMITED"},{"lang":"hk","v":"沈氏(防水)服裝製造廠有限公司"}],"company_since":"1994-11-03","company_dissolved":"1998-01-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"495907","names":[{"lang":"en","v":"FULL PENINSULA LIMITED"},{"lang":"hk","v":"富利島有限公司"}],"company_since":"1994-11-03","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"496156","names":[{"lang":"en","v":"KINWELL INDUSTRIES COMPANY LIMITED"},{"lang":"hk","v":"健銘實業有限公司"}],"company_since":"1994-11-03","company_dissolved":"2002-12-06","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"496034","names":[{"lang":"en","v":"JOINT BEST INTERNATIONAL LIMITED (d2002-08-09)"},{"lang":"hk","v":"群興國際有限公司"}],"company_since":"1994-11-03","company_dissolved":"2002-08-09","company_type_txt":"Private, ltd by shares"},

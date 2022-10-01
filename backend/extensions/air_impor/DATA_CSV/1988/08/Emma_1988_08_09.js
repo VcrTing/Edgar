@@ -1,0 +1,1 @@
+{"tax_id":"223631","names":[{"lang":"en","v":"LU LU FASHION COMPANY LIMITED"},{"lang":"hk","v":"露露時裝有限公司"}],"company_since":"1988-08-09","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

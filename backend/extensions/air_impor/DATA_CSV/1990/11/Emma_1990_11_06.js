@@ -1,0 +1,2 @@
+{"tax_id":"291078","names":[{"lang":"en","v":"SUPERNEW DEVELOPMENT LIMITED"},{"lang":"hk","v":"新超發展有限公司"}],"company_since":"1990-11-06","company_dissolved":"1997-07-25","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"290984","names":[{"lang":"en","v":"FAMOUS DRAGON LIMITED (d2004-03-26)"},{"lang":"hk","v":"企坤有限公司"}],"company_since":"1990-11-06","company_dissolved":"2004-03-26","company_type_txt":"Private, ltd by shares"},

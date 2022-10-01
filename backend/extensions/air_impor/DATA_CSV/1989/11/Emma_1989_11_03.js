@@ -1,0 +1,1 @@
+{"tax_id":"265692","names":[{"lang":"en","v":"PRIME PROSPECT ENGINEERING LIMITED"},{"lang":"hk","v":"嘉景工程有限公司"}],"company_since":"1989-11-03","company_dissolved":"2002-08-24","company_type_txt":"Private, ltd by shares"},

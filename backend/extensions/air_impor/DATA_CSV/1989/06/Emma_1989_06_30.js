@@ -1,0 +1,6 @@
+{"tax_id":"256746","names":[{"lang":"en","v":"FULL WHOLE INDUSTRIES LIMITED"},{"lang":"hk","v":"滿浩實業有限公司"}],"company_since":"1989-06-30","company_dissolved":"1994-04-11","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"256729","names":[{"lang":"en","v":"FANCO STONE &amp; BUILDING MATERIALS SUPPLIES COMPANY LIMITED"},{"lang":"hk","v":"汎高石業建材有限公司"}],"company_since":"1989-06-30","company_dissolved":"1998-09-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"256514","names":[{"lang":"en","v":"JUMBO OCEAN LIMITED (d1997-12-23)"},{"lang":"hk","v":"馳隆有限公司"}],"company_since":"1989-06-30","company_dissolved":"1997-12-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"256787","names":[{"lang":"en","v":"MAIN HUGE DEVELOPMENT LIMITED"},{"lang":"hk","v":"萬希發展有限公司"}],"company_since":"1989-06-30","company_dissolved":"1997-05-30","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"256581","names":[{"lang":"en","v":"TRI-UNION CHINALIGHT INVESTMENT LIMITED"},{"lang":"hk","v":"三聯輕工投資有限公司"}],"company_since":"1989-06-30","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"256660","names":[{"lang":"en","v":"FAMOUS KEEN INDUSTRIAL LIMITED"},{"lang":"hk","v":"名景實業有限公司"}],"company_since":"1989-06-30","company_dissolved":"2004-06-11","company_type_txt":"Private, ltd by shares"},

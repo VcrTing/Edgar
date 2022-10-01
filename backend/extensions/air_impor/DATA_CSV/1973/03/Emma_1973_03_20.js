@@ -1,0 +1,1 @@
+{"tax_id":"32553","names":[{"lang":"en","v":"YUE HWA CHINESE PRODUCTS EMPORIUM (INTERNATIONAL) LIMITED"},{"lang":"hk","v":"裕華中國百貨(國際)有限公司"}],"company_since":"1973-03-20","company_dissolved":"1995-06-30","company_type_txt":"Private, ltd by shares"},

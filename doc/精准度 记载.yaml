@@ -1,0 +1,5 @@
+获取精确时间:
+  const option = {  year: 'numeric', month: 'numeric', day: 'numeric' ,timeZone : "Asia/Hong_Kong" }
+  const da = new Date().toLocaleDateString('en-HK', options)
+
+  

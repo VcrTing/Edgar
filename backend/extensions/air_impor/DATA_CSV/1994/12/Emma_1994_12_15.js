@@ -1,0 +1,5 @@
+{"tax_id":"500805","names":[{"lang":"en","v":"PACIFIC RANK INDUSTRIAL LIMITED"},{"lang":"hk","v":"順榮實業有限公司"}],"company_since":"1994-12-15","company_dissolved":"2002-03-15","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"500631","names":[{"lang":"en","v":"PRECISION KING LIMITED"},{"lang":"hk","v":"依信有限公司"}],"company_since":"1994-12-15","company_dissolved":"2007-06-01","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"500759","names":[{"lang":"en","v":"HONEST POWER ENTERPRISES LIMITED"},{"lang":"hk","v":"誠力企業有限公司"}],"company_since":"1994-12-15","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"500723","names":[{"lang":"en","v":"RED ROSE SALOON COMPANY LIMITED"},{"lang":"hk","v":"紅玫瑰髮廊有限公司"}],"company_since":"1994-12-15","company_dissolved":"1998-10-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"500625","names":[{"lang":"en","v":"TONG SHENG (H.K.) LIMITED"},{"lang":"hk","v":"同聲(香港)有限公司"}],"company_since":"1994-12-15","company_dissolved":"2003-11-28","company_type_txt":"Private, ltd by shares"},

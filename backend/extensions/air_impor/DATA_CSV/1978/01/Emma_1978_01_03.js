@@ -1,0 +1,6 @@
+{"tax_id":"57745","names":[{"lang":"en","v":"MONCEAUX MARINE (HONG KONG) LIMITED"}],"company_since":"1978-01-03","company_dissolved":"1995-10-27","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"57747","names":[{"lang":"en","v":"VICFORD INVESTMENT COMPANY LIMITED"},{"lang":"hk","v":"域福置業有限公司"}],"company_since":"1978-01-03","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"57743","names":[{"lang":"en","v":"W. K. POON &amp; LAM LIMITED"}],"company_since":"1978-01-03","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"57769","names":[{"lang":"en","v":"MING CHEUNG MANUFACTURING COMPANY LIMITED"},{"lang":"hk","v":"名彰製造有限公司"}],"company_since":"1978-01-03","company_dissolved":"1991-06-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"57766","names":[{"lang":"en","v":"Sony Music Solutions Hong Kong Limited"}],"company_since":"1978-01-03","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"57773","names":[{"lang":"en","v":"POTTINGER ENTERPRISES LIMITED"}],"company_since":"1978-01-03","company_dissolved":"2000-03-17","company_type_txt":"Private, ltd by shares"},

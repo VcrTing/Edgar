@@ -1,0 +1,1 @@
+{"tax_id":"31929","names":[{"lang":"en","v":"YIMI GARMENT FACTORY LIMITED"},{"lang":"hk","v":"益美製衣廠有限公司"}],"company_since":"1973-02-13","company_dissolved":"1997-12-12","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,3 @@
+{"tax_id":"235803","names":[{"lang":"en","v":"PO HANG LEI AQUATIC PRODUCTS COMPANY LIMITED"},{"lang":"hk","v":"寶恒利水產有限公司"}],"company_since":"1988-12-13","company_dissolved":"1995-06-01","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"236062","names":[{"lang":"en","v":"PERFECT FINE LIMITED"}],"company_since":"1988-12-13","company_dissolved":"2007-09-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"236025","names":[{"lang":"en","v":"SOLAR FUND LIMITED"},{"lang":"hk","v":"團資有限公司"}],"company_since":"1988-12-13","company_dissolved":"1997-04-25","company_type_txt":"Private, ltd by shares"},

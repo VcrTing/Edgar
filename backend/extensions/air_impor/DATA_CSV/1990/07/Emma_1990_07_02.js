@@ -1,0 +1,1 @@
+{"tax_id":"281567","names":[{"lang":"en","v":"WONG TAI SIN COMMUNITY HEALTH PROMOTION ASSOCIATION"},{"lang":"hk","v":"黃大仙社康促進會"}],"company_since":"1990-07-02","company_dissolved":"2013-11-15","company_type_txt":"Ltd by guarantee"},

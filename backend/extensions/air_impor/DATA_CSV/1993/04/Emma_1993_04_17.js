@@ -1,0 +1,1 @@
+{"tax_id":"415564","names":[{"lang":"en","v":"RELIEF &amp; POVERTY ALLEVIATION ACTION LIMITED"},{"lang":"hk","v":"減災扶貧行動有限公司"}],"company_since":"1993-04-17","company_dissolved":"2008-01-12","company_type_txt":"Ltd by guarantee"},

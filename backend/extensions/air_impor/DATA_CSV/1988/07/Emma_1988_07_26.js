@@ -1,0 +1,1 @@
+{"tax_id":"222434","names":[{"lang":"en","v":"MARBLE SAND LIMITED"},{"lang":"hk","v":"銀沙有限公司"}],"company_since":"1988-07-26","company_dissolved":"1998-01-23","company_type_txt":"Private, ltd by shares"},

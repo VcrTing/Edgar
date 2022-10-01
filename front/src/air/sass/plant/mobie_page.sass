@@ -1,0 +1,37 @@
+
+@media screen and ( max-width: 770px )
+    .pl_input_detail
+        padding-left: $ds_x2 !important
+
+    .focus_tab_three
+        display: block
+        margin: 0px $ds
+        padding: $ds_s $ds
+        border-radius: 7.5px
+        border: 1px solid $def
+        li
+            width: 100%
+            max-width: 100%
+            padding: $ds_x $ds
+            .counter
+                justify-content: start
+        li.ftt_hr
+            position: relative
+            border: none
+            padding: 0
+            &::after
+                position: absolute
+                content: ''
+                left: 50%
+                height: 0
+                width: $ds_x2
+                border: none
+                transform: translateX(-50%)
+                boredr-top: 1px dashed #989999
+    
+    .tab_ftt_1
+        // margin-left: 0%
+    .tab_ftt_2
+        // margin-left: -90%
+    .tab_ftt_3
+        // margin-left: -160%

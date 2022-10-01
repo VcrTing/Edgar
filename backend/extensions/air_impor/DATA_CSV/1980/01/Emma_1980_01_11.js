@@ -1,0 +1,7 @@
+{"tax_id":"77357","names":[{"lang":"en","v":"STRIDDEN LIMITED"}],"company_since":"1980-01-11","company_dissolved":"1992-03-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"77338","names":[{"lang":"en","v":"SUPER GAIN LIMITED (d2002-04-26)"},{"lang":"hk","v":"超盈有限公司"}],"company_since":"1980-01-11","company_dissolved":"2002-04-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"77309","names":[{"lang":"en","v":"TANCY CHEMICALS AND PAINTS COMPANY LIMITED"},{"lang":"hk","v":"天喜化工漆油有限公司"}],"company_since":"1980-01-11","company_dissolved":"2014-10-17","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"77339","names":[{"lang":"en","v":"TECHNIC VALE LIMITED"},{"lang":"hk","v":"特浩有限公司"}],"company_since":"1980-01-11","company_dissolved":"2001-08-17","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"77381","names":[{"lang":"en","v":"WORLD-WIDE FUR LIMITED"},{"lang":"hk","v":"興業環球毛皮有限公司"}],"company_since":"1980-01-11","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"77307","names":[{"lang":"en","v":"YUE YICK INDUSTRIES LIMITED"},{"lang":"hk","v":"裕億實業有限公司"}],"company_since":"1980-01-11","company_dissolved":"1996-04-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"77280","names":[{"lang":"en","v":"YUEN TUNG TRADING LIMITED"},{"lang":"hk","v":"源通貿易有限公司"}],"company_since":"1980-01-11","company_dissolved":"2005-02-16","company_type_txt":"Private, ltd by shares"},

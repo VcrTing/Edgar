@@ -1,0 +1,1 @@
+{"tax_id":"210275","names":[{"lang":"en","v":"TECHSCIEN HOLDINGS LIMITED"},{"lang":"hk","v":"金帆集團有限公司"}],"company_since":"1988-02-15","company_dissolved":"2001-03-23","company_type_txt":"Private, ltd by shares"},

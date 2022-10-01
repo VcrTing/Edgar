@@ -1,0 +1,5 @@
+{"tax_id":"233505","names":[{"lang":"en","v":"RAINBOW SKIPPER COMPANY LIMITED"}],"company_since":"1988-11-18","company_dissolved":"2003-10-17","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"233172","names":[{"lang":"en","v":"LOYAL CONSULTANTS MANAGEMENT LIMITED"},{"lang":"hk","v":"金滙顧問管理有限公司"}],"company_since":"1988-11-18","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"233573","names":[{"lang":"en","v":"SAMELSA CORPORATION (HK) LIMITED"},{"lang":"hk","v":"森瑪(香港)有限公司"}],"company_since":"1988-11-18","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"233252","names":[{"lang":"en","v":"SUI MAN DEVELOPMENT LIMITED"},{"lang":"hk","v":"萃文發展有限公司"}],"company_since":"1988-11-18","company_dissolved":"2001-07-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"233236","names":[{"lang":"en","v":"DOTOMA LIMITED"}],"company_since":"1988-11-18","company_dissolved":"1997-04-25","company_type_txt":"Private, ltd by shares"},

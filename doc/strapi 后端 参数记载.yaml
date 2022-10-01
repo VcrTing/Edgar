@@ -1,0 +1,30 @@
+
+controller:
+  hanlder router logic
+  # Api 的背后实现
+
+  ctx:
+    类似于 文本 request
+
+    query:
+      LINK 参数
+
+  返回值:
+    const response = { }
+    ctx.send( response, 200 )
+
+
+  获取数据:
+    await strapi.query( 数据库 ).FUNCTION()
+  
+  将操作后的 query 数据 生成为 Api 结果数据:
+    await strapi.config.functions.utilities.sanitizeResponse( 数据 )
+
+  
+utils:
+  获取用户:
+    await strapi.config.functions.utilities.jwtToUser(ctx)
+  
+  生成时间
+    await strapi.config.functions.utilities.zeroPad()
+

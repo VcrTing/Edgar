@@ -1,0 +1,5 @@
+{"tax_id":"294552","names":[{"lang":"en","v":"SILVER MERIT LIMITED (d1997-04-18)"}],"company_since":"1990-12-21","company_dissolved":"1997-04-18","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"294343","names":[{"lang":"en","v":"SINODAN INDUSTRIES LIMITED"},{"lang":"hk","v":"中鼎實業有限公司"}],"company_since":"1990-12-21","company_dissolved":"1997-05-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"294468","names":[{"lang":"en","v":"SOLENZA LIMITED"}],"company_since":"1990-12-21","company_dissolved":"2004-01-02","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"294494","names":[{"lang":"en","v":"FLYING BLOOM DEVELOPMENT LIMITED"},{"lang":"hk","v":"飛盛發展有限公司"}],"company_since":"1990-12-21","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"294350","names":[{"lang":"en","v":"SASIA INVESTMENT LIMITED"},{"lang":"hk","v":"盛亞投資有限公司"}],"company_since":"1990-12-21","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,6 @@
+{"tax_id":"172124","names":[{"lang":"en","v":"JOLLIBEE INTERNATIONAL COMPANY LIMITED"},{"lang":"hk","v":"小樂蜂(國際)有限公司"}],"company_since":"1986-07-22","company_dissolved":"2005-06-17","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172193","names":[{"lang":"en","v":"KITECH HOTEL SUPPLIES COMPANY LIMITED"},{"lang":"hk","v":"基達酒店物料供應有限公司"}],"company_since":"1986-07-22","company_dissolved":"1998-02-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172116","names":[{"lang":"en","v":"ORIENTAL ACE DEVELOPMENT LIMITED (d1995-04-13)"},{"lang":"hk","v":"東浩發展有限公司"}],"company_since":"1986-07-22","company_dissolved":"1995-04-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172090","names":[{"lang":"en","v":"JESSIMEX ASIA LIMITED"},{"lang":"hk","v":"捷仕美亞洲有限公司"}],"company_since":"1986-07-22","company_dissolved":"2007-12-14","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172093","names":[{"lang":"en","v":"KINGS HERO INDUSTRIES LIMITED"},{"lang":"hk","v":"勁添實業有限公司"}],"company_since":"1986-07-22","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"172153","names":[{"lang":"en","v":"PERFECT CITY INVESTMENT LIMITED"},{"lang":"hk","v":"佳鎮投資有限公司"}],"company_since":"1986-07-22","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

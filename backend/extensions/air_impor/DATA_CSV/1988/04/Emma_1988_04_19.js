@@ -1,0 +1,8 @@
+{"tax_id":"214209","names":[{"lang":"en","v":"WELMAX LIMITED (HK)"}],"company_since":"1988-04-19","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"214202","names":[{"lang":"en","v":"WINEDEN LIMITED"},{"lang":"hk","v":"衞鋒有限公司"}],"company_since":"1988-04-19","company_dissolved":"1997-03-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"214171","names":[{"lang":"en","v":"WING BUN INVESTMENT LIMITED"},{"lang":"hk","v":"榮濱投資有限公司"}],"company_since":"1988-04-19","company_dissolved":"2002-06-14","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"214196","names":[{"lang":"en","v":"WINLION LIMITED (d1996-06-01)"}],"company_since":"1988-04-19","company_dissolved":"1996-06-01","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"214214","names":[{"lang":"en","v":"WINOLTON LIMITED"},{"lang":"hk","v":"科鉅國際有限公司"}],"company_since":"1988-04-19","company_dissolved":"2002-12-06","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"214205","names":[{"lang":"en","v":"WINOTTO LIMITED"}],"company_since":"1988-04-19","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"214215","names":[{"lang":"en","v":"WINOW LIMITED"}],"company_since":"1988-04-19","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"214102","names":[{"lang":"en","v":"KENLAKE HOLDINGS LIMITED"}],"company_since":"1988-04-19","company_dissolved":"1997-04-18","company_type_txt":"Private, ltd by shares"},

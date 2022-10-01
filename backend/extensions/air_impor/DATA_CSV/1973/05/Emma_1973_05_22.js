@@ -1,0 +1,3 @@
+{"tax_id":"33657","names":[{"lang":"en","v":"WGRLEX ENTERPRISES LIMITED"},{"lang":"hk","v":"偉來企業有限公司"}],"company_since":"1973-05-22","company_dissolved":"2005-10-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"33626","names":[{"lang":"en","v":"WUI SING ENTERPRISES LIMITED"},{"lang":"hk","v":"滙昇企業有限公司"}],"company_since":"1973-05-22","company_dissolved":"2002-10-18","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"33697","names":[{"lang":"en","v":"WATER-JEL HONG KONG LIMITED"}],"company_since":"1973-05-22","company_dissolved":"2000-01-14","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,1 @@
+{"tax_id":"33202","names":[{"lang":"en","v":"WAI SANG METAL MANUFACTORY LIMITED"},{"lang":"hk","v":"偉生五金製品廠有限公司"}],"company_since":"1973-05-01","company_dissolved":"1996-01-22","company_type_txt":"Private, ltd by shares"},

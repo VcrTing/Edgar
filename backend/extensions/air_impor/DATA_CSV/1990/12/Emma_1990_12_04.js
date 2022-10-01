@@ -1,0 +1,3 @@
+{"tax_id":"292936","names":[{"lang":"en","v":"EDIFY INVESTMENTS LIMITED"},{"lang":"hk","v":"啓合投資有限公司"}],"company_since":"1990-12-04","company_dissolved":"2002-04-12","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"292887","names":[{"lang":"en","v":"HIGH RANK FOOD (HONG KONG) LIMITED"},{"lang":"hk","v":"萬基食品(香港)有限公司"}],"company_since":"1990-12-04","company_dissolved":"2006-08-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"292969","names":[{"lang":"en","v":"FINE POINT OUTPUT SERVICES LIMITED"}],"company_since":"1990-12-04","company_dissolved":"2001-08-24","company_type_txt":"Private, ltd by shares"},

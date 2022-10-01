@@ -1,0 +1,2 @@
+{"tax_id":"230356","names":[{"lang":"en","v":"REGAL VIEW INVESTMENT LIMITED"},{"lang":"hk","v":"恒祿投資有限公司"}],"company_since":"1988-10-14","company_dissolved":"2002-01-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"230282","names":[{"lang":"en","v":"EMPIRE YIELD LIMITED (d1998-09-17)"},{"lang":"hk","v":"帝益有限公司"}],"company_since":"1988-10-14","company_dissolved":"1998-09-17","company_type_txt":"Private, ltd by shares"},

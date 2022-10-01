@@ -1,0 +1,1 @@
+{"tax_id":"33284","names":[{"lang":"en","v":"WAI YUEN CHEONG AND COMPANY (KOWLOON) LIMITED"},{"lang":"hk","v":"惠元昌(九龍)有限公司"}],"company_since":"1973-05-04","company_dissolved":"2016-01-08","company_type_txt":"Private, ltd by shares"},

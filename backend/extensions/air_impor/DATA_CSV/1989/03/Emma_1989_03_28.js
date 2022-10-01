@@ -1,0 +1,1 @@
+{"tax_id":"246769","names":[{"lang":"en","v":"GRANTHAM COLLEGE OF EDUCATION PAST STUDENTS' ASSOCIATION"},{"lang":"hk","v":"葛量洪教育學院校友會"}],"company_since":"1989-03-28","company_dissolved":"","company_type_txt":"Ltd by guarantee"},

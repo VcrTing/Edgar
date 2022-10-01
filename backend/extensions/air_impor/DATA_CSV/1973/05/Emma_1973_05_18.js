@@ -1,0 +1,1 @@
+{"tax_id":"33492","names":[{"lang":"en","v":"YIELDLY OVERSEAS INVESTMENT LIMITED"},{"lang":"hk","v":"有利海外投資有限公司"}],"company_since":"1973-05-18","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

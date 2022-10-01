@@ -1,0 +1,1 @@
+{"tax_id":"34716","names":[{"lang":"en","v":"YUSEN LOGISTICS (HONG KONG) LIMITED"},{"lang":"hk","v":"郵船物流(香港)有限公司"}],"company_since":"1973-07-24","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

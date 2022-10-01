@@ -1,0 +1,4 @@
+{"tax_id":"173693","names":[{"lang":"en","v":"GALENT ENGINEERING LIMITED"},{"lang":"hk","v":"嘉林技術有限公司"}],"company_since":"1986-08-15","company_dissolved":"1998-10-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"173650","names":[{"lang":"en","v":"JERMYN LIMITED (d1997-01-31)"}],"company_since":"1986-08-15","company_dissolved":"1997-01-31","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"173506","names":[{"lang":"en","v":"JADE VALUE COMPANY LIMITED"},{"lang":"hk","v":"金滿多有限公司"}],"company_since":"1986-08-15","company_dissolved":"1996-05-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"173631","names":[{"lang":"en","v":"FULLYSON ENGINEERING LIMITED"},{"lang":"hk","v":"富而順工程有限公司"}],"company_since":"1986-08-15","company_dissolved":"2000-12-22","company_type_txt":"Private, ltd by shares"},

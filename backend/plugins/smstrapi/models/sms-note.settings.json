@@ -1,0 +1,44 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sms-note",
+  "info": {
+    "name": "SmsNote",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "content": {
+      "type": "text"
+    },
+    "phoned_prefix": {
+      "type": "string"
+    },
+    "phoned": {
+      "type": "string"
+    },
+    "mark": {
+      "type": "string"
+    },
+    "send_day": {
+      "type": "date"
+    },
+    "hour": {
+      "type": "integer"
+    },
+    "send_status": {
+      "type": "boolean"
+    },
+    "send_active": {
+      "type": "boolean",
+      "default": true
+    },
+    "is_fail": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

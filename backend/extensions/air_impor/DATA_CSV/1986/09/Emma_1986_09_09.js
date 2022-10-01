@@ -1,0 +1,3 @@
+{"tax_id":"174635","names":[{"lang":"en","v":"LEUNG FAT CONSTRUCTION &amp; ENGINEERING COMPANY LIMITED"},{"lang":"hk","v":"良發工程有限公司"}],"company_since":"1986-09-09","company_dissolved":"2001-11-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"174638","names":[{"lang":"en","v":"S &amp; S LIDO LIMITED"}],"company_since":"1986-09-09","company_dissolved":"2007-03-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"174521","names":[{"lang":"en","v":"MBM (FAR EAST) LIMITED"}],"company_since":"1986-09-09","company_dissolved":"2003-06-27","company_type_txt":"Private, ltd by shares"},

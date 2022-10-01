@@ -1,0 +1,4 @@
+{"tax_id":"288218","names":[{"lang":"en","v":"STARSIGN INVESTMENT LIMITED"},{"lang":"hk","v":"星順投資有限公司"}],"company_since":"1990-09-28","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"288263","names":[{"lang":"en","v":"RANDI DEVELOPMENT LIMITED"},{"lang":"hk","v":"津田發展有限公司"}],"company_since":"1990-09-28","company_dissolved":"2011-04-01","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"288255","names":[{"lang":"en","v":"MAN YING DEVELOPMENT LIMITED (d2005-09-16)"},{"lang":"hk","v":"文英發展有限公司"}],"company_since":"1990-09-28","company_dissolved":"2005-09-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"288135","names":[{"lang":"en","v":"TURN TARGET DEVELOPMENT LIMITED"},{"lang":"hk","v":"精昶發展有限公司"}],"company_since":"1990-09-28","company_dissolved":"1997-07-04","company_type_txt":"Private, ltd by shares"},

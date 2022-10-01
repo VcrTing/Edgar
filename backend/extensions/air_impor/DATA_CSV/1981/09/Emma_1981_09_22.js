@@ -1,0 +1,3 @@
+{"tax_id":"103166","names":[{"lang":"en","v":"MIN JIAN COMPANY LIMITED"},{"lang":"hk","v":"民建有限公司"}],"company_since":"1981-09-22","company_dissolved":"2006-03-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"103259","names":[{"lang":"en","v":"MINKFAIR COMPANY LIMITED"}],"company_since":"1981-09-22","company_dissolved":"2015-10-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"103266","names":[{"lang":"en","v":"MAYAN INVESTMENTS LIMITED (d1996-11-01)"},{"lang":"hk","v":"添利投資有限公司"}],"company_since":"1981-09-22","company_dissolved":"1996-11-01","company_type_txt":"Private, ltd by shares"},

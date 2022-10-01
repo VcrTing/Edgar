@@ -1,0 +1,3 @@
+{"tax_id":"294213","names":[{"lang":"en","v":"TRANS-ASIA HOLDINGS LIMITED"},{"lang":"hk","v":"寰亞集團有限公司"}],"company_since":"1990-12-18","company_dissolved":"2018-06-01","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"294133","names":[{"lang":"en","v":"ERA ENTERTAINMENT SOFTWARE LIMITED"},{"lang":"hk","v":"年代影視傳訊有限公司"}],"company_since":"1990-12-18","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"294247","names":[{"lang":"en","v":"LUCKHILL INVESTMENT LIMITED"},{"lang":"hk","v":"仕林投資有限公司"}],"company_since":"1990-12-18","company_dissolved":"1997-05-09","company_type_txt":"Private, ltd by shares"},

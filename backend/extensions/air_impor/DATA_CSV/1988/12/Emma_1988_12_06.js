@@ -1,0 +1,1 @@
+{"tax_id":"235163","names":[{"lang":"en","v":"GLORYORK INDUSTRIAL LIMITED"},{"lang":"hk","v":"金邑實業有限公司"}],"company_since":"1988-12-06","company_dissolved":"2003-05-09","company_type_txt":"Private, ltd by shares"},

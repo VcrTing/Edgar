@@ -1,0 +1,1 @@
+{"tax_id":"RT0000069","names":[{"lang":"en","v":"INCORPORATED TRUSTEES OF THE PENTECOSTAL CHURCH OF GOD HONG KONG AND MACAU (THE)"},{"lang":"en","v":""}],"company_since":"1981-03-19","company_dissolved":"","company_type_txt":"Trust"},

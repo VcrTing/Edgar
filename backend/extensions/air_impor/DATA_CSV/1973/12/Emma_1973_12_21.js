@@ -1,0 +1,1 @@
+{"tax_id":"36679","names":[{"lang":"en","v":"WINNING INTERNATIONAL LIMITED (d1997-04-02)"},{"lang":"hk","v":"永寧國際有限公司"}],"company_since":"1973-12-21","company_dissolved":"1997-04-02","company_type_txt":"Private, ltd by shares"},

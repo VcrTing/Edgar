@@ -1,0 +1,4 @@
+{"tax_id":"109523","names":[{"lang":"en","v":"HONG KONG &amp; KOWLOON TEA TRADE MERCHANTS ASSOCIATION LIMITED"},{"lang":"hk","v":"港九茶葉行商會有限公司"}],"company_since":"1982-03-09","company_dissolved":"","company_type_txt":"Ltd by guarantee"},
+{"tax_id":"109586","names":[{"lang":"en","v":"MAR SHING GARMENT FACTORY LIMITED"},{"lang":"hk","v":"萬盛製衣廠有限公司"}],"company_since":"1982-03-09","company_dissolved":"1998-05-15","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"109541","names":[{"lang":"en","v":"OFFSHORE RESOURCES LIMITED (d2003-04-04)"}],"company_since":"1982-03-09","company_dissolved":"2003-04-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"109565","names":[{"lang":"en","v":"YEN YI LIMITED"}],"company_since":"1982-03-09","company_dissolved":"2010-01-22","company_type_txt":"Private, ltd by shares"},

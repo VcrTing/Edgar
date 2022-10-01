@@ -1,0 +1,3 @@
+{"tax_id":"175687","names":[{"lang":"en","v":"LEBOW GARMENTS FACTORY LIMITED"},{"lang":"hk","v":"霍氏利寶製衣有限公司"}],"company_since":"1986-09-30","company_dissolved":"2012-09-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"175675","names":[{"lang":"en","v":"ORIENTAL PUBLICATIONS LIMITED"},{"lang":"hk","v":"東方出版社有限公司"}],"company_since":"1986-09-30","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"175674","names":[{"lang":"en","v":"HIGHWAY 88 MODELLING AND PROMOTION COMPANY LIMITED"},{"lang":"hk","v":"高速88模特兒推廣製作有限公司"}],"company_since":"1986-09-30","company_dissolved":"1997-01-31","company_type_txt":"Private, ltd by shares"},

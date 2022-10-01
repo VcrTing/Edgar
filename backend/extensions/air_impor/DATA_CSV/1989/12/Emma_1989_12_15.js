@@ -1,0 +1,5 @@
+{"tax_id":"268293","names":[{"lang":"en","v":"RICA BUILDING MATERIALS CO., LIMITED"},{"lang":"hk","v":"偉嘉建築材料有限公司"}],"company_since":"1989-12-15","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"268260","names":[{"lang":"en","v":"PERFECT GARDEN LIMITED"},{"lang":"hk","v":"善庭有限公司"}],"company_since":"1989-12-15","company_dissolved":"2002-06-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"268323","names":[{"lang":"en","v":"GOOD NEST LIMITED"},{"lang":"hk","v":"君政世紀有限公司"}],"company_since":"1989-12-15","company_dissolved":"2013-09-06","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"268128","names":[{"lang":"en","v":"W. HING CONSTRUCTION COMPANY LIMITED"},{"lang":"hk","v":"永興聯合建築有限公司"}],"company_since":"1989-12-15","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"268217","names":[{"lang":"en","v":"WING WAH HONG MACHINE MARKET LIMITED"},{"lang":"hk","v":"永華行機械市場有限公司"}],"company_since":"1989-12-15","company_dissolved":"2001-06-15","company_type_txt":"Private, ltd by shares"},

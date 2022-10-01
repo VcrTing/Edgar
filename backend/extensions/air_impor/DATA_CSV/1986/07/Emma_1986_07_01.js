@@ -1,0 +1,1 @@
+{"tax_id":"171081","names":[{"lang":"en","v":"FULLRICH INDUSTRIAL COMPANY LIMITED"},{"lang":"hk","v":"富恒實業有限公司"}],"company_since":"1986-07-01","company_dissolved":"1996-11-22","company_type_txt":"Private, ltd by shares"},

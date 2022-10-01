@@ -1,0 +1,8 @@
+{"tax_id":"493454","names":[{"lang":"en","v":"NELSON &amp; ENTERPRISE STEVEDORING LIMITED"},{"lang":"hk","v":"力信行有限公司"}],"company_since":"1994-10-06","company_dissolved":"2002-02-15","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"493254","names":[{"lang":"en","v":"RICH STAR HOLDINGS LIMITED"},{"lang":"hk","v":"利源集團有限公司"}],"company_since":"1994-10-06","company_dissolved":"2004-03-12","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"493269","names":[{"lang":"en","v":"NEW HARVEST HOTEL CONSULTANCY COMPANY LIMITED"},{"lang":"hk","v":"美雅酒店顧問有限公司"}],"company_since":"1994-10-06","company_dissolved":"2001-03-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"493320","names":[{"lang":"en","v":"SCORE CENTURY OVERSEAS DEVELOPMENT LIMITED"},{"lang":"hk","v":"志新海外發展有限公司"}],"company_since":"1994-10-06","company_dissolved":"2001-06-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"493381","names":[{"lang":"en","v":"OCEANIC RICH LIMITED"},{"lang":"hk","v":"浚福有限公司"}],"company_since":"1994-10-06","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"493438","names":[{"lang":"en","v":"SMART WIN INVESTMENT LIMITED (d2008-05-09)"},{"lang":"hk","v":"益俊投資有限公司"}],"company_since":"1994-10-06","company_dissolved":"2008-05-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"493291","names":[{"lang":"en","v":"GOOD SPREAD DEVELOPMENT LIMITED (d2007-02-16)"},{"lang":"hk","v":"展升發展有限公司"}],"company_since":"1994-10-06","company_dissolved":"2007-02-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"493277","names":[{"lang":"en","v":"KASHA TRADING LIMITED"}],"company_since":"1994-10-06","company_dissolved":"1998-10-14","company_type_txt":"Private, ltd by shares"},

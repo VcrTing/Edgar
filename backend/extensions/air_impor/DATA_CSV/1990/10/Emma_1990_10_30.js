@@ -1,0 +1,3 @@
+{"tax_id":"290423","names":[{"lang":"en","v":"GLAREROLL INVESTMENT LIMITED"},{"lang":"hk","v":"輝滔投資有限公司"}],"company_since":"1990-10-30","company_dissolved":"2005-10-14","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"290343","names":[{"lang":"en","v":"TAK HING POLYBAGS LIMITED"},{"lang":"hk","v":"德興膠袋有限公司"}],"company_since":"1990-10-30","company_dissolved":"2003-10-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"290469","names":[{"lang":"en","v":"JET UNICORN INVESTMENTS LIMITED"},{"lang":"hk","v":"集麟投資有限公司"}],"company_since":"1990-10-30","company_dissolved":"2005-10-14","company_type_txt":"Private, ltd by shares"},

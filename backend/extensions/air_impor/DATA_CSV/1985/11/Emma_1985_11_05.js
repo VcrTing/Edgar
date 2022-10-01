@@ -1,0 +1,1 @@
+{"tax_id":"161156","names":[{"lang":"en","v":"ZZF ENERGY TECHNOLOGY COMPANY LIMITED"},{"lang":"hk","v":"正大能源技術有限公司"}],"company_since":"1985-11-05","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

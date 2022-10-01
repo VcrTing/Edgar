@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sms-key",
+  "info": {
+    "name": "SmsKey"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "key": {
+      "type": "string"
+    },
+    "token": {
+      "type": "string"
+    },
+    "token_suffix": {
+      "type": "string"
+    },
+    "sender": {
+      "type": "string"
+    },
+    "mark": {
+      "type": "string"
+    },
+    "status": {
+      "type": "boolean",
+      "default": true
+    },
+    "key_type": {
+      "type": "string"
+    }
+  }
+}

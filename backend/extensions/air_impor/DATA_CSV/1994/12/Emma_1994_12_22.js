@@ -1,0 +1,2 @@
+{"tax_id":"501476","names":[{"lang":"en","v":"KAM HO MOTORS COMPANY LIMITED"},{"lang":"hk","v":"金浩汽車有限公司"}],"company_since":"1994-12-22","company_dissolved":"2000-08-02","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"501297","names":[{"lang":"en","v":"MORE KIND INVESTMENT LIMITED"},{"lang":"hk","v":"多仁投資有限公司"}],"company_since":"1994-12-22","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

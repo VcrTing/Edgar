@@ -1,0 +1,1 @@
+{"tax_id":"494237","names":[{"lang":"en","v":"HONEST ADD TRADING CO. LIMITED"},{"lang":"hk","v":"誠力貿易有限公司"}],"company_since":"1994-10-18","company_dissolved":"2004-01-09","company_type_txt":"Private, ltd by shares"},

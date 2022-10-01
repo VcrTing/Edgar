@@ -1,0 +1,1 @@
+{"tax_id":"SO9000088","names":[{"lang":"en","v":"SECURITIES AND FUTURES COMMISSION"},{"lang":"hk","v":"證券及期貨事務監察委員會"}],"company_since":"1989-05-01","company_dissolved":"","company_type_txt":"Inc by ordinance"},

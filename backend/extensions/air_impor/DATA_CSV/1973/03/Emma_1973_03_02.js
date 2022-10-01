@@ -1,0 +1,1 @@
+{"tax_id":"32226","names":[{"lang":"en","v":"WAH HING FUK INVESTMENT COMPANY LIMITED"},{"lang":"hk","v":"華慶福置業有限公司"}],"company_since":"1973-03-02","company_dissolved":"1994-12-09","company_type_txt":"Private, ltd by shares"},

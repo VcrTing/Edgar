@@ -1,0 +1,3 @@
+{"tax_id":"289754","names":[{"lang":"en","v":"LOYAL SUCCESS INVESTMENTS LIMITED"},{"lang":"hk","v":"萊城投資有限公司"}],"company_since":"1990-10-23","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"289798","names":[{"lang":"en","v":"JONYI ADVANCE INDUSTRIAL (CHINA) LIMITED"},{"lang":"hk","v":"中億先進工業(中國)有限公司"}],"company_since":"1990-10-23","company_dissolved":"2003-11-14","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"289948","names":[{"lang":"en","v":"LUCKY ZONE DEVELOPMENT LIMITED"},{"lang":"hk","v":"好事域發展有限公司"}],"company_since":"1990-10-23","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

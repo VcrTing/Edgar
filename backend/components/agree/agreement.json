@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_agree_agreements",
+  "info": {
+    "name": "Agreement",
+    "icon": "align-left"
+  },
+  "options": {},
+  "attributes": {
+    "is_coiiect": {
+      "type": "boolean"
+    },
+    "is_deal_with": {
+      "type": "boolean"
+    },
+    "is_sales_message": {
+      "type": "boolean"
+    },
+    "is_personal_info": {
+      "type": "boolean"
+    }
+  }
+}

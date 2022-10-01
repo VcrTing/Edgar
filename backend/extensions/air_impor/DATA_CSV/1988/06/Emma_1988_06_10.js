@@ -1,0 +1,3 @@
+{"tax_id":"218379","names":[{"lang":"en","v":"SHEE HING SECURITY COMPANY LIMITED"},{"lang":"hk","v":"時興保安設備有限公司"}],"company_since":"1988-06-10","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"218171","names":[{"lang":"en","v":"LUEN HIP WASHING &amp; DYEING LIMITED"},{"lang":"hk","v":"聯協洗水漂染有限公司"}],"company_since":"1988-06-10","company_dissolved":"2012-11-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"218250","names":[{"lang":"en","v":"LINORICH COMPANY LIMITED"},{"lang":"hk","v":"領璇有限公司"}],"company_since":"1988-06-10","company_dissolved":"1997-05-30","company_type_txt":"Private, ltd by shares"},

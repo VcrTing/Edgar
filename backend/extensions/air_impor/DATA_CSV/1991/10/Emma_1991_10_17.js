@@ -1,0 +1,1 @@
+{"tax_id":"330006","names":[{"lang":"en","v":"Hong Kong Inter-Dealer Brokers Association"},{"lang":"hk","v":"香港財資經紀商協會"}],"company_since":"1991-10-17","company_dissolved":"","company_type_txt":"Ltd by guarantee"},

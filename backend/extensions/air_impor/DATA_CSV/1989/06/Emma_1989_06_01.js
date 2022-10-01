@@ -1,0 +1,1 @@
+{"tax_id":"RT0000093","names":[{"lang":"en","v":"INCORPORATED TRUSTEES OF HONG KONG CULTURE AND ART FOUNDATION (THE)"},{"lang":"hk","v":"香港文化藝術基金會信託人法團"}],"company_since":"1989-06-01","company_dissolved":"","company_type_txt":"Trust"},

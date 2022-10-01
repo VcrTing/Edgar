@@ -1,0 +1,1 @@
+{"tax_id":"35410","names":[{"lang":"en","v":"WAI HIM COMPANY LIMITED"},{"lang":"hk","v":"惠謙有限公司"}],"company_since":"1973-09-14","company_dissolved":"1989-06-21","company_type_txt":"Private, ltd by shares"},

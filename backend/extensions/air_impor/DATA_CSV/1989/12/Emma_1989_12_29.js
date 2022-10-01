@@ -1,0 +1,7 @@
+{"tax_id":"268986","names":[{"lang":"en","v":"DOCUMENTARY FILMS INTERNATIONAL LIMITED"}],"company_since":"1989-12-29","company_dissolved":"1997-04-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"268825","names":[{"lang":"en","v":"FERRY FUNG COMPANY LIMITED"},{"lang":"hk","v":"福幟有限公司"}],"company_since":"1989-12-29","company_dissolved":"1996-08-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"268887","names":[{"lang":"en","v":"TAI PING PCB (HK) LIMITED"},{"lang":"hk","v":"太平綫路版(香港)有限公司"}],"company_since":"1989-12-29","company_dissolved":"2003-02-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"268725","names":[{"lang":"en","v":"HOI PA KNITWEAR COMPANY LIMITED"},{"lang":"hk","v":"海柏針織實業有限公司"}],"company_since":"1989-12-29","company_dissolved":"1997-03-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"268969","names":[{"lang":"en","v":"POPULAR CULTURAL SERVICE COMPANY LIMITED"},{"lang":"hk","v":"大衆圖書有限公司"}],"company_since":"1989-12-29","company_dissolved":"2020-09-18","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"268955","names":[{"lang":"en","v":"DURABLE ELECTRIC EUROPE LIMITED"},{"lang":"hk","v":"實用電器歐洲有限公司"}],"company_since":"1989-12-29","company_dissolved":"1995-05-24","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"268770","names":[{"lang":"en","v":"WAKO MECHATRONICS LIMITED"},{"lang":"hk","v":"和光機電有限公司"}],"company_since":"1989-12-29","company_dissolved":"2002-01-04","company_type_txt":"Private, ltd by shares"},

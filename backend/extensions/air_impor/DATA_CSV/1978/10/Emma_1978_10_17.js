@@ -1,0 +1,2 @@
+{"tax_id":"64598","names":[{"lang":"en","v":"SANKEI (HONG KONG) COMPANY LIMITED"},{"lang":"hk","v":"香港三景有限公司"}],"company_since":"1978-10-17","company_dissolved":"2001-03-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"64550","names":[{"lang":"en","v":"MING FAT SEA FOOD RESTAURANT LIMITED"},{"lang":"hk","v":"明發海鮮酒樓有限公司"}],"company_since":"1978-10-17","company_dissolved":"1991-10-27","company_type_txt":"Private, ltd by shares"},

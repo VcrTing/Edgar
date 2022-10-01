@@ -1,0 +1,1 @@
+{"tax_id":"163936","names":[{"lang":"en","v":"ZIMMARK ENGINEERING LIMITED"},{"lang":"hk","v":"獅馬工程有限公司"}],"company_since":"1986-01-07","company_dissolved":"2001-10-19","company_type_txt":"Private, ltd by shares"},

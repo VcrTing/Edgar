@@ -1,0 +1,8 @@
+{"tax_id":"107975","names":[{"lang":"en","v":"SUTO TRADING LIMITED"},{"lang":"hk","v":"樹東貿易有限公司"}],"company_since":"1982-01-19","company_dissolved":"2000-04-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"108028","names":[{"lang":"en","v":"TAKE WIN COMPANY LIMITED"},{"lang":"hk","v":"允盈有限公司"}],"company_since":"1982-01-19","company_dissolved":"1992-07-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"107951","names":[{"lang":"en","v":"WAI PONG CO. LIMITED"}],"company_since":"1982-01-19","company_dissolved":"2008-08-01","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"108007","names":[{"lang":"en","v":"WELON KNITTING GARMENT FACTORY LIMITED"},{"lang":"hk","v":"惠泰安針織製衣廠有限公司"}],"company_since":"1982-01-19","company_dissolved":"1996-06-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"107984","names":[{"lang":"en","v":"WINGLY KEE ENTERPRISES LIMITED"},{"lang":"hk","v":"永利記企業有限公司"}],"company_since":"1982-01-19","company_dissolved":"1999-08-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"108059","names":[{"lang":"en","v":"WINGSKY LIMITED"},{"lang":"hk","v":"永成佳有限公司"}],"company_since":"1982-01-19","company_dissolved":"2000-04-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"108039","names":[{"lang":"en","v":"YIN CHOY LIMITED"}],"company_since":"1982-01-19","company_dissolved":"1996-06-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"107978","names":[{"lang":"en","v":"YINFULL TRADING COMPANY LIMITED"},{"lang":"hk","v":"悠富貿易有限公司"}],"company_since":"1982-01-19","company_dissolved":"2004-03-12","company_type_txt":"Private, ltd by shares"},

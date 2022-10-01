@@ -1,0 +1,37 @@
+$succ: #15aa6e
+$succ_tin: #ebf8f6
+$succ_br: #c3eee7
+
+$err: #c8134f
+$err_sd: #c8134f44
+
+$war: #d8760f
+
+.btn-succ
+    color: $succ !important
+
+.btn-succ_txt,
+.btn-war_txt
+    position: relative
+    padding-left: 0.8em
+    &::after
+        position: absolute
+        content: ''
+        left: 0
+        top: 50%
+        width: 0.4em
+        height: 0.4em
+        opacity: 0.92
+        background: none
+        border-radius: 100%
+        transform: translateY(-50%)
+
+.btn-succ_txt
+    color: $succ !important
+    &::after
+        background: $succ
+
+.btn-war_txt
+    color: $war !important
+    &::after
+        background: $war

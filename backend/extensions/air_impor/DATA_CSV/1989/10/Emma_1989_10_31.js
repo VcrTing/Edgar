@@ -1,0 +1,3 @@
+{"tax_id":"265381","names":[{"lang":"en","v":"WINSOME VICTORY DEVELOPMENT COMPANY LIMITED"},{"lang":"hk","v":"祺光發展有限公司"}],"company_since":"1989-10-31","company_dissolved":"2003-05-30","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"265334","names":[{"lang":"en","v":"MARBO ENGINEERING LIMITED"},{"lang":"hk","v":"寶馬工程有限公司"}],"company_since":"1989-10-31","company_dissolved":"2008-02-06","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"265296","names":[{"lang":"en","v":"FORDSHEUNG INDUSTRIAL LIMITED"},{"lang":"hk","v":"福尚實業有限公司"}],"company_since":"1989-10-31","company_dissolved":"1997-03-14","company_type_txt":"Private, ltd by shares"},

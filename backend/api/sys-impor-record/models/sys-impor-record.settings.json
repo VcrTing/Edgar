@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sys_impor_records",
+  "info": {
+    "name": "SysImporRecord",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "insert_num": {
+      "type": "integer"
+    },
+    "totai_num": {
+      "type": "integer"
+    },
+    "timed": {
+      "type": "datetime"
+    },
+    "start": {
+      "type": "datetime"
+    },
+    "end": {
+      "type": "datetime"
+    },
+    "iogs": {
+      "type": "json"
+    }
+  }
+}

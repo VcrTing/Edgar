@@ -1,0 +1,6 @@
+{"tax_id":"292724","names":[{"lang":"en","v":"FIRST THOUSAND DEVELOPMENT LIMITED"},{"lang":"hk","v":"順爾發展有限公司"}],"company_since":"1990-11-30","company_dissolved":"1999-07-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"292808","names":[{"lang":"en","v":"GOLDPLATE COMPANY LIMITED"},{"lang":"hk","v":"耀百倍有限公司"}],"company_since":"1990-11-30","company_dissolved":"2010-12-24","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"292706","names":[{"lang":"en","v":"DOLLAR CONCEPT INDUSTRIES LIMITED"},{"lang":"hk","v":"精洋實業有限公司"}],"company_since":"1990-11-30","company_dissolved":"2003-11-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"292677","names":[{"lang":"en","v":"GLADWIN DEVELOPMENT LIMITED"},{"lang":"hk","v":"凱森發展有限公司"}],"company_since":"1990-11-30","company_dissolved":"2003-11-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"292609","names":[{"lang":"en","v":"WITTICOM LIMITED"},{"lang":"hk","v":"偉利高有限公司"}],"company_since":"1990-11-30","company_dissolved":"2008-06-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"292802","names":[{"lang":"en","v":"KAM MING HOUSING TREATMENT LIMITED"},{"lang":"hk","v":"金銘家居工程有限公司"}],"company_since":"1990-11-30","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

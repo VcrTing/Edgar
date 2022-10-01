@@ -1,0 +1,4 @@
+{"tax_id":"231822","names":[{"lang":"en","v":"VICTORY SUCCESS LIMITED (d2003-10-10)"},{"lang":"hk","v":"香港星晟有限公司"}],"company_since":"1988-11-01","company_dissolved":"2003-10-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"231802","names":[{"lang":"en","v":"FUNTAK COMPANY LIMITED"},{"lang":"hk","v":"峯達有限公司"}],"company_since":"1988-11-01","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"231750","names":[{"lang":"en","v":"DIGITCOM MOBILE PHONE LIMITED"}],"company_since":"1988-11-01","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"231717","names":[{"lang":"en","v":"HAPPY KEY INVESTMENTS LIMITED"},{"lang":"hk","v":"悅堅投資有限公司"}],"company_since":"1988-11-01","company_dissolved":"2012-10-26","company_type_txt":"Private, ltd by shares"},

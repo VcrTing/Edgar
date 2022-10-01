@@ -1,0 +1,76 @@
+
+.sts-vertified
+    font-size: $fs_s
+    color: $succ
+    padding: $ds_s $ds
+    background: none
+    border-radius: 2px
+    transition: all .242s ease-in-out
+    .i-right:before
+        margin-top: 0em
+
+.vertify-input-succ
+    input,
+    select
+        background: $succ_tin
+        border-color: $succ_br
+
+.input-phone,
+.input-email
+    position: relative
+    select
+        display: inline-block
+        position: absolute
+        padding: 0px $ds_s
+        cursor: pointer
+        z-index: 500
+        top: 0
+        left: 0
+        max-width: 5em
+        user-select: none
+        border-top-right-radius: 0px
+        border-bottom-right-radius: 0px
+    
+    .sts-vertified
+        position: absolute
+        right: 4em
+        top: 50%
+        // opacity: 0
+        transform: translateY(-50%)
+        span:before
+            border-left-color: $succ
+            border-bottom-color: $succ
+.input-phone
+    input
+        padding-left: 6em
+
+.vertify-code-succ
+    max-height: 0px
+    opacity: 0
+    padding: 0px
+    // animation: vcs-hide .0s ease-in-out
+@keyframes vcs-hide
+    0%
+        opacity: 1
+    100%
+        opacity: 0
+        padding: 0px
+        max-height: 0px
+        
+
+.remind-vertify-panner
+    .input-email,
+    .input-phone
+        width: 100% !important
+        max-width: 100% !important
+        
+    .input-phone-add,
+    .input-email-add
+        display: inline-block !important
+        position: absolute
+        right: 0
+        transform: translateX(100%)
+
+    .w-60
+        width: auto !important
+

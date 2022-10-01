@@ -1,0 +1,3 @@
+{"tax_id":"174231","names":[{"lang":"en","v":"TELEMOUNTAIN COMPANY LIMITED"},{"lang":"hk","v":"遠嶺有限公司"}],"company_since":"1986-09-02","company_dissolved":"2006-01-27","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"174265","names":[{"lang":"en","v":"UNGGUL SUPER ARTHA LIMITED"},{"lang":"hk","v":"森振茂有限公司"}],"company_since":"1986-09-02","company_dissolved":"1997-04-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"174222","names":[{"lang":"en","v":"TRAVEL INNS INTERNATIONAL LIMITED"},{"lang":"hk","v":"富華酒店國際有限公司"}],"company_since":"1986-09-02","company_dissolved":"2000-05-05","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,3 @@
+{"tax_id":"226884","names":[{"lang":"en","v":"GLAD FORCE INDUSTRIES LIMITED"},{"lang":"hk","v":"佳科實業有限公司"}],"company_since":"1988-09-13","company_dissolved":"2003-07-18","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"226786","names":[{"lang":"en","v":"GEMBASE MANAGEMENT LIMITED"},{"lang":"hk","v":"湛基管理有限公司"}],"company_since":"1988-09-13","company_dissolved":"2003-02-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"226851","names":[{"lang":"en","v":"HONEST RISE LIMITED (d1998-12-18)"},{"lang":"hk","v":"肯昇有限公司"}],"company_since":"1988-09-13","company_dissolved":"1998-12-18","company_type_txt":"Private, ltd by shares"},

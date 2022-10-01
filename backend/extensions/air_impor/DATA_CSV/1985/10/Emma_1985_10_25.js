@@ -1,0 +1,8 @@
+{"tax_id":"160688","names":[{"lang":"en","v":"Funderstone Securities (Nominees) Limited"}],"company_since":"1985-10-25","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"160749","names":[{"lang":"en","v":"GULLIVER'S TRAVEL AGENCY (HONG KONG) LIMITED"},{"lang":"hk","v":"基利快旅運(香港)有限公司"}],"company_since":"1985-10-25","company_dissolved":"2003-03-14","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"160715","names":[{"lang":"en","v":"INTERNATIONAL SEERS COMPANY LIMITED"},{"lang":"hk","v":"曾氏有限公司"}],"company_since":"1985-10-25","company_dissolved":"1996-11-29","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"160746","names":[{"lang":"en","v":"LINKON INDUSTRIES LIMITED"}],"company_since":"1985-10-25","company_dissolved":"2004-12-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"160690","names":[{"lang":"en","v":"MARKING DRAGON LIMITED"},{"lang":"hk","v":"銘瓏有限公司"}],"company_since":"1985-10-25","company_dissolved":"2003-09-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"160726","names":[{"lang":"en","v":"MAY SUM HAIRDRESSING &amp; BEAUTY SALOON LIMITED"},{"lang":"hk","v":"美心美髮美容院有限公司"}],"company_since":"1985-10-25","company_dissolved":"1996-11-29","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"160723","names":[{"lang":"en","v":"NG HUNG INVESTMENT LIMITED"},{"lang":"hk","v":"吳雄投資有限公司"}],"company_since":"1985-10-25","company_dissolved":"2009-05-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"160730","names":[{"lang":"en","v":"PACIFIC SOURCES INTERNATIONAL LIMITED"}],"company_since":"1985-10-25","company_dissolved":"1998-11-18","company_type_txt":"Private, ltd by shares"},

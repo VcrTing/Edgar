@@ -1,0 +1,2 @@
+{"tax_id":"225747","names":[{"lang":"en","v":"CROWNSON INVESTMENTS LIMITED"},{"lang":"hk","v":"光信投資有限公司"}],"company_since":"1988-09-01","company_dissolved":"1994-03-25","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"225726","names":[{"lang":"en","v":"DEUTSCHMARK LIMITED"},{"lang":"hk","v":"德盟貿易有限公司"}],"company_since":"1988-09-01","company_dissolved":"2006-02-24","company_type_txt":"Private, ltd by shares"},

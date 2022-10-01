@@ -1,0 +1,68 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/send-codes",
+      "handler": "send-code.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/send-codes/count",
+      "handler": "send-code.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/send-codes/:id",
+      "handler": "send-code.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/send-codes",
+      "handler": "send-code.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/send-codes/:id",
+      "handler": "send-code.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/send-codes/:id",
+      "handler": "send-code.delete",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/send-codes/code/send",
+      "handler": "sc-instant.send_code",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/send-instant/remind/add",
+      "handler": "sc-instant.instant_remind_add",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

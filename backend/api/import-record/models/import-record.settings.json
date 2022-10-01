@@ -1,0 +1,35 @@
+{
+  "kind": "collectionType",
+  "collectionName": "import_records",
+  "info": {
+    "name": "ImportRecord"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "success_num": {
+      "type": "integer"
+    },
+    "error_num": {
+      "type": "integer"
+    },
+    "error_json": {
+      "type": "json"
+    },
+    "total": {
+      "type": "integer"
+    },
+    "file_name": {
+      "type": "string"
+    },
+    "user": {
+      "type": "json"
+    },
+    "mark": {
+      "type": "string"
+    }
+  }
+}

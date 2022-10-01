@@ -1,0 +1,6 @@
+{"tax_id":"98562","names":[{"lang":"en","v":"HERE AND NOW DESIGN LIMITED"},{"lang":"hk","v":"宜今設計有限公司"}],"company_since":"1981-05-29","company_dissolved":"2002-11-15","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"98507","names":[{"lang":"en","v":"HIP SHING MARINE PRODUCTS LIMITED"},{"lang":"hk","v":"協成水產貿易有限公司"}],"company_since":"1981-05-29","company_dissolved":"1998-04-24","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"98605","names":[{"lang":"en","v":"HUSSAR LIMITED (d1994-04-29)"}],"company_since":"1981-05-29","company_dissolved":"1994-04-29","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"98440","names":[{"lang":"en","v":"HONG CENT FASHION GARMENTS LIMITED"},{"lang":"hk","v":"康誠時裝製衣有限公司"}],"company_since":"1981-05-29","company_dissolved":"1996-05-31","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"98511","names":[{"lang":"en","v":"LEE'S PERFECT WATCH LIMITED"},{"lang":"hk","v":"正大鐘錶行有限公司"}],"company_since":"1981-05-29","company_dissolved":"1997-02-28","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"98495","names":[{"lang":"en","v":"LELLION LIMITED"}],"company_since":"1981-05-29","company_dissolved":"1988-11-03","company_type_txt":"Private, ltd by shares"},

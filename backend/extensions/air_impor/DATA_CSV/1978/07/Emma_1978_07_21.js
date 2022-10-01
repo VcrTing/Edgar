@@ -1,0 +1,5 @@
+{"tax_id":"62219","names":[{"lang":"en","v":"SHANGHAI FRATERNITY ASSOCIATION, HONG KONG LIMITED"},{"lang":"hk","v":"香港上海總會有限公司"}],"company_since":"1978-07-21","company_dissolved":"","company_type_txt":"Ltd by guarantee"},
+{"tax_id":"62270","names":[{"lang":"en","v":"SIMON-HARTLEY (H.K.) LIMITED"},{"lang":"hk","v":"西蒙哈特利香港有限公司"}],"company_since":"1978-07-21","company_dissolved":"2004-10-02","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"62312","names":[{"lang":"en","v":"TRIPLE ACE INVESTMENT COMPANY LIMITED"}],"company_since":"1978-07-21","company_dissolved":"1994-05-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"62232","names":[{"lang":"en","v":"TRI-SEC INVESTMENTS (HK) LIMITED"},{"lang":"hk","v":"財盛(香港)有限公司"}],"company_since":"1978-07-21","company_dissolved":"2003-03-14","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"62235","names":[{"lang":"en","v":"MIE FU HANG DEVELOPMENT COMPANY, LIMITED"},{"lang":"hk","v":"美富恆企業發展有限公司"}],"company_since":"1978-07-21","company_dissolved":"1996-06-28","company_type_txt":"Private, ltd by shares"},

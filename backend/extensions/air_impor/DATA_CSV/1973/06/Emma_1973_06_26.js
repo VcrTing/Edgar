@@ -1,0 +1,1 @@
+{"tax_id":"34313","names":[{"lang":"en","v":"VIENNA WATCH COMPANY LIMITED"},{"lang":"hk","v":"維納錶行有限公司"}],"company_since":"1973-06-26","company_dissolved":"1999-08-13","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,5 @@
+{"tax_id":"262301","names":[{"lang":"en","v":"LA WINCHY LIMITED"}],"company_since":"1989-08-30","company_dissolved":"1992-08-15","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"262271","names":[{"lang":"en","v":"MEGASONIC INDUSTRIAL LIMITED"}],"company_since":"1989-08-30","company_dissolved":"2006-02-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"262295","names":[{"lang":"en","v":"PACIGOAL LIMITED (d1997-02-21)"}],"company_since":"1989-08-30","company_dissolved":"1997-02-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"262248","names":[{"lang":"en","v":"GRINDAL TRADING LIMITED"}],"company_since":"1989-08-30","company_dissolved":"1997-02-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"262256","names":[{"lang":"en","v":"GOLDEN FAMILY LIMITED (d1997-01-24)"}],"company_since":"1989-08-30","company_dissolved":"1997-01-24","company_type_txt":"Private, ltd by shares"},

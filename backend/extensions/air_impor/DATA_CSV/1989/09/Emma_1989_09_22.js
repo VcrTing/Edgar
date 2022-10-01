@@ -1,0 +1,2 @@
+{"tax_id":"263145","names":[{"lang":"en","v":"HANTION INTERNATIONAL RESOURCES (HONG KONG) COMPANY LIMITED"},{"lang":"hk","v":"漢森國際興業(香港)有限公司"}],"company_since":"1989-09-22","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"263310","names":[{"lang":"en","v":"LIGHT INCOME LIMITED"},{"lang":"hk","v":"進照有限公司"}],"company_since":"1989-09-22","company_dissolved":"1996-08-30","company_type_txt":"Private, ltd by shares"},

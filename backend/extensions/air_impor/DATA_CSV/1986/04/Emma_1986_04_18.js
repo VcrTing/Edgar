@@ -1,0 +1,8 @@
+{"tax_id":"167953","names":[{"lang":"en","v":"FULLER RESOURCES LIMITED (d1996-09-27)"},{"lang":"hk","v":"福達資源有限公司"}],"company_since":"1986-04-18","company_dissolved":"1996-09-27","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"168044","names":[{"lang":"en","v":"GARVON COMPANY LIMITED"},{"lang":"hk","v":"嘉煌有限公司"}],"company_since":"1986-04-18","company_dissolved":"2002-05-03","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"168066","names":[{"lang":"en","v":"KINGS LION DEVELOPMENT LIMITED"},{"lang":"hk","v":"勁獅發展有限公司"}],"company_since":"1986-04-18","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"168033","names":[{"lang":"en","v":"INVICTUS DEVELOPMENT LIMITED"},{"lang":"hk","v":"現得發展有限公司"}],"company_since":"1986-04-18","company_dissolved":"1996-08-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"168017","names":[{"lang":"en","v":"KANISHI (CHINA) LIMITED"},{"lang":"hk","v":"嘉利仕(中國)有限公司"}],"company_since":"1986-04-18","company_dissolved":"2003-10-03","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"168061","names":[{"lang":"en","v":"MEKON PLASTIC COMPANY LIMITED"},{"lang":"hk","v":"美港塑膠有限公司"}],"company_since":"1986-04-18","company_dissolved":"1998-05-15","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"167917","names":[{"lang":"en","v":"ROXAS (FAR EAST) LIMITED (d2000-09-22)"}],"company_since":"1986-04-18","company_dissolved":"2000-09-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"168062","names":[{"lang":"en","v":"SUCKLE KNITTING FACTORY LIMITED"},{"lang":"hk","v":"思圖織造廠有限公司"}],"company_since":"1986-04-18","company_dissolved":"2003-12-28","company_type_txt":"Private, ltd by shares"},

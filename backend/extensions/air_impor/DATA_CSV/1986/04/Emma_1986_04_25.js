@@ -1,0 +1,1 @@
+{"tax_id":"168256","names":[{"lang":"en","v":"MANUAL LIMITED (d1997-01-31)"},{"lang":"hk","v":"名令有限公司"}],"company_since":"1986-04-25","company_dissolved":"1997-01-31","company_type_txt":"Private, ltd by shares"},

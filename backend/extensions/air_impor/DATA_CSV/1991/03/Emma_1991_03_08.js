@@ -1,0 +1,1 @@
+{"tax_id":"301460","names":[{"lang":"en","v":"HONG KONG CHINESE ENTERPRISES ASSOCIATION (THE)"},{"lang":"hk","v":"香港中國企業協會"}],"company_since":"1991-03-08","company_dissolved":"","company_type_txt":"Ltd by guarantee"},

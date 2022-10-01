@@ -1,0 +1,3 @@
+{"tax_id":"170364","names":[{"lang":"en","v":"PARASOURCE COMPANY LIMITED"},{"lang":"hk","v":"崇勳有限公司"}],"company_since":"1986-06-06","company_dissolved":"1998-04-24","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"170355","names":[{"lang":"en","v":"SKY LUCK COMPANY LIMITED"},{"lang":"hk","v":"天浩有限公司"}],"company_since":"1986-06-06","company_dissolved":"1996-07-12","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"170245","names":[{"lang":"en","v":"YIP'S H.C. (HOLDING) LIMITED"},{"lang":"hk","v":"葉氏恒昌(集團)有限公司"}],"company_since":"1986-06-06","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,1 @@
+{"tax_id":"170463","names":[{"lang":"en","v":"WIDE PROFIT DEVELOPMENT LIMITED (d1997-08-23)"},{"lang":"hk","v":"多潤發展有限公司"}],"company_since":"1986-06-10","company_dissolved":"1997-08-23","company_type_txt":"Private, ltd by shares"},

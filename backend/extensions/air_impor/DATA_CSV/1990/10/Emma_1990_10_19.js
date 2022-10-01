@@ -1,0 +1,2 @@
+{"tax_id":"289597","names":[{"lang":"en","v":"FLYWAY DEVELOPMENT LIMITED (d2001-12-07)"},{"lang":"hk","v":"兆暢發展有限公司"}],"company_since":"1990-10-19","company_dissolved":"2001-12-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"289524","names":[{"lang":"en","v":"WIN FAVOR INVESTMENT LIMITED"},{"lang":"hk","v":"威森投資有限公司"}],"company_since":"1990-10-19","company_dissolved":"2003-09-19","company_type_txt":"Private, ltd by shares"},

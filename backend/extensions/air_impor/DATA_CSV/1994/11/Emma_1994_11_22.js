@@ -1,0 +1,2 @@
+{"tax_id":"497900","names":[{"lang":"en","v":"LUCKY NEWS LIMITED (d2012-09-14)"},{"lang":"hk","v":"雄置有限公司"}],"company_since":"1994-11-22","company_dissolved":"2012-09-14","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"497897","names":[{"lang":"en","v":"U-CYBER PROPERTY (HOLDINGS) LIMITED"},{"lang":"hk","v":"航宇地產(集團)有限公司"}],"company_since":"1994-11-22","company_dissolved":"2008-05-09","company_type_txt":"Private, ltd by shares"},

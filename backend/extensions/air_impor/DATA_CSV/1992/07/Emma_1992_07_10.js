@@ -1,0 +1,2 @@
+{"tax_id":"367895","names":[{"lang":"en","v":"DEMOCRATIC ALLIANCE FOR THE BETTERMENT AND PROGRESS OF HONG KONG"},{"lang":"hk","v":"民主建港協進聯盟"}],"company_since":"1992-07-10","company_dissolved":"","company_type_txt":"Ltd by guarantee"},
+{"tax_id":"367895","names":[{"lang":"en","v":"DEMOCRATIC ALLIANCE FOR THE BETTERMENT AND PROGRESS OF HONG KONG"},{"lang":"hk","v":"民主建港協進聯盟"}],"company_since":"1992-07-10","company_dissolved":"","company_type_txt":"Ltd by guarantee"},

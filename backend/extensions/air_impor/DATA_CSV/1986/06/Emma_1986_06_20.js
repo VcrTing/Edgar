@@ -1,0 +1,2 @@
+{"tax_id":"170762","names":[{"lang":"en","v":"VICTORIA HEART TRAVEL LIMITED"},{"lang":"hk","v":"維心旅遊有限公司"}],"company_since":"1986-06-20","company_dissolved":"2002-12-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"170680","names":[{"lang":"en","v":"WU YI COMPANY LIMITED"},{"lang":"hk","v":"武夷有限公司"}],"company_since":"1986-06-20","company_dissolved":"1996-12-20","company_type_txt":"Private, ltd by shares"},

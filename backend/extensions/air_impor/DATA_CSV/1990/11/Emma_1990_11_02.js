@@ -1,0 +1,4 @@
+{"tax_id":"290670","names":[{"lang":"en","v":"JENJI LIMITED (d1993-11-03)"},{"lang":"hk","v":"企裕有限公司"}],"company_since":"1990-11-02","company_dissolved":"1993-11-03","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"290619","names":[{"lang":"en","v":"SANGUINE INTERNATIONAL (OVERSEAS) LIMITED"},{"lang":"hk","v":"真榮國際(海外)有限公司"}],"company_since":"1990-11-02","company_dissolved":"2001-03-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"290652","names":[{"lang":"en","v":"SUPER SHELL LIMITED (d2004-03-26)"}],"company_since":"1990-11-02","company_dissolved":"2004-03-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"290845","names":[{"lang":"en","v":"RIFEVIEW LIMITED"}],"company_since":"1990-11-02","company_dissolved":"1997-07-04","company_type_txt":"Private, ltd by shares"},

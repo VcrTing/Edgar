@@ -1,0 +1,1 @@
+{"tax_id":"33401","names":[{"lang":"en","v":"YEKAN PROPERTIES LIMITED"},{"lang":"hk","v":"益安地產有限公司"}],"company_since":"1973-05-15","company_dissolved":"1986-02-04","company_type_txt":"Private, ltd by shares"},

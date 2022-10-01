@@ -1,0 +1,1 @@
+{"tax_id":"32617","names":[{"lang":"en","v":"WING WAH DISPENSARY LIMITED (d2001-10-19)"},{"lang":"hk","v":"永華大葯房有限公司"}],"company_since":"1973-03-23","company_dissolved":"2001-10-19","company_type_txt":"Private, ltd by shares"},

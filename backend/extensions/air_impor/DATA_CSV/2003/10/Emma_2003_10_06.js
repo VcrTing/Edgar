@@ -1,0 +1,6 @@
+{"tax_id":"864576","names":[{"lang":"en","v":"CHAMPION CLUB LIMITED (d2005-04-29)"},{"lang":"hk","v":"卓毅會有限公司"}],"company_since":"2003-10-06","company_dissolved":"2005-04-29","company_type_txt":"Private, ltd by shares"},
+undefined,
+{"tax_id":"864457","names":[{"lang":"en","v":"CHINA XINSHIDAI GLOBAL IMPORT &amp; EXPORT LIMITED"},{"lang":"hk","v":"中國新時代環球進出口有限公司"}],"company_since":"2003-10-06","company_dissolved":"2017-02-03","company_type_txt":"Private, ltd by shares"},
+undefined,
+{"tax_id":"864544","names":[{"lang":"en","v":"CONCEPT-G LIMITED"}],"company_since":"2003-10-06","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+undefined,

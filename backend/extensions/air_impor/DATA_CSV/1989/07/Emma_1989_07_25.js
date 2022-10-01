@@ -1,0 +1,2 @@
+{"tax_id":"259179","names":[{"lang":"en","v":"PUSTAKA SAN MING (H.K.) LIMITED"},{"lang":"hk","v":"三民書局(香港)有限公司"}],"company_since":"1989-07-25","company_dissolved":"2003-03-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"259383","names":[{"lang":"en","v":"WELL YAM LIMITED"},{"lang":"hk","v":"和任有限公司"}],"company_since":"1989-07-25","company_dissolved":"1996-07-26","company_type_txt":"Private, ltd by shares"},

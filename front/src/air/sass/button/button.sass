@@ -1,0 +1,81 @@
+.br 
+    border-radius: 7.5px
+
+.btn
+    margin: 0px
+    border-radius: 7px
+
+.btn-s
+    min-height: 30px
+    border-radius: 5.5px
+
+.btn-sd
+    box-shadow: 0px 0.5px 5px -0.5px rgba(0, 0, 0, 0.16)
+
+.btn-pri
+    color: #FFF
+    background: $primary
+    &:hover
+        background: $primary_Hover
+.btn-pri_tin
+    color: $primary
+    background: $primary_Tin
+    &:hover
+        background: $primary_Tin_Hover
+    
+
+.btn-acc
+    color: $accent
+    &:hover
+        color: $accent
+
+.btn-sec
+    color: #FFF
+    background: $secondary
+    &:hover
+        background: $secondary_Hover
+
+.btn-sec_out
+    color: $secondary
+    border-color: $secondary
+    &:hover
+        color: #FFF
+        background: $secondary_Hover
+
+
+.btn-pri_dark
+    color: $primary_Dark
+
+.btn-sec_dark
+    color: #FFF
+    background: $secondary_Dark
+
+
+.btn-round 
+    border-radius: 6em
+    text-transform: uppercase
+    padding: 0.6em 2.4em
+
+
+.btn-icon
+    @extend .fx-c
+    padding: 0.2em
+    border-radius: 100%
+    color: rgba(255, 255 ,255 ,0.94)
+
+    i
+        color: currentColor !important
+
+//
+.btn-hui
+    @extend .btn
+    min-width: 9em
+    color: #FFF
+    padding: $ds_s $ds
+    background: #bfbfbf !important 
+.btn-die
+    background: #9c9c9c !important
+
+//  
+.btn-def
+    padding: $ds_s $ds_x2

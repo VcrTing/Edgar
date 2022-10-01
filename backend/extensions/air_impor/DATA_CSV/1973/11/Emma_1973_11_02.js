@@ -1,0 +1,1 @@
+{"tax_id":"36013","names":[{"lang":"en","v":"YEE SIU INVESTMENT COMPANY LIMITED"},{"lang":"hk","v":"怡兆置業有限公司"}],"company_since":"1973-11-02","company_dissolved":"1983-08-31","company_type_txt":"Private, ltd by shares"},

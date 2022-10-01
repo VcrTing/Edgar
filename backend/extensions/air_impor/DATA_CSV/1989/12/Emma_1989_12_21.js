@@ -1,0 +1,2 @@
+{"tax_id":"268672","names":[{"lang":"en","v":"VICORP INVESTMENT LIMITED (d2004-10-08)"},{"lang":"hk","v":"滙凱投資有限公司"}],"company_since":"1989-12-21","company_dissolved":"2004-10-08","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"268561","names":[{"lang":"en","v":"MULTITERM (HK) COMPUTER LIMITED"}],"company_since":"1989-12-21","company_dissolved":"1997-06-27","company_type_txt":"Private, ltd by shares"},

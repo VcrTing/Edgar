@@ -1,0 +1,7 @@
+{"tax_id":"176910","names":[{"lang":"en","v":"MIGHTY FAIR INVESTMENT LIMITED"},{"lang":"hk","v":"添業投資有限公司"}],"company_since":"1986-10-24","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"176922","names":[{"lang":"en","v":"RITIDIAN LIMITED"}],"company_since":"1986-10-24","company_dissolved":"1999-07-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"177033","names":[{"lang":"en","v":"OMILES LIMITED"}],"company_since":"1986-10-24","company_dissolved":"1997-01-31","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"176913","names":[{"lang":"en","v":"STANDARD BRIGHT (FAR EAST) LIMITED"},{"lang":"hk","v":"立亮(遠東)有限公司"}],"company_since":"1986-10-24","company_dissolved":"1998-10-30","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"177061","names":[{"lang":"en","v":"WAI SANG MANAGEMENT CO. LIMITED"},{"lang":"hk","v":"偉生管理有限公司"}],"company_since":"1986-10-24","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"177083","names":[{"lang":"en","v":"TEAMAN DESIGN WORKSHOP LIMITED (d2003-04-17)"}],"company_since":"1986-10-24","company_dissolved":"2003-04-17","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"177028","names":[{"lang":"en","v":"LEOLOY LIMITED"},{"lang":"hk","v":"萊烈有限公司"}],"company_since":"1986-10-24","company_dissolved":"1998-11-13","company_type_txt":"Private, ltd by shares"},

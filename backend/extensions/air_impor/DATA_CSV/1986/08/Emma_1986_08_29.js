@@ -1,0 +1,3 @@
+{"tax_id":"174198","names":[{"lang":"en","v":"TRIM (FAR EAST) LIMITED"},{"lang":"hk","v":"洤利(遠東)有限公司"}],"company_since":"1986-08-29","company_dissolved":"2017-05-05","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"174204","names":[{"lang":"en","v":"TOHO DEVELOPMENT COMPANY LIMITED"},{"lang":"hk","v":"東豪發展有限公司"}],"company_since":"1986-08-29","company_dissolved":"1997-08-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"174113","names":[{"lang":"en","v":"ZONNOMAX LIMITED"}],"company_since":"1986-08-29","company_dissolved":"1998-05-09","company_type_txt":"Private, ltd by shares"},

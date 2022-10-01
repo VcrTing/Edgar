@@ -1,0 +1,2 @@
+{"tax_id":"263726","names":[{"lang":"en","v":"SIGHT LAMP INDUSTRIAL LIMITED"},{"lang":"hk","v":"世南實業有限公司"}],"company_since":"1989-09-29","company_dissolved":"2001-06-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"263690","names":[{"lang":"en","v":"WIDE &amp; RIFE UNIVERSAL LIMITED"},{"lang":"hk","v":"富而廣環球有限公司"}],"company_since":"1989-09-29","company_dissolved":"1997-05-23","company_type_txt":"Private, ltd by shares"},

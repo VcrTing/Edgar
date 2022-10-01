@@ -1,0 +1,2 @@
+{"tax_id":"226695","names":[{"lang":"en","v":"FULLYSPRING SHIPPING LIMITED"},{"lang":"hk","v":"富源船務有限公司"}],"company_since":"1988-09-09","company_dissolved":"1999-03-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"226516","names":[{"lang":"en","v":"LINK PEACE LIMITED (d1997-05-30)"},{"lang":"hk","v":"凡祿有限公司"}],"company_since":"1988-09-09","company_dissolved":"1997-05-30","company_type_txt":"Private, ltd by shares"},

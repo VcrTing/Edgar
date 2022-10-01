@@ -1,0 +1,2 @@
+{"tax_id":"234519","names":[{"lang":"en","v":"JOYCE POWER LIMITED (d1997-06-27)"},{"lang":"hk","v":"準霸有限公司"}],"company_since":"1988-11-29","company_dissolved":"1997-06-27","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"234390","names":[{"lang":"en","v":"UNIFAITH CONSULTANTS LIMITED"},{"lang":"hk","v":"同信顧問有限公司"}],"company_since":"1988-11-29","company_dissolved":"2000-11-17","company_type_txt":"Private, ltd by shares"},

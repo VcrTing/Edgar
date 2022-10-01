@@ -1,0 +1,4 @@
+{"tax_id":"497038","names":[{"lang":"en","v":"COMPLEX LIMITED (d2001-10-19)"}],"company_since":"1994-11-15","company_dissolved":"2001-10-19","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"497181","names":[{"lang":"en","v":"TRADE TIME LIMITED (d2011-11-25)"},{"lang":"hk","v":"成貿有限公司"}],"company_since":"1994-11-15","company_dissolved":"2011-11-25","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"497091","names":[{"lang":"en","v":"HARVEST TRADE ENTERPRISES LIMITED"},{"lang":"hk","v":"盛貿企業有限公司"}],"company_since":"1994-11-15","company_dissolved":"2003-10-17","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"497429","names":[{"lang":"en","v":"LIGHTWING INVESTMENT LIMITED"},{"lang":"hk","v":"勵榮投資有限公司"}],"company_since":"1994-11-15","company_dissolved":"1998-10-09","company_type_txt":"Private, ltd by shares"},

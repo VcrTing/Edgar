@@ -1,0 +1,2 @@
+{"tax_id":"217241","names":[{"lang":"en","v":"SUN TAK SHING CONFECTIONERY (HK) LIMITED"},{"lang":"hk","v":"新德成食品(香港)有限公司"}],"company_since":"1988-05-27","company_dissolved":"2009-04-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"217233","names":[{"lang":"en","v":"M-SYSTEMS (FAR EAST) LIMITED"},{"lang":"hk","v":"M-碧(遠東)有限公司"}],"company_since":"1988-05-27","company_dissolved":"2003-04-25","company_type_txt":"Private, ltd by shares"},

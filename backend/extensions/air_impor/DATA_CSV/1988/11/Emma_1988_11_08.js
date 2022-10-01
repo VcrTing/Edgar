@@ -1,0 +1,4 @@
+{"tax_id":"232382","names":[{"lang":"en","v":"G. SUCCESS LIMITED"},{"lang":"hk","v":"燦勝有限公司"}],"company_since":"1988-11-08","company_dissolved":"1997-06-06","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"232443","names":[{"lang":"en","v":"EVER COMET LIMITED (d1995-02-07)"},{"lang":"hk","v":"慧星有限公司"}],"company_since":"1988-11-08","company_dissolved":"1995-02-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"232469","names":[{"lang":"en","v":"WOON KAI LIMITED"},{"lang":"hk","v":"煥啓有限公司"}],"company_since":"1988-11-08","company_dissolved":"1994-01-12","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"232441","names":[{"lang":"en","v":"WOON HON COMPANY LIMITED (d2002-06-21)"},{"lang":"hk","v":"煥康有限公司"}],"company_since":"1988-11-08","company_dissolved":"2002-06-21","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,2 @@
+{"tax_id":"286539","names":[{"lang":"en","v":"WIDE ENOUGH INDUSTRIES LIMITED"},{"lang":"hk","v":"宏充實業有限公司"}],"company_since":"1990-09-07","company_dissolved":"2011-08-05","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"286619","names":[{"lang":"en","v":"NAGA FILM PRODUCTION LIMITED"},{"lang":"hk","v":"龍之傑電影製作有限公司"}],"company_since":"1990-09-07","company_dissolved":"1997-06-27","company_type_txt":"Private, ltd by shares"},

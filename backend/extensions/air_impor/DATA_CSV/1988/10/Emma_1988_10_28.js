@@ -1,0 +1,3 @@
+{"tax_id":"231328","names":[{"lang":"en","v":"HEAVY GAIN INDUSTRIAL LIMITED"},{"lang":"hk","v":"量盈實業有限公司"}],"company_since":"1988-10-28","company_dissolved":"2003-03-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"231619","names":[{"lang":"en","v":"NATIONAL HARVEST DEVELOPMENT LIMITED"},{"lang":"hk","v":"國悅發展有限公司"}],"company_since":"1988-10-28","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"231497","names":[{"lang":"en","v":"YIELDFULL INDUSTRIAL LIMITED"},{"lang":"hk","v":"意富實業有限公司"}],"company_since":"1988-10-28","company_dissolved":"2004-08-18","company_type_txt":"Private, ltd by shares"},

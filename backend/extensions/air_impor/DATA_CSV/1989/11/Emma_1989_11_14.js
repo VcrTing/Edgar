@@ -1,0 +1,2 @@
+{"tax_id":"266406","names":[{"lang":"en","v":"YOUNG LUCK INVESTMENTS LIMITED"},{"lang":"hk","v":"尊運投資有限公司"}],"company_since":"1989-11-14","company_dissolved":"1996-09-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"266270","names":[{"lang":"en","v":"THINKANDO ENGINEERING LIMITED"},{"lang":"hk","v":"三一工程有限公司"}],"company_since":"1989-11-14","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

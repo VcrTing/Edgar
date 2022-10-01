@@ -1,0 +1,7 @@
+{"tax_id":"135743","names":[{"lang":"en","v":"HOLD CHEER LIMITED (d1996-10-18)"},{"lang":"hk","v":"承禧有限公司"}],"company_since":"1984-04-17","company_dissolved":"1996-10-18","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"135746","names":[{"lang":"en","v":"HOLD FAME LIMITED"},{"lang":"hk","v":"承滔有限公司"}],"company_since":"1984-04-17","company_dissolved":"1996-06-28","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"135807","names":[{"lang":"en","v":"HORDON ENTERPRISES LIMITED"},{"lang":"hk","v":"賀登企業有限公司"}],"company_since":"1984-04-17","company_dissolved":"2002-11-08","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"135767","names":[{"lang":"en","v":"INTERDATA-(WORLD TRADE) COMPANY LIMITED"}],"company_since":"1984-04-17","company_dissolved":"1996-11-01","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"135775","names":[{"lang":"en","v":"INVADER COMPANY LIMITED"},{"lang":"hk","v":"啟宏有限公司"}],"company_since":"1984-04-17","company_dissolved":"1996-11-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"135719","names":[{"lang":"en","v":"LACTUS DEVELOPMENT COMPANY LIMITED"}],"company_since":"1984-04-17","company_dissolved":"2015-06-05","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"135726","names":[{"lang":"en","v":"LAWSONS MARKETING MANAGEMENT LIMITED"},{"lang":"hk","v":"利順市場策劃服務有限公司"}],"company_since":"1984-04-17","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

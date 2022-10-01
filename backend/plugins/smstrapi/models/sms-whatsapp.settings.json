@@ -1,0 +1,47 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sms-whatsapp",
+  "info": {
+    "name": "SmsWhatsapp",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "text"
+    },
+    "parameters_body": {
+      "type": "json"
+    },
+    "phoned_prefix": {
+      "type": "string"
+    },
+    "phoned": {
+      "type": "string"
+    },
+    "mark": {
+      "type": "string"
+    },
+    "send_day": {
+      "type": "date"
+    },
+    "hour": {
+      "type": "integer"
+    },
+    "send_status": {
+      "type": "boolean"
+    },
+    "send_active": {
+      "type": "boolean",
+      "default": true
+    },
+    "is_fail": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

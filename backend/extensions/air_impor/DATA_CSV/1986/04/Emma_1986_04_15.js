@@ -1,0 +1,6 @@
+{"tax_id":"167886","names":[{"lang":"en","v":"PEC INTERNATIONAL LIMITED (HK)"}],"company_since":"1986-04-15","company_dissolved":"2020-04-29","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"167825","names":[{"lang":"en","v":"REALYIELD COMPANY LIMITED"}],"company_since":"1986-04-15","company_dissolved":"1999-04-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"167803","names":[{"lang":"en","v":"VINCENT TOYS LIMITED"},{"lang":"hk","v":"益富業有限公司"}],"company_since":"1986-04-15","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"167793","names":[{"lang":"en","v":"VINCENT EMPIRE LIMITED"},{"lang":"hk","v":"凱國有限公司"}],"company_since":"1986-04-15","company_dissolved":"2011-12-02","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"167756","names":[{"lang":"en","v":"ZIMMARK MANAGEMENT LIMITED"},{"lang":"hk","v":"獅馬經營有限公司"}],"company_since":"1986-04-15","company_dissolved":"2009-09-11","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"167739","names":[{"lang":"en","v":"WAH SHING ELECTRONICS COMPANY LIMITED"},{"lang":"hk","v":"華昇電子有限公司"}],"company_since":"1986-04-15","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,4 @@
+{"tax_id":"221244","names":[{"lang":"en","v":"MOON CANDLE LIMITED"},{"lang":"hk","v":"月照有限公司"}],"company_since":"1988-07-15","company_dissolved":"2004-07-02","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"221123","names":[{"lang":"en","v":"EL DEVELOPMENT LIMITED"},{"lang":"hk","v":"一利發展有限公司"}],"company_since":"1988-07-15","company_dissolved":"1998-05-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"221392","names":[{"lang":"en","v":"HAPPY HARVEST INDUSTRIAL LIMITED"},{"lang":"hk","v":"志添實業有限公司"}],"company_since":"1988-07-15","company_dissolved":"2011-02-02","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"221135","names":[{"lang":"en","v":"GENETECH LIMITED (d2007-08-09)"},{"lang":"hk","v":"準時達有限公司"}],"company_since":"1988-07-15","company_dissolved":"2007-08-09","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,1 @@
+{"tax_id":"RT0000073","names":[{"lang":"en","v":"INCORPORATED TRUSTEES OF THE CHRISTIAN SAINTS' ASSEMBLY (THE)"},{"lang":"hk","v":"基督教會聖徒聚會所信託人法團"}],"company_since":"1981-03-12","company_dissolved":"","company_type_txt":"Trust"},

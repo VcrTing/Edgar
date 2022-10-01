@@ -1,0 +1,48 @@
+.tooltip
+    top: -26px
+    opacity: 0
+    min-width: 86px
+    font-size: 0.82em
+    border-radius: 4.5px
+    padding: 4px $ds
+    transition: all .362s ease-out
+    box-shadow: 0.5px 1px 5px rgba(0, 0, 0, 0.24)
+    &::after
+        background: none !important
+        content: ''
+        bottom: -15px
+        left: 50%
+        border: 5px solid transparent !important
+        border-top-color: #000000AA !important
+
+    &,
+    &::after
+        font-weight: normal
+        position: absolute
+        left: 50%
+        color: #FFFFFFF0
+        background: #000000D4
+        transform: translate(-50%, -50%)
+        
+.tooltip-tigger
+    &:hover
+        .tooltip
+            opacity: 1
+    div:last-child
+        cursor: default
+
+.prop
+    position: fixed
+    z-index: 700
+    left: $ds
+    bottom: $ds
+    
+    padding: $ds_x $ds_x4
+    background: #eaf8ee
+    border: 1px solid #daf1e2
+    border-radius: 7.5px
+    box-shadow: 0px 12px 12px -6px #18773b28
+    i
+        opacity: 0.92
+    *
+        color: #0d9c42

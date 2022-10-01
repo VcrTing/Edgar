@@ -1,0 +1,50 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sms-email",
+  "info": {
+    "name": "SmsEmail",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "subject": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    },
+    "to": {
+      "type": "string"
+    },
+    "from": {
+      "type": "string"
+    },
+    "replyTo": {
+      "type": "string"
+    },
+    "send_day": {
+      "type": "date"
+    },
+    "hour": {
+      "type": "integer"
+    },
+    "send_status": {
+      "type": "boolean"
+    },
+    "send_active": {
+      "type": "boolean",
+      "default": true
+    },
+    "is_fail": {
+      "type": "boolean",
+      "default": false
+    },
+    "mark": {
+      "type": "string"
+    }
+  }
+}

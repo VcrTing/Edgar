@@ -1,0 +1,1 @@
+{"tax_id":"33956","names":[{"lang":"en","v":"WING SING MEDICINE COMPANY LIMITED"},{"lang":"hk","v":"永星藥行有限公司"}],"company_since":"1973-06-06","company_dissolved":"1981-02-21","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,2 @@
+{"tax_id":"237277","names":[{"lang":"en","v":"NOTARICH INVESTMENTS LIMITED"},{"lang":"hk","v":"益隆投資有限公司"}],"company_since":"1988-12-29","company_dissolved":"1997-08-29","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"236971","names":[{"lang":"en","v":"VIC GREEN COMPANY LIMITED"},{"lang":"hk","v":"粵之英發展有限公司"}],"company_since":"1988-12-29","company_dissolved":"2015-04-17","company_type_txt":"Private, ltd by shares"},

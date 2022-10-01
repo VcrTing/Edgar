@@ -1,0 +1,2 @@
+{"tax_id":"232608","names":[{"lang":"en","v":"FULL HUNDRED INVESTMENTS LIMITED"},{"lang":"hk","v":"百銳投資有限公司"}],"company_since":"1988-11-11","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"232785","names":[{"lang":"en","v":"TOP MINK INDUSTRIAL LIMITED"},{"lang":"hk","v":"旭邦實業有限公司"}],"company_since":"1988-11-11","company_dissolved":"1997-05-30","company_type_txt":"Private, ltd by shares"},

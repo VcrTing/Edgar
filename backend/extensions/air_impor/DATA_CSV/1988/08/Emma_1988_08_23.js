@@ -1,0 +1,2 @@
+{"tax_id":"225192","names":[{"lang":"en","v":"HOLANWA LIMITED"},{"lang":"hk","v":"好來威有限公司"}],"company_since":"1988-08-23","company_dissolved":"1996-03-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"225176","names":[{"lang":"en","v":"SUPERFAITH INDUSTRIES LIMITED"},{"lang":"hk","v":"栢賢實業有限公司"}],"company_since":"1988-08-23","company_dissolved":"2017-09-17","company_type_txt":"Private, ltd by shares"},

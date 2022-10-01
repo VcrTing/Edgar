@@ -1,0 +1,8 @@
+{"tax_id":"132862","names":[{"lang":"en","v":"MORE SOURCE LIMITED (d2006-01-13)"},{"lang":"hk","v":"添寶木業有限公司"}],"company_since":"1984-01-31","company_dissolved":"2006-01-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"132869","names":[{"lang":"en","v":"OVERSEAS STATES LIMITED"},{"lang":"hk","v":"遠林有限公司"}],"company_since":"1984-01-31","company_dissolved":"1997-08-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"132854","names":[{"lang":"en","v":"NIKIN GEMS (HONG KONG) COMPANY LIMITED"},{"lang":"hk","v":"力恆寶石有限公司"}],"company_since":"1984-01-31","company_dissolved":"1997-08-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"132823","names":[{"lang":"en","v":"SANG HING DYEING &amp; BLEACHING FACTORY LIMITED"},{"lang":"hk","v":"生興漂染廠有限公司"}],"company_since":"1984-01-31","company_dissolved":"1993-06-03","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"132844","names":[{"lang":"en","v":"SHARIVARI COMPANY LIMITED"}],"company_since":"1984-01-31","company_dissolved":"1997-08-08","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"132839","names":[{"lang":"en","v":"TUNG HIP HING (HONG KONG) COMPANY LIMITED"},{"lang":"hk","v":"東協興香港股份有限公司"}],"company_since":"1984-01-31","company_dissolved":"1997-08-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"132859","names":[{"lang":"en","v":"WING CHEUNG INDUSTRIAL TRADING COMPANY LIMITED"},{"lang":"hk","v":"榮昌實業貿易有限公司"}],"company_since":"1984-01-31","company_dissolved":"2016-06-03","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"132853","names":[{"lang":"en","v":"YUTAI BRASS AND METAL WARE FACTORY LIMITED"},{"lang":"hk","v":"裕泰銅器五金製品廠有限公司"}],"company_since":"1984-01-31","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

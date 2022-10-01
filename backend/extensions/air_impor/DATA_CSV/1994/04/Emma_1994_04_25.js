@@ -1,0 +1,1 @@
+{"tax_id":"SO9000106","names":[{"lang":"en","v":"EDUCATION UNIVERSITY OF HONG KONG (THE)"},{"lang":"hk","v":"香港教育大學"}],"company_since":"1994-04-25","company_dissolved":"","company_type_txt":"Inc by ordinance"},

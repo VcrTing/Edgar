@@ -1,0 +1,6 @@
+{"tax_id":"136715","names":[{"lang":"en","v":"HIP FUNG TAI (INTERNATIONAL) TRADING COMPANY LIMITED"},{"lang":"hk","v":"協豐泰(國際)旅遊貿易有限公司"}],"company_since":"1984-05-15","company_dissolved":"1996-08-30","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"136753","names":[{"lang":"en","v":"JOINSET LIMITED"},{"lang":"hk","v":"佐成有限公司"}],"company_since":"1984-05-15","company_dissolved":"1996-08-30","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"136746","names":[{"lang":"en","v":"KAMBO SECURITY PRODUCTS LIMITED"}],"company_since":"1984-05-15","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"136731","names":[{"lang":"en","v":"KERRVILLE LIMITED"}],"company_since":"1984-05-15","company_dissolved":"1998-08-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"136733","names":[{"lang":"en","v":"LAIFENG LIMITED"}],"company_since":"1984-05-15","company_dissolved":"1991-08-03","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"136792","names":[{"lang":"en","v":"MAYWOOD LIMITED"},{"lang":"hk","v":"敏和旅遊巴士有限公司"}],"company_since":"1984-05-15","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

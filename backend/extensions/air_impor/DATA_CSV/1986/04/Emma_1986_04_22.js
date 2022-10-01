@@ -1,0 +1,5 @@
+{"tax_id":"168135","names":[{"lang":"en","v":"WELLJOINT COMPANY LIMITED"}],"company_since":"1986-04-22","company_dissolved":"2006-09-01","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"168199","names":[{"lang":"en","v":"TIANJIN INTERNATIONAL GOLF CLUB (HONG KONG) COMPANY LIMITED"},{"lang":"hk","v":"天津國際高爾夫俱樂部(香港)有限公司"}],"company_since":"1986-04-22","company_dissolved":"2004-11-12","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"168152","names":[{"lang":"en","v":"SILVER JUBILEE ENGINEERING DEVELOPMENT LIMITED"},{"lang":"hk","v":"銀禧工程發展有限公司"}],"company_since":"1986-04-22","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"168098","names":[{"lang":"en","v":"TECK YUE FUNG COMPANY LIMITED"},{"lang":"hk","v":"德裕(國際)實業有限公司"}],"company_since":"1986-04-22","company_dissolved":"2003-06-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"168170","names":[{"lang":"en","v":"WAH CHEONG ARTISTIC PICTURE FRAME MAKER LIMITED"},{"lang":"hk","v":"華彰有限公司"}],"company_since":"1986-04-22","company_dissolved":"2008-01-11","company_type_txt":"Private, ltd by shares"},

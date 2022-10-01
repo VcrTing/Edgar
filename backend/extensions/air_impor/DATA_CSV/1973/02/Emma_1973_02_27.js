@@ -1,0 +1,1 @@
+{"tax_id":"32130","names":[{"lang":"en","v":"YUE KING ENTERPRISES LIMITED"},{"lang":"hk","v":"裕景企業有限公司"}],"company_since":"1973-02-27","company_dissolved":"2009-08-19","company_type_txt":"Private, ltd by shares"},

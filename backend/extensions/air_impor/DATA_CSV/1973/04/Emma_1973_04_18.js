@@ -1,0 +1,3 @@
+{"tax_id":"32997","names":[{"lang":"en","v":"WINWAY ENTERPRISES COMPANY LIMITED"},{"lang":"hk","v":"永威商業發展有限公司"}],"company_since":"1973-04-18","company_dissolved":"1995-05-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"33046","names":[{"lang":"en","v":"WONG SHUN LEUNG VING TSUN MARTIAL ART ASSOCIATION LIMITED"},{"lang":"hk","v":"黃淳樑詠春國術會有限公司"}],"company_since":"1973-04-18","company_dissolved":"1995-04-28","company_type_txt":"Ltd by guarantee"},
+{"tax_id":"33023","names":[{"lang":"en","v":"VICTORIA PUREBRISTLE &amp; CURLCLIPS LIMITED"}],"company_since":"1973-04-18","company_dissolved":"1989-12-02","company_type_txt":"Private, ltd by shares"},

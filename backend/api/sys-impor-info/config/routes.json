@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/sys-impor-info",
+      "handler": "sys-impor-info.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/sys-impor-info",
+      "handler": "sys-impor-info.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/sys-impor-info",
+      "handler": "sys-impor-info.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

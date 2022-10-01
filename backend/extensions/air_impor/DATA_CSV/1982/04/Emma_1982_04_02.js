@@ -1,0 +1,4 @@
+{"tax_id":"110569","names":[{"lang":"en","v":"JOYLINK INTERNATIONAL LIMITED (d1994-03-03)"},{"lang":"hk","v":"佐靈國際有限公司"}],"company_since":"1982-04-02","company_dissolved":"1994-03-03","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"110539","names":[{"lang":"en","v":"KAMIGUMI (HONG KONG) COMPANY LIMITED"},{"lang":"hk","v":"上組(香港)有限公司"}],"company_since":"1982-04-02","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"110508","names":[{"lang":"en","v":"KONG MEI TAI COMPANY LIMITED"}],"company_since":"1982-04-02","company_dissolved":"1996-10-18","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"110552","names":[{"lang":"en","v":"LOWRIVER ESTATES LIMITED"}],"company_since":"1982-04-02","company_dissolved":"2000-11-03","company_type_txt":"Private, ltd by shares"},

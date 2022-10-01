@@ -1,0 +1,3 @@
+{"tax_id":"219287","names":[{"lang":"en","v":"KNO ENTERPRISES LIMITED"},{"lang":"hk","v":"啟安企業有限公司"}],"company_since":"1988-06-24","company_dissolved":"2001-02-02","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"219262","names":[{"lang":"en","v":"SWISS-SURE CO. LIMITED"}],"company_since":"1988-06-24","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"219141","names":[{"lang":"en","v":"E M INVESTMENTS LIMITED (d2005-03-04)"},{"lang":"hk","v":"億恩投資有限公司"}],"company_since":"1988-06-24","company_dissolved":"2005-03-04","company_type_txt":"Private, ltd by shares"},

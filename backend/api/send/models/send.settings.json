@@ -1,0 +1,57 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sends",
+  "info": {
+    "name": "Send",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "times": {
+      "type": "json"
+    },
+    "send_active": {
+      "type": "boolean",
+      "default": true
+    },
+    "remind": {
+      "via": "sends",
+      "model": "remind"
+    },
+    "work_year": {
+      "type": "integer"
+    },
+    "is_serial": {
+      "type": "boolean",
+      "default": false
+    },
+    "user": {
+      "plugin": "users-permissions",
+      "model": "user",
+      "via": "sends"
+    },
+    "company": {
+      "via": "sends",
+      "model": "company"
+    },
+    "times_since": {
+      "type": "json"
+    },
+    "is_first": {
+      "type": "boolean",
+      "default": false
+    },
+    "finish_first": {
+      "type": "boolean",
+      "default": false
+    },
+    "result": {
+      "type": "json"
+    }
+  }
+}

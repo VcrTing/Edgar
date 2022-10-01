@@ -1,0 +1,2 @@
+{"tax_id":"263357","names":[{"lang":"en","v":"WISOTEX COMPANY LIMITED"},{"lang":"hk","v":"偉素達有限公司"}],"company_since":"1989-09-26","company_dissolved":"1994-11-18","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"263327","names":[{"lang":"en","v":"FORTNUM INVESTMENT SERVICES LIMITED"},{"lang":"hk","v":"福臨投資服務有限公司"}],"company_since":"1989-09-26","company_dissolved":"1997-01-24","company_type_txt":"Private, ltd by shares"},

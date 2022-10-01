@@ -1,0 +1,60 @@
+{
+  "kind": "collectionType",
+  "collectionName": "company_origins",
+  "info": {
+    "name": "CompanyOrigin",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "tax_id": {
+      "type": "string",
+      "required": true,
+      "unique": false
+    },
+    "company_type": {
+      "type": "integer",
+      "default": 1
+    },
+    "last_tax_filing_time": {
+      "type": "datetime"
+    },
+    "phones": {
+      "type": "json"
+    },
+    "emails": {
+      "type": "json"
+    },
+    "names": {
+      "type": "json"
+    },
+    "data_from": {
+      "type": "string",
+      "default": "admin_create"
+    },
+    "company_since": {
+      "type": "date"
+    },
+    "status": {
+      "type": "boolean",
+      "default": true
+    },
+    "order": {
+      "type": "integer"
+    },
+    "level": {
+      "type": "integer",
+      "default": 1
+    },
+    "company_type_txt": {
+      "type": "string"
+    },
+    "company_dissolved": {
+      "type": "string"
+    }
+  }
+}

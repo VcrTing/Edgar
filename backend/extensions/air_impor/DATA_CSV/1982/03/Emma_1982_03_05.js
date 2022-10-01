@@ -1,0 +1,7 @@
+{"tax_id":"109508","names":[{"lang":"en","v":"LUMBER WORLD (F.E.) LIMITED"},{"lang":"hk","v":"金津有限公司"}],"company_since":"1982-03-05","company_dissolved":"2007-07-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"109473","names":[{"lang":"en","v":"OSSHA LIMITED"}],"company_since":"1982-03-05","company_dissolved":"2002-02-08","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"109450","names":[{"lang":"en","v":"PALIBURG (NOMINEES) LIMITED"},{"lang":"hk","v":"百利保(代理人)有限公司"}],"company_since":"1982-03-05","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"109515","names":[{"lang":"en","v":"QUESTIME WATCH INDUSTRY LIMITED"}],"company_since":"1982-03-05","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"109495","names":[{"lang":"en","v":"RUBY TOWN LIMITED"}],"company_since":"1982-03-05","company_dissolved":"1996-07-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"109478","names":[{"lang":"en","v":"TAI WING AUDIO &amp; PHOTO SUPPLIES LIMITED"},{"lang":"hk","v":"大榮音響攝影器材有限公司"}],"company_since":"1982-03-05","company_dissolved":"1996-05-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"109407","names":[{"lang":"en","v":"TAM SHIU HONG COMPANY LIMITED"},{"lang":"hk","v":"譚肇康有限公司"}],"company_since":"1982-03-05","company_dissolved":"2014-12-31","company_type_txt":"Private, ltd by shares"},

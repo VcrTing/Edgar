@@ -1,0 +1,5 @@
+{"tax_id":"108221","names":[{"lang":"en","v":"WELEAST (H.K.) LIMITED"},{"lang":"hk","v":"瀛寰(香港)有限公司"}],"company_since":"1982-01-22","company_dissolved":"2005-01-28","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"108220","names":[{"lang":"en","v":"WLH INTERNATIONAL LIMITED"},{"lang":"hk","v":"景安皮業有限公司"}],"company_since":"1982-01-22","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"108142","names":[{"lang":"en","v":"WOOLWICH IMPORT &amp; EXPORT LIMITED"}],"company_since":"1982-01-22","company_dissolved":"1990-12-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"108163","names":[{"lang":"en","v":"P.K. INDUSTRIAL LIMITED"},{"lang":"hk","v":"堡京工業有限公司"}],"company_since":"1982-01-22","company_dissolved":"1996-05-31","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"108124","names":[{"lang":"en","v":"RICHMAN INTERNATIONAL COMPANY LIMITED"},{"lang":"hk","v":"利茵國際有限公司"}],"company_since":"1982-01-22","company_dissolved":"2000-04-07","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,6 @@
+{"tax_id":"162110","names":[{"lang":"en","v":"MARK YIP INVESTMENT LIMITED"},{"lang":"hk","v":"名業投資有限公司"}],"company_since":"1985-11-26","company_dissolved":"1996-09-27","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"162051","names":[{"lang":"en","v":"MANOLAND COMPANY LIMITED"},{"lang":"hk","v":"萬路聯有限公司"}],"company_since":"1985-11-26","company_dissolved":"1996-09-27","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"162192","names":[{"lang":"en","v":"SHING MEE METAL &amp; LEATHER FACTORY LIMITED"},{"lang":"hk","v":"盛美五金皮具製品有限公司"}],"company_since":"1985-11-26","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"162135","names":[{"lang":"en","v":"SILVER CORD INVESTMENTS LIMITED"},{"lang":"hk","v":"銀漢投資有限公司"}],"company_since":"1985-11-26","company_dissolved":"1998-06-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"162139","names":[{"lang":"en","v":"WAN LIGHT LIMITED (d1992-11-22)"},{"lang":"hk","v":"韻光有限公司"}],"company_since":"1985-11-26","company_dissolved":"1992-11-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"162122","names":[{"lang":"en","v":"MORNING SPEED INVESTMENT COMPANY LIMITED"},{"lang":"hk","v":"晨速投資有限公司"}],"company_since":"1985-11-26","company_dissolved":"1996-09-27","company_type_txt":"Private, ltd by shares"},

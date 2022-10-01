@@ -1,0 +1,2 @@
+{"tax_id":"169507","names":[{"lang":"en","v":"HONART ENTERPRISES LIMITED"},{"lang":"hk","v":"漢室企業有限公司"}],"company_since":"1986-05-20","company_dissolved":"2008-10-31","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"169561","names":[{"lang":"en","v":"GAINEAR INVESTMENTS LIMITED"},{"lang":"hk","v":"金尼投資有限公司"}],"company_since":"1986-05-20","company_dissolved":"1996-12-27","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,3 @@
+{"tax_id":"222944","names":[{"lang":"en","v":"FAIR KITTY INVESTMENT LIMITED"},{"lang":"hk","v":"獲豐投資有限公司"}],"company_since":"1988-08-02","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"222988","names":[{"lang":"en","v":"WOODLAND DEVELOPMENT LIMITED"},{"lang":"hk","v":"世外桃源開發有限公司"}],"company_since":"1988-08-02","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"222994","names":[{"lang":"en","v":"WEALTH KEY LIMITED (d1997-06-27)"},{"lang":"hk","v":"富匙有限公司"}],"company_since":"1988-08-02","company_dissolved":"1997-06-27","company_type_txt":"Private, ltd by shares"},

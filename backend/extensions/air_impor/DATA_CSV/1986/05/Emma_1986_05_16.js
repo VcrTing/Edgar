@@ -1,0 +1,3 @@
+{"tax_id":"169383","names":[{"lang":"en","v":"PLANCAP COMPANY LIMITED"}],"company_since":"1986-05-16","company_dissolved":"2001-08-24","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"169381","names":[{"lang":"en","v":"POMINTRY TRADING COMPANY LIMITED"},{"lang":"hk","v":"普敏貿易有限公司"}],"company_since":"1986-05-16","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"169434","names":[{"lang":"en","v":"SOUTH GARDEN SERVICES LIMITED"},{"lang":"hk","v":"南園服務有限公司"}],"company_since":"1986-05-16","company_dissolved":"1996-10-25","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,4 @@
+{"tax_id":"61727","names":[{"lang":"en","v":"SU'S PRECIOUS &amp; SEMI-PRECIOUS STONES MANUFACTURE COMPANY LIMITED"},{"lang":"hk","v":"蘇氏寶石有限公司"}],"company_since":"1978-07-04","company_dissolved":"1986-07-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"61782","names":[{"lang":"en","v":"V-2 ENTERPRISES LIMITED"}],"company_since":"1978-07-04","company_dissolved":"1997-01-03","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"61779","names":[{"lang":"en","v":"ZUMA ENTERPRISES (H. K.) LIMITED"}],"company_since":"1978-07-04","company_dissolved":"1995-09-29","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"61772","names":[{"lang":"en","v":"SADARA INVESTMENT COMPANY LIMITED"}],"company_since":"1978-07-04","company_dissolved":"1999-07-09","company_type_txt":"Private, ltd by shares"},

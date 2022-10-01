@@ -1,0 +1,3 @@
+{"tax_id":"288934","names":[{"lang":"en","v":"SUN LUNG LINE COMPANY LIMITED"},{"lang":"hk","v":"新龍航運有限公司"}],"company_since":"1990-10-12","company_dissolved":"2003-09-05","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"289011","names":[{"lang":"en","v":"STABLE FORTUNE INVESTMENTS LIMITED"},{"lang":"hk","v":"固發投資有限公司"}],"company_since":"1990-10-12","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"289135","names":[{"lang":"en","v":"ROME HIGH LIMITED"},{"lang":"hk","v":"主脈有限公司"}],"company_since":"1990-10-12","company_dissolved":"2000-01-14","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,2 @@
+{"tax_id":"177155","names":[{"lang":"en","v":"GRAINBULK TRADING SERVICES LIMITED"}],"company_since":"1986-10-28","company_dissolved":"1997-01-03","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"177194","names":[{"lang":"en","v":"TAI YAU PIECE GOODS CO., LIMITED"},{"lang":"hk","v":"大有疋頭有限公司"}],"company_since":"1986-10-28","company_dissolved":"2012-03-02","company_type_txt":"Private, ltd by shares"},

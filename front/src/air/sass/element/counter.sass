@@ -1,0 +1,35 @@
+
+$couter: #676868
+$couter_br: #989999
+$couter_hr: #989999
+    
+.focus_tab_three
+    margin: 0px !important
+    .ftt_hr
+        height: 1px
+        background: none !important
+        border: none
+        border-top: 1px dashed $couter_hr
+
+
+.counter
+    @extend .fx-c
+    .counter_cont
+        color: $thd 
+        max-width: 290px
+        padding: $ds_s $ds
+
+    .active
+        color: #FFF
+        background: $primary
+        border-color: $primary
+
+.counter_icon
+    @extend .h3
+    @extend .t-c
+    width: 1.4em
+    height: 1.4em
+    color: $couter
+    border-radius: 100%
+    border: 1px solid $couter_br 
+    transition: all .62s ease-out

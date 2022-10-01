@@ -1,0 +1,3 @@
+{"tax_id":"167699","names":[{"lang":"en","v":"KM Development Limited"},{"lang":"hk","v":"建珉發展有限公司"}],"company_since":"1986-04-11","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"167660","names":[{"lang":"en","v":"LARGEWAY DEVELOPMENTS LIMITED"},{"lang":"hk","v":"立偉發展有限公司"}],"company_since":"1986-04-11","company_dissolved":"1996-11-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"167636","names":[{"lang":"en","v":"PAK SHING PLUMBING ENGINEERS LIMITED"},{"lang":"hk","v":"百成水電工程有限公司"}],"company_since":"1986-04-11","company_dissolved":"1997-05-16","company_type_txt":"Private, ltd by shares"},

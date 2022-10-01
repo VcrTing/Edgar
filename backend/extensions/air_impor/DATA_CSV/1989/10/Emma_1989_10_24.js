@@ -1,0 +1,5 @@
+{"tax_id":"265035","names":[{"lang":"en","v":"FINE CONTINENT INVESTMENT LIMITED"},{"lang":"hk","v":"騰傲投資有限公司"}],"company_since":"1989-10-24","company_dissolved":"1992-12-08","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"265060","names":[{"lang":"en","v":"TOMORROW CONCEPT LIMITED"},{"lang":"hk","v":"明日概念有限公司"}],"company_since":"1989-10-24","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"265005","names":[{"lang":"en","v":"TOPNEA LIMITED"},{"lang":"hk","v":"達利祥有限公司"}],"company_since":"1989-10-24","company_dissolved":"1997-05-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"264977","names":[{"lang":"en","v":"GRAND TARGET LIMITED"},{"lang":"hk","v":"國企有限公司"}],"company_since":"1989-10-24","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"264954","names":[{"lang":"en","v":"INTERBULK (HK) LIMITED"}],"company_since":"1989-10-24","company_dissolved":"1999-07-23","company_type_txt":"Private, ltd by shares"},

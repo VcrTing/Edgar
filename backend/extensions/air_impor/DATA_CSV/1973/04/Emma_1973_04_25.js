@@ -1,0 +1,3 @@
+{"tax_id":"33074","names":[{"lang":"en","v":"WAI KEY KNITTING COMPANY LIMITED"},{"lang":"hk","v":"偉奇織業有限公司"}],"company_since":"1973-04-25","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"33104","names":[{"lang":"en","v":"WINSTEAD ENTERPRISES LIMITED"},{"lang":"hk","v":"群建企業有限公司"}],"company_since":"1973-04-25","company_dissolved":"1985-01-25","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"33067","names":[{"lang":"en","v":"YOUNG WAI LAND INVESTMENT LIMITED"},{"lang":"hk","v":"揚威地產發展有限公司"}],"company_since":"1973-04-25","company_dissolved":"1993-05-28","company_type_txt":"Private, ltd by shares"},

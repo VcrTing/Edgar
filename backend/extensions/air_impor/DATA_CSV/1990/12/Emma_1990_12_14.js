@@ -1,0 +1,4 @@
+{"tax_id":"293679","names":[{"lang":"en","v":"HANG SHUN MEDICINE TRADING COMPANY LIMITED"},{"lang":"hk","v":"恒信葯業有限公司"}],"company_since":"1990-12-14","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"293648","names":[{"lang":"en","v":"MELODY KARAOKE LIMITED"}],"company_since":"1990-12-14","company_dissolved":"2003-05-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"293838","names":[{"lang":"en","v":"HEAD DESIRE LIMITED"},{"lang":"hk","v":"首願有限公司"}],"company_since":"1990-12-14","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"293946","names":[{"lang":"en","v":"TRIPLE TOWER COMPANY LIMITED"},{"lang":"hk","v":"更昶有限公司"}],"company_since":"1990-12-14","company_dissolved":"1995-03-06","company_type_txt":"Private, ltd by shares"},

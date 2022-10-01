@@ -1,0 +1,4 @@
+{"tax_id":"287765","names":[{"lang":"en","v":"HIGHPEAK INVESTMENTS LIMITED"},{"lang":"hk","v":"卓亨投資有限公司"}],"company_since":"1990-09-21","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"287620","names":[{"lang":"en","v":"KINLUNG ENGINEERING LIMITED (d2003-08-29)"},{"lang":"hk","v":"建隆工程有限公司"}],"company_since":"1990-09-21","company_dissolved":"2003-08-29","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"287744","names":[{"lang":"en","v":"MAXPLAST (H.K.) COMPANY LIMITED"},{"lang":"hk","v":"貝杰(香港)有限公司"}],"company_since":"1990-09-21","company_dissolved":"1999-01-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"287747","names":[{"lang":"en","v":"REGAL HARVEST LIMITED (d1999-07-23)"},{"lang":"hk","v":"利可收有限公司"}],"company_since":"1990-09-21","company_dissolved":"1999-07-23","company_type_txt":"Private, ltd by shares"},

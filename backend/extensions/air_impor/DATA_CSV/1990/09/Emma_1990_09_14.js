@@ -1,0 +1,1 @@
+{"tax_id":"287239","names":[{"lang":"en","v":"SHALLFIELD INVESTMENT LIMITED"},{"lang":"hk","v":"昭田投資有限公司"}],"company_since":"1990-09-14","company_dissolved":"1997-04-04","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,1 @@
+{"tax_id":"271583","names":[{"lang":"en","v":"Insurance Complaints Bureau (The)"},{"lang":"hk","v":"保險投訴局"}],"company_since":"1990-02-19","company_dissolved":"","company_type_txt":"Ltd by guarantee"},

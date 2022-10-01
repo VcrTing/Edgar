@@ -1,0 +1,3 @@
+{"tax_id":"171982","names":[{"lang":"en","v":"PORTKING DEVELOPMENT LIMITED"},{"lang":"hk","v":"港勁發展有限公司"}],"company_since":"1986-07-18","company_dissolved":"1998-03-12","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"171902","names":[{"lang":"en","v":"RICHARDS BUTLER SECRETARIAT LIMITED"}],"company_since":"1986-07-18","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"171965","names":[{"lang":"en","v":"SHELDON POON TRAVEL SERVICE COMPANY (H.K.) LIMITED"}],"company_since":"1986-07-18","company_dissolved":"2003-02-21","company_type_txt":"Private, ltd by shares"},

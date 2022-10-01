@@ -1,0 +1,4 @@
+{"tax_id":"220971","names":[{"lang":"en","v":"LI SHU TAK TONG LIMITED"},{"lang":"hk","v":"李樹德堂有限公司"}],"company_since":"1988-07-12","company_dissolved":"2003-02-14","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"220867","names":[{"lang":"en","v":"YGM DEPARTMENT STORE LIMITED"}],"company_since":"1988-07-12","company_dissolved":"2019-12-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"220962","names":[{"lang":"en","v":"MIL-BRIGHT DEVELOPMENT LIMITED"},{"lang":"hk","v":"萬光發展有限公司"}],"company_since":"1988-07-12","company_dissolved":"1997-03-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"220895","names":[{"lang":"en","v":"FARRIA DEVELOPMENT LIMITED"},{"lang":"hk","v":"方亞發展有限公司"}],"company_since":"1988-07-12","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

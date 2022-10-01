@@ -1,0 +1,3 @@
+{"tax_id":"495507","names":[{"lang":"en","v":"FAR EAST EAGLE LIMITED"},{"lang":"hk","v":"遠東飛鷹有限公司"}],"company_since":"1994-11-01","company_dissolved":"1998-10-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"495570","names":[{"lang":"en","v":"COMMERCIAL EMPIRE LIMITED (d2001-10-19)"},{"lang":"hk","v":"貿易都有限公司"}],"company_since":"1994-11-01","company_dissolved":"2001-10-19","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"495579","names":[{"lang":"en","v":"YI TAI INTERNATIONAL HOLDING LIMITED"},{"lang":"hk","v":"義泰國際集團有限公司"}],"company_since":"1994-11-01","company_dissolved":"1998-12-18","company_type_txt":"Private, ltd by shares"},

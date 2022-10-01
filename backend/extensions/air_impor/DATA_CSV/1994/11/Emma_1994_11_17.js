@@ -1,0 +1,4 @@
+{"tax_id":"497453","names":[{"lang":"en","v":"HARVEST WISE TRADING LIMITED"},{"lang":"hk","v":"豐智貿易有限公司"}],"company_since":"1994-11-17","company_dissolved":"2016-07-15","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"497650","names":[{"lang":"en","v":"CHINA WORLD TRADE CENTER LIMITED"},{"lang":"hk","v":"中國國際貿易中心股份有限公司"}],"company_since":"1994-11-17","company_dissolved":"2003-06-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"497741","names":[{"lang":"en","v":"YAT FUNG DECORATION COMPANY LIMITED"},{"lang":"hk","v":"溢豐裝飾布有限公司"}],"company_since":"1994-11-17","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"497704","names":[{"lang":"en","v":"K T NOMINEES LIMITED"},{"lang":"hk","v":"佳能代理有限公司"}],"company_since":"1994-11-17","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

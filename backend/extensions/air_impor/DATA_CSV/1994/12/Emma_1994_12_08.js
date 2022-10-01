@@ -1,0 +1,3 @@
+{"tax_id":"500097","names":[{"lang":"en","v":"F&amp;G LOW VOLTAGE SWITCHGEAR CHINA LIMITED"}],"company_since":"1994-12-08","company_dissolved":"2000-08-11","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"500171","names":[{"lang":"en","v":"TONG SHING INDUSTRIAL LIMITED"},{"lang":"hk","v":"東誠工業有限公司"}],"company_since":"1994-12-08","company_dissolved":"1998-12-18","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"499997","names":[{"lang":"en","v":"YUNG KEE PROPERTIES LIMITED"},{"lang":"hk","v":"鏞記置業有限公司"}],"company_since":"1994-12-08","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

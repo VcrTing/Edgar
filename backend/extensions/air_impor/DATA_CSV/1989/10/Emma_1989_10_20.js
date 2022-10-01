@@ -1,0 +1,1 @@
+{"tax_id":"264821","names":[{"lang":"en","v":"PAN LINKER INT'L SHIPPING LIMITED"},{"lang":"hk","v":"泛聯國際船務有限公司"}],"company_since":"1989-10-20","company_dissolved":"1997-01-24","company_type_txt":"Private, ltd by shares"},

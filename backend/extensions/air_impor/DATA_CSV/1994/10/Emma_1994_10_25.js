@@ -1,0 +1,6 @@
+{"tax_id":"494896","names":[{"lang":"en","v":"FUNG YUE CHEMICALS LIMITED"},{"lang":"hk","v":"豐裕石油化工有限公司"}],"company_since":"1994-10-25","company_dissolved":"2018-09-28","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"494862","names":[{"lang":"en","v":"DIGITAL COMMUNICATIONS ACTIVATIONS GROUP LIMITED"},{"lang":"hk","v":"數碼傳訊有限公司"}],"company_since":"1994-10-25","company_dissolved":"2003-09-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"494723","names":[{"lang":"en","v":"THAI FUNG ENTERPRISES LIMITED"},{"lang":"hk","v":"泰豐(亞洲)企業有限公司"}],"company_since":"1994-10-25","company_dissolved":"2003-12-11","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"494848","names":[{"lang":"en","v":"XIQIAO HILL BI YUN (H.K.) DEVELOPMENT COMPANY LIMITED"},{"lang":"hk","v":"西樵山碧雲(香港)發展有限公司"}],"company_since":"1994-10-25","company_dissolved":"1998-11-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"494881","names":[{"lang":"en","v":"INFOTRONIX LIMITED (d2001-04-20)"}],"company_since":"1994-10-25","company_dissolved":"2001-04-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"494880","names":[{"lang":"en","v":"MUSIC MEDIA INTERNATIONAL LIMITED"}],"company_since":"1994-10-25","company_dissolved":"2004-03-12","company_type_txt":"Private, ltd by shares"},

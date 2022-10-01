@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/sys-impor-records",
+      "handler": "sys-impor-record.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/sys-impor-records/count",
+      "handler": "sys-impor-record.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/sys-impor-records/:id",
+      "handler": "sys-impor-record.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/sys-impor-records",
+      "handler": "sys-impor-record.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/sys-impor-records/:id",
+      "handler": "sys-impor-record.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/sys-impor-records/:id",
+      "handler": "sys-impor-record.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

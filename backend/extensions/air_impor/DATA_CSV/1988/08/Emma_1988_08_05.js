@@ -1,0 +1,6 @@
+{"tax_id":"223401","names":[{"lang":"en","v":"JENJUNE COMPANY LIMITED"},{"lang":"hk","v":"珍駿有限公司"}],"company_since":"1988-08-05","company_dissolved":"1994-05-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"223522","names":[{"lang":"en","v":"CROWN ISLAND (HK) LIMITED"},{"lang":"hk","v":"皇島有限公司"}],"company_since":"1988-08-05","company_dissolved":"1997-04-25","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"223457","names":[{"lang":"en","v":"ONVIEW DEVELOPMENT LIMITED"},{"lang":"hk","v":"浩和發展有限公司"}],"company_since":"1988-08-05","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"223147","names":[{"lang":"en","v":"GAINBUSILY AGENT LIMITED"},{"lang":"hk","v":"金百利代理有限公司"}],"company_since":"1988-08-05","company_dissolved":"1997-03-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"223394","names":[{"lang":"en","v":"TOWNCORE INVESTMENT LIMITED"},{"lang":"hk","v":"宣和投資有限公司"}],"company_since":"1988-08-05","company_dissolved":"2003-05-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"223317","names":[{"lang":"en","v":"RUBY DIAMOND LIMITED (d1997-05-20)"}],"company_since":"1988-08-05","company_dissolved":"1997-05-20","company_type_txt":"Private, ltd by shares"},

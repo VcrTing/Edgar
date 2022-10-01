@@ -1,0 +1,85 @@
+.html
+    max-width: 1240px
+    margin: 0 auto
+    & > div
+        position: relative
+
+$mL: calc(120px + 5vw)
+.menu
+    position: absolute
+    left: 0
+    top: 0
+    width: $mL
+    height: 100%
+
+.cont
+    width: 100%
+    padding-left: calc( 172px + 5vw )
+
+$menu_H: 42px
+@media screen and (max-width: 763px)
+    .cont
+        padding: 0px $ds_x2
+        padding-top: 60px
+    $mL: calc(106px + 5vw)
+    .menu
+        position: fixed
+        z-index: 700
+        left: 0
+        top: 0
+        width: 100%
+        min-height: $menu_H
+        height: auto !important
+        .menu-top
+            padding-top: 0px
+            ul
+                border: none
+                border-radius: 0px
+                max-height: 0em
+        .menu-app-bar
+            min-height: $menu_H
+        .menu-active
+            box-shadow: 0px 0.7px 6px -0.2px rgba(0, 0, 0, 0.28)
+            ul
+                max-height: 15em
+                animation: open_menu .242s ease-in-out
+
+
+    .menu,
+    .version,
+    .menu-app-bar
+        background: #FFF !important
+    .version
+        padding-top: $ds
+        border-top-right-radius: 1em !important
+
+@keyframes open_menu
+    0%
+        max-height: 0em
+        
+    100%
+        max-height: 10em
+        
+@media screen and (min-width: 763px)
+    .menu-app-bar
+        display: none
+    
+
+// MENU
+
+.menu-top
+    padding-top: 24px
+    ul
+        overflow: hidden
+        border-radius: 5.5px
+        border: 1px solid #dedede
+        li
+            cursor: pointer
+            padding: 12px 24px
+            padding-right: 6px
+            &:hover
+                background: #f6f6f6
+
+        li.active
+            color: #FFFFFFEF
+            background: $primary

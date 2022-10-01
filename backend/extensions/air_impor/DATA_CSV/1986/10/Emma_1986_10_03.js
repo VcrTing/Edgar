@@ -1,0 +1,5 @@
+{"tax_id":"175793","names":[{"lang":"en","v":"FRENCH CHAMBER OF COMMERCE AND INDUSTRY IN HONG KONG (THE)"}],"company_since":"1986-10-03","company_dissolved":"","company_type_txt":"Ltd by guarantee"},
+{"tax_id":"175839","names":[{"lang":"en","v":"GIANTVIEW INDUSTRIES LIMITED"},{"lang":"hk","v":"展鴻實業有限公司"}],"company_since":"1986-10-03","company_dissolved":"1997-02-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"175799","names":[{"lang":"en","v":"KYUNG IN ELECTRONICS (HK) LIMITED"},{"lang":"hk","v":"京仁電子(香港)有限公司"}],"company_since":"1986-10-03","company_dissolved":"2010-07-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"175928","names":[{"lang":"en","v":"MAXSOME INVESTMENT LIMITED"},{"lang":"hk","v":"銘森投資有限公司"}],"company_since":"1986-10-03","company_dissolved":"1989-04-17","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"175869","names":[{"lang":"en","v":"GAIN PREMIER COMPANY LIMITED"},{"lang":"hk","v":"股利有限公司"}],"company_since":"1986-10-03","company_dissolved":"1997-02-28","company_type_txt":"Private, ltd by shares"},

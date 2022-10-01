@@ -1,0 +1,2 @@
+{"tax_id":"257061","names":[{"lang":"en","v":"PAO TAI COMPANY LIMITED"},{"lang":"hk","v":"寶泰企業發展(香港)有限公司"}],"company_since":"1989-07-04","company_dissolved":"2001-02-02","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"257064","names":[{"lang":"en","v":"HARVEST YEAR INVESTMENT LIMITED"},{"lang":"hk","v":"賀潤投資有限公司"}],"company_since":"1989-07-04","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

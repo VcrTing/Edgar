@@ -1,0 +1,6 @@
+{"tax_id":"227716","names":[{"lang":"en","v":"SAITON ENGINEERING LIMITED"},{"lang":"hk","v":"世通工程有限公司"}],"company_since":"1988-09-23","company_dissolved":"2017-05-22","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"227758","names":[{"lang":"en","v":"GENUTEX INTERNATIONAL LIMITED"}],"company_since":"1988-09-23","company_dissolved":"1997-04-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"228108","names":[{"lang":"en","v":"RIGHT USE INVESTMENTS LIMITED"},{"lang":"hk","v":"威銳投資有限公司"}],"company_since":"1988-09-23","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"228110","names":[{"lang":"en","v":"RIGHT GRADE DEVELOPMENT LIMITED"},{"lang":"hk","v":"威品發展有限公司"}],"company_since":"1988-09-23","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"228189","names":[{"lang":"en","v":"Nam Boo Trading Company Limited"},{"lang":"hk","v":"楠竹貿易有限公司"}],"company_since":"1988-09-23","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"228096","names":[{"lang":"en","v":"EARNING VIEW INDUSTRIES LIMITED"},{"lang":"hk","v":"景盈實業有限公司"}],"company_since":"1988-09-23","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

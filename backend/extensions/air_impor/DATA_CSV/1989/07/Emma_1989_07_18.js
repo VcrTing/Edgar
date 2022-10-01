@@ -1,0 +1,1 @@
+{"tax_id":"258479","names":[{"lang":"en","v":"SAGAWISE LIMITED"},{"lang":"hk","v":"自能有限公司"}],"company_since":"1989-07-18","company_dissolved":"1997-08-22","company_type_txt":"Private, ltd by shares"},

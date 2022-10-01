@@ -1,0 +1,4 @@
+{"tax_id":"295072","names":[{"lang":"en","v":"NEW DATE INDUSTRIAL COMPANY LIMITED"},{"lang":"hk","v":"新時代螺絲有限公司"}],"company_since":"1990-12-28","company_dissolved":"1998-03-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"294858","names":[{"lang":"en","v":"METALWORK CONSULTANTS LIMITED"}],"company_since":"1990-12-28","company_dissolved":"1992-06-30","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"295052","names":[{"lang":"en","v":"HINNIT INVESTMENT LIMITED"},{"lang":"hk","v":"興傑投資有限公司"}],"company_since":"1990-12-28","company_dissolved":"2003-12-05","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"294833","names":[{"lang":"en","v":"SUM TAT (SICHUAN) LIMITED"},{"lang":"hk","v":"森達(四川)有限公司"}],"company_since":"1990-12-28","company_dissolved":"1998-11-13","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,7 @@
+{"tax_id":"496705","names":[{"lang":"en","v":"CROWN JOY INVESTMENT LIMITED"},{"lang":"hk","v":"建彩投資有限公司"}],"company_since":"1994-11-08","company_dissolved":"2005-11-11","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"496271","names":[{"lang":"en","v":"GROUP HERO INTERNATIONAL LIMITED"},{"lang":"hk","v":"浩英國際有限公司"}],"company_since":"1994-11-08","company_dissolved":"1998-01-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"496558","names":[{"lang":"en","v":"NICE REGAL DEVELOPMENT LIMITED"},{"lang":"hk","v":"明浚發展有限公司"}],"company_since":"1994-11-08","company_dissolved":"2001-05-11","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"496274","names":[{"lang":"en","v":"PARK CROWN INTERNATIONAL LIMITED"},{"lang":"hk","v":"栢冠國際有限公司"}],"company_since":"1994-11-08","company_dissolved":"2003-10-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"496364","names":[{"lang":"en","v":"RYBN ELECTRICAL COMPANY LIMITED"},{"lang":"hk","v":"三相電器工程有限公司"}],"company_since":"1994-11-08","company_dissolved":"2007-03-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"496354","names":[{"lang":"en","v":"TELECITY LIMITED (d2006-04-07)"},{"lang":"hk","v":"泰京有限公司"}],"company_since":"1994-11-08","company_dissolved":"2006-04-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"496343","names":[{"lang":"en","v":"MODERN RICH INVESTMENTS LIMITED"},{"lang":"hk","v":"茂富投資有限公司"}],"company_since":"1994-11-08","company_dissolved":"2004-03-26","company_type_txt":"Private, ltd by shares"},

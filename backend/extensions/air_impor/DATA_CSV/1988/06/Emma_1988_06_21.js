@@ -1,0 +1,5 @@
+{"tax_id":"218947","names":[{"lang":"en","v":"KEY HOPE INVESTMENT LIMITED"},{"lang":"hk","v":"希健投資有限公司"}],"company_since":"1988-06-21","company_dissolved":"2016-03-11","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"218763","names":[{"lang":"en","v":"GRT INTERNATIONAL LIMITED"},{"lang":"hk","v":"鴻浩國際有限公司"}],"company_since":"1988-06-21","company_dissolved":"2005-06-24","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"218951","names":[{"lang":"en","v":"STRATEGIC PROFILES LIMITED"}],"company_since":"1988-06-21","company_dissolved":"2002-12-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"218868","names":[{"lang":"en","v":"SKY TYPE LIMITED"},{"lang":"hk","v":"繁式有限公司"}],"company_since":"1988-06-21","company_dissolved":"2019-12-24","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"218894","names":[{"lang":"en","v":"MOON &amp; MARS LIMITED"}],"company_since":"1988-06-21","company_dissolved":"2009-11-13","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,5 @@
+{"tax_id":"229390","names":[{"lang":"en","v":"HANTA TEXTILE CO. LIMITED"},{"lang":"hk","v":"亨泰紡織有限公司"}],"company_since":"1988-10-07","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"229632","names":[{"lang":"en","v":"SKY FORTUNE DEVELOPMENT LIMITED (d2011-06-17)"},{"lang":"hk","v":"世活發展有限公司"}],"company_since":"1988-10-07","company_dissolved":"2011-06-17","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"229697","names":[{"lang":"en","v":"NORTH DRAGON'S LAIR LIMITED"},{"lang":"hk","v":"北龍居有限公司"}],"company_since":"1988-10-07","company_dissolved":"2003-02-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"229401","names":[{"lang":"en","v":"E &amp; L MICRO-INDUSTRIES LIMITED"},{"lang":"hk","v":"意利電子有限公司"}],"company_since":"1988-10-07","company_dissolved":"2001-04-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"229311","names":[{"lang":"en","v":"LUXE FORM LIMITED"},{"lang":"hk","v":"藝坊金屬製品有限公司"}],"company_since":"1988-10-07","company_dissolved":"1999-09-29","company_type_txt":"Private, ltd by shares"},

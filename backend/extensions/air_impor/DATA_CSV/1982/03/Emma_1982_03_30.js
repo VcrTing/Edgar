@@ -1,0 +1,3 @@
+{"tax_id":"110349","names":[{"lang":"en","v":"INBAR LIMITED (d1983-10-07)"}],"company_since":"1982-03-30","company_dissolved":"1983-10-07","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"110397","names":[{"lang":"en","v":"LEE FUNG HONG (INTERNATIONAL) FUTURES LIMITED"},{"lang":"hk","v":"利豐行(國際)期貨有限公司"}],"company_since":"1982-03-30","company_dissolved":"2005-12-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"110403","names":[{"lang":"en","v":"LLANDAFF COMPANY LIMITED"}],"company_since":"1982-03-30","company_dissolved":"2003-01-24","company_type_txt":"Private, ltd by shares"},

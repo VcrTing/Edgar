@@ -1,0 +1,5 @@
+{"tax_id":"176135","names":[{"lang":"en","v":"HOI AN COMPANY LIMITED"},{"lang":"hk","v":"海晏有限公司"}],"company_since":"1986-10-07","company_dissolved":"1997-02-28","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"175990","names":[{"lang":"en","v":"GLYNHILL LIMITED"}],"company_since":"1986-10-07","company_dissolved":"1994-02-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"176111","names":[{"lang":"en","v":"HOMATE LIMITED"},{"lang":"hk","v":"浩盟有限公司"}],"company_since":"1986-10-07","company_dissolved":"2005-06-17","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"176019","names":[{"lang":"en","v":"KARRE DEVELOPMENT LIMITED"}],"company_since":"1986-10-07","company_dissolved":"2016-01-29","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"175977","names":[{"lang":"en","v":"WALLON PACKAGING MATERIALS INTERNATIONAL LIMITED"},{"lang":"hk","v":"華龍包裝器材國際有限公司"}],"company_since":"1986-10-07","company_dissolved":"1994-01-14","company_type_txt":"Private, ltd by shares"},

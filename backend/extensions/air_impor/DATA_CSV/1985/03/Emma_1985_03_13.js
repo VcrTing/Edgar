@@ -1,0 +1,1 @@
+{"tax_id":"148310","names":[{"lang":"en","v":"ZHONG SHAN COMPANY LIMITED (HK)"},{"lang":"hk","v":"鍾山有限公司"}],"company_since":"1985-03-13","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

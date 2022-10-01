@@ -1,0 +1,1 @@
+{"tax_id":"64523","names":[{"lang":"en","v":"YALEY LIMITED (d1997-12-02)"},{"lang":"hk","v":"雅禮有限公司"}],"company_since":"1978-10-13","company_dissolved":"1997-12-02","company_type_txt":"Private, ltd by shares"},

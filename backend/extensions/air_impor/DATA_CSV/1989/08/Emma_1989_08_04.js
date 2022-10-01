@@ -1,0 +1,3 @@
+{"tax_id":"260415","names":[{"lang":"en","v":"EXCELLENT TIME DEVELOPMENT LIMITED (d1997-03-30)"}],"company_since":"1989-08-04","company_dissolved":"1997-03-30","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"260426","names":[{"lang":"en","v":"KONWEN LIMITED"},{"lang":"hk","v":"功允有限公司"}],"company_since":"1989-08-04","company_dissolved":"1997-05-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"260367","names":[{"lang":"en","v":"MORAINE LIMITED (d1997-02-21)"},{"lang":"hk","v":"路德有限公司"}],"company_since":"1989-08-04","company_dissolved":"1997-02-21","company_type_txt":"Private, ltd by shares"},

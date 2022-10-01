@@ -1,0 +1,3 @@
+{"tax_id":"266036","names":[{"lang":"en","v":"HONG KONG INTERNATIONAL REAL ESTATE AGENCY LIMITED"},{"lang":"hk","v":"香港國際地產代理有限公司"}],"company_since":"1989-11-10","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"266262","names":[{"lang":"en","v":"WHOLE TEAM DEVELOPMENT LIMITED"},{"lang":"hk","v":"浩全發展有限公司"}],"company_since":"1989-11-10","company_dissolved":"2003-10-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"266164","names":[{"lang":"en","v":"PETRO STAR LIMITED"}],"company_since":"1989-11-10","company_dissolved":"2003-10-10","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,2 @@
+{"tax_id":"258272","names":[{"lang":"en","v":"PUBLINK MANAGEMENT LIMITED"},{"lang":"hk","v":"綜合管理有限公司"}],"company_since":"1989-07-14","company_dissolved":"1996-06-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"258105","names":[{"lang":"en","v":"WIN PROFILE INDUSTRIES LIMITED"},{"lang":"hk","v":"鉅熙實業有限公司"}],"company_since":"1989-07-14","company_dissolved":"2017-05-26","company_type_txt":"Private, ltd by shares"},

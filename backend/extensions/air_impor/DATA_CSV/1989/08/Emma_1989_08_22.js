@@ -1,0 +1,1 @@
+{"tax_id":"261726","names":[{"lang":"en","v":"HANISON CONSTRUCTION COMPANY LIMITED"},{"lang":"hk","v":"興勝建築有限公司"}],"company_since":"1989-08-22","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

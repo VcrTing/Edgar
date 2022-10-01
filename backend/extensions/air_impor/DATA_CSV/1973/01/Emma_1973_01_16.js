@@ -1,0 +1,4 @@
+{"tax_id":"31521","names":[{"lang":"en","v":"VALE FINANCE COMPANY LIMITED (THE)"},{"lang":"hk","v":"永利財務有限公司"}],"company_since":"1973-01-16","company_dissolved":"1986-10-14","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"31512","names":[{"lang":"en","v":"ZOREN TRADERS LIMITED"}],"company_since":"1973-01-16","company_dissolved":"1976-11-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"31469","names":[{"lang":"en","v":"WINCKLE INVESTMENTS LIMITED"},{"lang":"hk","v":"永高財務有限公司"}],"company_since":"1973-01-16","company_dissolved":"1982-08-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"31477","names":[{"lang":"en","v":"WELLINGTON TRAVELS AND TOURS LIMITED"}],"company_since":"1973-01-16","company_dissolved":"1995-09-29","company_type_txt":"Private, ltd by shares"},

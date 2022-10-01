@@ -1,0 +1,1 @@
+{"tax_id":"291749","names":[{"lang":"en","v":"UNISOUND SOCIAL SERVICE CENTRE LIMITED"},{"lang":"hk","v":"世音社會服務中心有限公司"}],"company_since":"1990-11-16","company_dissolved":"","company_type_txt":"Ltd by guarantee"},

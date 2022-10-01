@@ -1,0 +1,1 @@
+{"tax_id":"241893","names":[{"lang":"en","v":"CONBEST INDUSTRIES LIMITED"},{"lang":"hk","v":"康佳實業有限公司"}],"company_since":"1989-02-15","company_dissolved":"2010-12-03","company_type_txt":"Private, ltd by shares"},

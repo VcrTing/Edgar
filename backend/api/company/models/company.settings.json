@@ -1,0 +1,65 @@
+{
+  "kind": "collectionType",
+  "collectionName": "companies",
+  "info": {
+    "name": "company",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "tax_id": {
+      "type": "string"
+    },
+    "company_type": {
+      "type": "integer"
+    },
+    "last_tax_filing_time": {
+      "type": "datetime"
+    },
+    "phones": {
+      "type": "json"
+    },
+    "emails": {
+      "type": "json"
+    },
+    "names": {
+      "type": "json"
+    },
+    "user": {
+      "via": "companies",
+      "plugin": "users-permissions",
+      "model": "user"
+    },
+    "company_since": {
+      "type": "date"
+    },
+    "status": {
+      "type": "boolean",
+      "default": true
+    },
+    "remind": {
+      "via": "company",
+      "model": "remind"
+    },
+    "company_type_txt": {
+      "type": "string"
+    },
+    "sends": {
+      "via": "company",
+      "collection": "send"
+    },
+    "level": {
+      "type": "integer",
+      "default": 5
+    },
+    "agreement": {
+      "type": "component",
+      "repeatable": false,
+      "component": "agree.agreement"
+    }
+  }
+}

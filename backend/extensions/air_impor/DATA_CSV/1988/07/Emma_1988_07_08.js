@@ -1,0 +1,6 @@
+{"tax_id":"220309","names":[{"lang":"en","v":"PRESENT MILES LIMITED"},{"lang":"hk","v":"現程有限公司"}],"company_since":"1988-07-08","company_dissolved":"2003-02-14","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"220411","names":[{"lang":"en","v":"PO PO (INFANT SHOES) FACTORY LIMITED"},{"lang":"hk","v":"寳寳(嬰兒鞋廠)有限公司"}],"company_since":"1988-07-08","company_dissolved":"1996-05-31","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"220612","names":[{"lang":"en","v":"MULTI-BILLION INVESTMENTS LIMITED"},{"lang":"hk","v":"億萬金投資有限公司"}],"company_since":"1988-07-08","company_dissolved":"1999-02-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"220350","names":[{"lang":"en","v":"TRIMSON LIMITED (d2007-04-04)"},{"lang":"hk","v":"正旋有限公司"}],"company_since":"1988-07-08","company_dissolved":"2007-04-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"220476","names":[{"lang":"en","v":"TOHO SHOJI (H.K.) LIMITED"},{"lang":"hk","v":"東寶產業(香港)有限公司"}],"company_since":"1988-07-08","company_dissolved":"2020-07-24","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"220405","names":[{"lang":"en","v":"TRENDWISE INDUSTRIAL LIMITED"},{"lang":"hk","v":"暢途實業有限公司"}],"company_since":"1988-07-08","company_dissolved":"1997-04-25","company_type_txt":"Private, ltd by shares"},

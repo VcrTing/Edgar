@@ -1,0 +1,5 @@
+{"tax_id":"89502","names":[{"lang":"en","v":"JIMSHING LINES LIMITED"},{"lang":"hk","v":"振興航業有限公司"}],"company_since":"1980-11-21","company_dissolved":"1996-09-27","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"89580","names":[{"lang":"en","v":"MESUNPO KITCHENWARE LIMITED"},{"lang":"hk","v":"美信寶廚房用品有限公司"}],"company_since":"1980-11-21","company_dissolved":"1996-08-03","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"89543","names":[{"lang":"en","v":"RICHBEST COMPANY LIMITED"}],"company_since":"1980-11-21","company_dissolved":"1996-11-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"89597","names":[{"lang":"en","v":"LONIHAND PROMOTIONS LIMITED"}],"company_since":"1980-11-21","company_dissolved":"1994-09-30","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"89535","names":[{"lang":"en","v":"KONPHA LIMITED"},{"lang":"hk","v":"港化工業有限公司"}],"company_since":"1980-11-21","company_dissolved":"1998-05-15","company_type_txt":"Private, ltd by shares"},

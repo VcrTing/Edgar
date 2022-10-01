@@ -1,0 +1,3 @@
+{"tax_id":"230842","names":[{"lang":"en","v":"SENIOR WIN DEVELOPMENT LIMITED"},{"lang":"hk","v":"世合發展有限公司"}],"company_since":"1988-10-21","company_dissolved":"1997-05-30","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"230885","names":[{"lang":"en","v":"KING LIFT ENGINEERING COMPANY LIMITED"},{"lang":"hk","v":"勁力機電工程有限公司"}],"company_since":"1988-10-21","company_dissolved":"2001-10-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"230724","names":[{"lang":"en","v":"THOMAS AMERICA RADIO LIMITED"}],"company_since":"1988-10-21","company_dissolved":"1993-11-10","company_type_txt":"Private, ltd by shares"},

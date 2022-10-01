@@ -1,0 +1,6 @@
+{"tax_id":"109294","names":[{"lang":"en","v":"SOVEREIGN CORPORATE SERVICES LIMITED"}],"company_since":"1982-03-02","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"109321","names":[{"lang":"en","v":"SYNERCO LIMITED"}],"company_since":"1982-03-02","company_dissolved":"2009-11-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"109319","names":[{"lang":"en","v":"TYEN ASSOCIATES (MANAGEMENT CONSULTANTS) LIMITED"},{"lang":"hk","v":"田耕熹管理顧問有限公司"}],"company_since":"1982-03-02","company_dissolved":"2002-10-11","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"109367","names":[{"lang":"en","v":"WIDE LINK TEXTILES COMPANY LIMITED"},{"lang":"hk","v":"緯綸棉業有限公司"}],"company_since":"1982-03-02","company_dissolved":"2001-02-23","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"109353","names":[{"lang":"en","v":"U T P (SECRETARIES) LIMITED"}],"company_since":"1982-03-02","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"109347","names":[{"lang":"en","v":"NUTARCHUN MEAT EXPORTERS LIMITED"}],"company_since":"1982-03-02","company_dissolved":"1998-03-10","company_type_txt":"Private, ltd by shares"},

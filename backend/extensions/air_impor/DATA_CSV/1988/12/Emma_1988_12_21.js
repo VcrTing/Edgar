@@ -1,0 +1,4 @@
+{"tax_id":"236532","names":[{"lang":"en","v":"FIRST HORN LIMITED"},{"lang":"hk","v":"首高有限公司"}],"company_since":"1988-12-21","company_dissolved":"2009-02-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"236741","names":[{"lang":"en","v":"WINSKILL INVESTMENT LIMITED"},{"lang":"hk","v":"壯興投資有限公司"}],"company_since":"1988-12-21","company_dissolved":"2003-11-28","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"236851","names":[{"lang":"en","v":"T.I.A. DEVELOPMENT LIMITED"}],"company_since":"1988-12-21","company_dissolved":"1999-11-19","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"236530","names":[{"lang":"en","v":"SHIOMITSU TRADING LIMITED"},{"lang":"hk","v":"吉祥貿易有限公司"}],"company_since":"1988-12-21","company_dissolved":"1994-06-24","company_type_txt":"Private, ltd by shares"},

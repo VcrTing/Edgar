@@ -1,0 +1,1 @@
+{"tax_id":"287469","names":[{"lang":"en","v":"OVER PROFIT LIMITED (d1998-10-16)"},{"lang":"hk","v":"秋潤有限公司"}],"company_since":"1990-09-18","company_dissolved":"1998-10-16","company_type_txt":"Private, ltd by shares"},

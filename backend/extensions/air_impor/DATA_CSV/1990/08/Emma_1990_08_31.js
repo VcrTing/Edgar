@@ -1,0 +1,5 @@
+{"tax_id":"286275","names":[{"lang":"en","v":"PREMIUM RICH INVESTMENTS LIMITED"},{"lang":"hk","v":"恒爾投資有限公司"}],"company_since":"1990-08-31","company_dissolved":"2001-03-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"286165","names":[{"lang":"en","v":"HONESTAR DEVELOPMENTS LIMITED"},{"lang":"hk","v":"厚誠發展有限公司"}],"company_since":"1990-08-31","company_dissolved":"2002-05-11","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"286301","names":[{"lang":"en","v":"REGENT VICTORY INVESTMENTS LIMITED"},{"lang":"hk","v":"展信投資有限公司"}],"company_since":"1990-08-31","company_dissolved":"2003-11-28","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"286134","names":[{"lang":"en","v":"HAPPY BOAT SHIPPING COMPANY LIMITED"},{"lang":"hk","v":"開心寶船務有限公司"}],"company_since":"1990-08-31","company_dissolved":"1998-11-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"286184","names":[{"lang":"en","v":"SALCOM ASIA LIMITED"}],"company_since":"1990-08-31","company_dissolved":"2003-07-18","company_type_txt":"Private, ltd by shares"},

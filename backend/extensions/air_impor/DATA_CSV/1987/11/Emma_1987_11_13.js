@@ -1,0 +1,7 @@
+{"tax_id":"203579","names":[{"lang":"en","v":"DAILY COINS LIMITED"},{"lang":"hk","v":"常寶有限公司"}],"company_since":"1987-11-13","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"203584","names":[{"lang":"en","v":"DAILY STYLE LIMITED"},{"lang":"hk","v":"常彩有限公司"}],"company_since":"1987-11-13","company_dissolved":"2008-03-20","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"203632","names":[{"lang":"en","v":"DAILY IMAGE LIMITED"},{"lang":"hk","v":"常麗有限公司"}],"company_since":"1987-11-13","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"203499","names":[{"lang":"en","v":"YORK KING INDUSTRIAL LIMITED"},{"lang":"hk","v":"銳勤實業有限公司"}],"company_since":"1987-11-13","company_dissolved":"2003-10-10","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"203330","names":[{"lang":"en","v":"WING LUEN DIE CASTING FACTORY LIMITED"},{"lang":"hk","v":"永聯壓鑄廠有限公司"}],"company_since":"1987-11-13","company_dissolved":"2015-10-16","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"203477","names":[{"lang":"en","v":"WELL HOPE INDUSTRIAL LIMITED (d2006-06-28)"},{"lang":"hk","v":"威合實業有限公司"}],"company_since":"1987-11-13","company_dissolved":"2006-06-28","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"203388","names":[{"lang":"en","v":"ZEN INTERNATIONAL (FOOD &amp; BEVERAGE) LIMITED"}],"company_since":"1987-11-13","company_dissolved":"2019-09-13","company_type_txt":"Private, ltd by shares"},

@@ -1,0 +1,2 @@
+{"tax_id":"49777","names":[{"lang":"en","v":"Y E S INTERNATIONAL SHIPPING (HONG KONG) LIMITED"}],"company_since":"1976-10-19","company_dissolved":"2003-09-05","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"49780","names":[{"lang":"en","v":"YEN OI EDUCATIONAL ENTERPRISES LIMITED"},{"lang":"hk","v":"仁愛教育事業有限公司"}],"company_since":"1976-10-19","company_dissolved":"2003-09-05","company_type_txt":"Private, ltd by shares"},

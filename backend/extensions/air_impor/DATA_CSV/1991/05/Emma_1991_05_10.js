@@ -1,0 +1,1 @@
+{"tax_id":"SO0000071","names":[{"lang":"en","v":"HONG KONG INSTITUTE OF PLANNERS (THE)"},{"lang":"hk","v":"香港規劃師學會"}],"company_since":"1991-05-10","company_dissolved":"","company_type_txt":"Inc by ordinance"},

@@ -1,0 +1,6 @@
+{"tax_id":"169140","names":[{"lang":"en","v":"TOP SUCCESS DEVELOPMENT LIMITED"},{"lang":"hk","v":"向捷發展有限公司"}],"company_since":"1986-05-09","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"169040","names":[{"lang":"en","v":"TOP CYCLE JEWELLERY COMPANY LIMITED"},{"lang":"hk","v":"雄氏珠寶有限公司"}],"company_since":"1986-05-09","company_dissolved":"2002-09-13","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"169175","names":[{"lang":"en","v":"WEALTH SOURCE COMPANY LIMITED"},{"lang":"hk","v":"優滙有限公司"}],"company_since":"1986-05-09","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"169061","names":[{"lang":"en","v":"WYTECH COMPANY LIMITED"},{"lang":"hk","v":"偉達富家電器有限公司"}],"company_since":"1986-05-09","company_dissolved":"1999-04-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"169033","names":[{"lang":"en","v":"TANEASE LIMITED"},{"lang":"hk","v":"景誼有限公司"}],"company_since":"1986-05-09","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"169147","names":[{"lang":"en","v":"STARART COMPANY LIMITED"},{"lang":"hk","v":"啟藝有限公司"}],"company_since":"1986-05-09","company_dissolved":"2002-05-24","company_type_txt":"Private, ltd by shares"},

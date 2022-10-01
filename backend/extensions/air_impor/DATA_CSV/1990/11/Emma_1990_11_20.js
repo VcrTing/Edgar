@@ -1,0 +1,1 @@
+{"tax_id":"292060","names":[{"lang":"en","v":"JASPER WATCH &amp; JEWELLERY LIMITED"},{"lang":"hk","v":"積柏鐘錶珠寶有限公司"}],"company_since":"1990-11-20","company_dissolved":"2006-07-07","company_type_txt":"Private, ltd by shares"},

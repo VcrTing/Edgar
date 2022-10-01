@@ -1,0 +1,6 @@
+{"tax_id":"77047","names":[{"lang":"en","v":"UNCLE CHARLIE (H.K.) LIMITED"}],"company_since":"1980-01-04","company_dissolved":"1994-08-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"77017","names":[{"lang":"en","v":"UNIBUILD INTERNATIONAL LIMITED"}],"company_since":"1980-01-04","company_dissolved":"1991-04-26","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"77061","names":[{"lang":"en","v":"UNIPROSPER LIMITED (d1997-12-12)"},{"lang":"hk","v":"鈞聯有限公司"}],"company_since":"1980-01-04","company_dissolved":"1997-12-12","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"77095","names":[{"lang":"en","v":"VENETO FINANCE LIMITED"},{"lang":"hk","v":"雲度財務有限公司"}],"company_since":"1980-01-04","company_dissolved":"1998-04-24","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"77064","names":[{"lang":"en","v":"UPTROL LIMITED"},{"lang":"hk","v":"溢盛有限公司"}],"company_since":"1980-01-04","company_dissolved":"1996-11-29","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"77023","names":[{"lang":"en","v":"Y. Y. YANG COMPANY LIMITED"},{"lang":"hk","v":"楊柔英有限公司"}],"company_since":"1980-01-04","company_dissolved":"","company_type_txt":"Private, ltd by shares"},

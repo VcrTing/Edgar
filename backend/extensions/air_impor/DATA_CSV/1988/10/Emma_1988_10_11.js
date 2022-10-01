@@ -1,0 +1,3 @@
+{"tax_id":"229786","names":[{"lang":"en","v":"GREAT LONG INDUSTRIES LIMITED"},{"lang":"hk","v":"吉偉實業有限公司"}],"company_since":"1988-10-11","company_dissolved":"1997-05-30","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"229817","names":[{"lang":"en","v":"GOLDBUILD INDUSTRIAL LIMITED"},{"lang":"hk","v":"金建實業有限公司"}],"company_since":"1988-10-11","company_dissolved":"1996-06-28","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"229762","names":[{"lang":"en","v":"SHEKOU PIONEER (H.K.) LIMITED"},{"lang":"hk","v":"蛇口開源(香港)有限公司"}],"company_since":"1988-10-11","company_dissolved":"1998-08-07","company_type_txt":"Private, ltd by shares"},

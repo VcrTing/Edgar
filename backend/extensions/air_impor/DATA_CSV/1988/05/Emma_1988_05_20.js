@@ -1,0 +1,4 @@
+{"tax_id":"216590","names":[{"lang":"en","v":"DOUBLE HONOUR DEVELOPMENTS LIMITED"},{"lang":"hk","v":"特好發展有限公司"}],"company_since":"1988-05-20","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"216631","names":[{"lang":"en","v":"JOY TARGET DEVELOPMENT LIMITED"},{"lang":"hk","v":"喜暢發展有限公司"}],"company_since":"1988-05-20","company_dissolved":"2007-02-02","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"216445","names":[{"lang":"en","v":"FOUR SEAS INSURANCE CONSULTANTS LIMITED"},{"lang":"hk","v":"四海保險顧問有限公司"}],"company_since":"1988-05-20","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"216508","names":[{"lang":"en","v":"TREELINK ENTERPRISES LIMITED"}],"company_since":"1988-05-20","company_dissolved":"1999-12-03","company_type_txt":"Private, ltd by shares"},

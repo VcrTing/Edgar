@@ -1,0 +1,3 @@
+{"tax_id":"292533","names":[{"lang":"en","v":"ORCHID DAILY CHEMICAL COMPANY LIMITED"},{"lang":"hk","v":"雅蘭日化有限公司"}],"company_since":"1990-11-27","company_dissolved":"","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"292491","names":[{"lang":"en","v":"UNICO PROPERTIES LIMITED (d1997-08-08)"}],"company_since":"1990-11-27","company_dissolved":"1997-08-08","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"292523","names":[{"lang":"en","v":"MEGALINK INVESTMENTS LIMITED (d2005-11-04)"},{"lang":"hk","v":"領益投資有限公司"}],"company_since":"1990-11-27","company_dissolved":"2005-11-04","company_type_txt":"Private, ltd by shares"},

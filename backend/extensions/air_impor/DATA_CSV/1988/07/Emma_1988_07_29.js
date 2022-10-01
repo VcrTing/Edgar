@@ -1,0 +1,3 @@
+{"tax_id":"222777","names":[{"lang":"en","v":"HOPE HONEST INDUSTRIES LIMITED"},{"lang":"hk","v":"合安實業有限公司"}],"company_since":"1988-07-29","company_dissolved":"2017-08-04","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"222673","names":[{"lang":"en","v":"MULTIPROFIT INDUSTRIES LIMITED"},{"lang":"hk","v":"敏悅實業有限公司"}],"company_since":"1988-07-29","company_dissolved":"1997-03-21","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"222675","names":[{"lang":"en","v":"TRUEMATE INDUSTRIES LIMITED"},{"lang":"hk","v":"錦球實業有限公司"}],"company_since":"1988-07-29","company_dissolved":"1998-06-18","company_type_txt":"Private, ltd by shares"},

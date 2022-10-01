@@ -1,0 +1,1 @@
+{"tax_id":"265162","names":[{"lang":"en","v":"RAINBOWORLD ENTERPRISES (HONG KONG) LIMITED"}],"company_since":"1989-10-27","company_dissolved":"1997-03-14","company_type_txt":"Private, ltd by shares"},

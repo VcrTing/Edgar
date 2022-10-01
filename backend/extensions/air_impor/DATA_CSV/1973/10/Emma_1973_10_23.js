@@ -1,0 +1,1 @@
+{"tax_id":"35884","names":[{"lang":"en","v":"WING KWAN FINANCE COMPANY LIMITED"},{"lang":"hk","v":"榮均財務有限公司"}],"company_since":"1973-10-23","company_dissolved":"1995-05-26","company_type_txt":"Private, ltd by shares"},

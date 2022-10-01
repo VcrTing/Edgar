@@ -1,0 +1,2 @@
+{"tax_id":"231901","names":[{"lang":"en","v":"SING NGAI INDUSTRIES LIMITED"},{"lang":"hk","v":"成毅實業有限公司"}],"company_since":"1988-11-04","company_dissolved":"2016-09-09","company_type_txt":"Private, ltd by shares"},
+{"tax_id":"232045","names":[{"lang":"en","v":"SENSE-UP INVESTMENTS LIMITED"},{"lang":"hk","v":"新的投資有限公司"}],"company_since":"1988-11-04","company_dissolved":"2003-04-25","company_type_txt":"Private, ltd by shares"},
