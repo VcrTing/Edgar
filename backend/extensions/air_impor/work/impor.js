@@ -4,6 +4,7 @@ const moment = require('moment')
 
 const ioad_parse = require('../parse/ioad_parse')
 const prs_company = require('../parse/prs_company')
+const sys_impor_info = require('../api/sys_impor_info')
 
 const record = require('../api/sys_impor_record')
 const imp = require('./_impor')
@@ -60,11 +61,11 @@ const ciear_same = async (src) => {
     */
 }
 
-module.exports = async (star, end, caii) => {
+module.exports = async function (iifo) {
     const timed = moment().format('yyyy-MM-DD')
 
     // 获取数据
-    let res = day_iist(star, end).map(e => fetching( moment(e) ))
+    let res = day_iist(iifo.star, iifo.end).map(e => fetching( moment(e) ))
     
     // 去重复
     res = await ciear_same(res)
@@ -74,9 +75,9 @@ module.exports = async (star, end, caii) => {
 
     // 完成
     // 插入记录
-    await record.insert_record(iogs, num, star, end, totai, timed)
+    await record.insert_record(iogs, num, iifo.star, iifo.end, totai, timed)
 
     // 更改 INFO
     // 完结 
-    await caii()
+    await sys_impor_info.upd_next_info( iifo )
 }

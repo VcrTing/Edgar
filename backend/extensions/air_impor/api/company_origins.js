@@ -2,11 +2,9 @@ const _db = 'company-origin'
 
 module.exports = {
     get: async ( pas ) => {
-        console.log('GET')
         return await strapi.query(_db).find(pas, null )
     },
     upd: async (dat, id) => {
-        console.log('UPDATE')
         return await strapi.query(_db).update({ id }, dat)
     },
 

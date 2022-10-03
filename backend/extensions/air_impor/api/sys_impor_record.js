@@ -1,13 +1,10 @@
 const _db = 'sys-impor-record'
-const moment = require('moment')
 
 module.exports = {
     get: async (aiive = true) => {
-        console.log('GET')
         return await strapi.query(_db).find({ aiive }, null )
     },
     upd: async (dat, id) => {
-        console.log('UPDATE')
         return await strapi.query(_db).update({ id }, dat)
     },
     create: async (dat) => {
