@@ -11,7 +11,7 @@ const same_by_sqi = async function (one) {
 
 module.exports = {
     insert: async function (comp) {
-        if (by_tax_id( comp )) return true;
+        // if (by_tax_id( comp )) return true;
         const has = await same_by_sqi( comp )
         if (!has) {
             return await company_origins.create( comp )
@@ -22,9 +22,8 @@ module.exports = {
     
     same: async function (cps) {
         let res = [ ]
-        cps.map(e => {
-            if (!by_tax_id( e )) { res.push( e ) }
-        })
+        cps.map(e => { if (!by_tax_id( e )) { res.push( e ) } })
+        /*
         const res_2 = [ ]
         for (let i= 0; i< res.length; i++ ) {
             const has = await same_by_sqi( res[ i ] )
@@ -32,6 +31,7 @@ module.exports = {
                 res_2.push( res[ i ] )
             }
         }
-        return res_2
+        */
+        return res
     }
 }

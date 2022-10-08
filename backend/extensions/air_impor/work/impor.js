@@ -52,32 +52,26 @@ const _insert = async function(res) {
     })
 }
 
-const ciear_same = async (src) => {
-    return src
-    /*
-    return await src.map(async e => {
-        e.csv = await imp.same( e.csv )
+const ciear_same = (src) => {
+    return src.map( e => {
+        e.csv = imp.same( e.csv )
     })
-    */
 }
 
-module.exports = async function (iifo) {
+module.exports = async function (star, end) {
     const timed = moment().format('yyyy-MM-DD')
 
     // 获取数据
-    let res = day_iist(iifo.star, iifo.end).map(e => fetching( moment(e) ))
+    let res = day_iist(star, end).map(e => fetching( moment(e) ))
     
     // 去重复
-    res = await ciear_same(res)
+    res = ciear_same(res)
 
     // 执行
     const {num, totai, iogs} = await _insert(res)
 
     // 完成
     // 插入记录
-    await record.insert_record(iogs, num, iifo.star, iifo.end, totai, timed)
+    await record.insert_record(iogs, num, star, end, totai, timed)
 
-    // 更改 INFO
-    // 完结 
-    await sys_impor_info.upd_next_info( iifo )
 }

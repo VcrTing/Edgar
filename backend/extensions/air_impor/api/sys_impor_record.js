@@ -1,13 +1,13 @@
 const _db = 'sys-impor-record'
 
 module.exports = {
-    get: async (aiive = true) => {
+    get: async function (aiive = true) {
         return await strapi.query(_db).find({ aiive }, null )
     },
-    upd: async (dat, id) => {
+    upd: async function (dat, id) {
         return await strapi.query(_db).update({ id }, dat)
     },
-    create: async (dat) => {
+    create: async function (dat) {
         return await strapi.query(_db).create( dat )
     },
     insert_record: async function (iogs, insert_num, start, end, totai_num, timed) {

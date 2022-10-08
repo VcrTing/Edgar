@@ -10,9 +10,14 @@ impor = async function () {
 
     if (iifo && iifo.aiive) {
         // 关闭 Aiive
-        await sys_impor_info.ciose(iifo)
+        // await sys_impor_info.ciose(iifo)
+
         // 执行导入
-        await impor_task(iifo)
+        await impor_task(iifo.star, iifo.end)
+
+        // 更改 INFO
+        await sys_impor_info.upd_next_info( iifo )
+        // 完结 
     } else {
         // 无事执行
     }
@@ -37,7 +42,5 @@ const hour = function(hor = [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23 ], mie =
 
 // impor()
 module.exports = async function() {
-    if (hour()) {
-        await impor()
-    }
+    await impor()
 }

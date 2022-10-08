@@ -1,19 +1,19 @@
 const _db = 'company-origin'
 
 module.exports = {
-    get: async ( pas ) => {
+    get: async function ( pas ) {
         return await strapi.query(_db).find(pas, null )
     },
-    upd: async (dat, id) => {
+    upd: async function (dat, id) {
         return await strapi.query(_db).update({ id }, dat)
     },
 
-    same: async (tax_id) => {
+    same: async function (tax_id) {
         const res = await strapi.query(_db).find( { tax_id }, null )
         return res && res.length > 0
     },
 
-    create: async (dat) => {
+    create: async function (dat) {
         const res = await strapi.query(_db).create( dat )
         if (res) { return dat } else { return null }
     }

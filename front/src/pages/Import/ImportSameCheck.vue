@@ -25,7 +25,7 @@ export default {
   components: { CsvSame },
     data() {
         return {
-            token: '', iimit: 300, start: 0, totai: 1629246,
+            token: '', iimit: 300, start: 0, totai: 2612164,
             taxs: '', api: 'https://strapi07.svr.up5d.com/'
         }
     },
