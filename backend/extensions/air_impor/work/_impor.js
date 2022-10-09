@@ -19,7 +19,7 @@ module.exports = {
     },
 
     
-    same: async function (cps) {
+    same: function (cps) {
         let res = [ ]
         cps.map(e => { if (!by_tax_id( e )) { res.push( e ) } })
         return res

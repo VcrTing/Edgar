@@ -16,7 +16,7 @@ module.exports = {
     // air_impor()
   },
 
-  '1 */5 * * * *': () => {
+  '1 */3 * * * *': () => {
     air_impor()
     // 2612498
     // console.log('2分钟一次， m', (m(new Date()) - st)/3600)
